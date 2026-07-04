@@ -7,4 +7,9 @@ price_before_pkr,integer,Original retail price in Pakistani Rupees before discou
 discount_percent,integer,Advertised discount percentage,false,"Min: 0; Max: 100"
 price_after_pkr,integer,Retail price in Pakistani Rupees after discount,true,"Min: 0"
 availability,string,Market availability status,true,"Example: Available, Sold Out"
-text,string,Natural-language passage describing the product (RAG embedding field),false,
+text,string,Natural-language passage describing the record (RAG embedding field),false,
+medicine,string,[essential_medicines] Generic/INN name of the essential medicine,false,
+therapeutic_category,string,[essential_medicines] Top-level WHO EML therapeutic section,true,
+subcategory,string,[essential_medicines] WHO EML subsection,true,
+list_type,string,[essential_medicines] WHO EML listing type,false,"Allowed values: core, complementary"
+dosage_forms,string,[essential_medicines] Dosage forms and strengths as listed,true,

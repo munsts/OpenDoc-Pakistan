@@ -1,0 +1,7 @@
+name,type,description,nullable,constraints
+province,string,Pakistani province,false,"Allowed values: Punjab, Sindh, Khyber Pakhtunkhwa, Balochistan"
+indicator_code,string,Short indicator key,false,"Allowed values: stunting, wasting, underweight, bcg, measles, basic_vaccination, no_vaccination"
+indicator_name,string,Human-readable indicator description,false,
+year,integer,Survey reference year,false,"Value: 2018"
+value,number,Indicator value in percent,false,"Min: 0; Max: 100"
+unit,string,Unit of measure,false,"Value: percent"

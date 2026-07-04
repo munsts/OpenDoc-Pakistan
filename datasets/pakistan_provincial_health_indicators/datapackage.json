@@ -1,0 +1,35 @@
+{
+  "name": "pakistan-provincial-health-indicators",
+  "title": "Pakistan Provincial Child Health Indicators (PDHS 2017-18)",
+  "description": "Province-level child nutrition (stunting, wasting, underweight) and childhood immunization coverage (BCG, measles, all-basic, none) for Pakistan's four main provinces, from the Pakistan Demographic and Health Survey (PDHS) 2017-18. Fills the sub-national gap left by national-aggregate indicator series.",
+  "version": "1.0.0",
+  "keywords": ["nutrition", "stunting", "wasting", "immunization", "vaccination", "provincial", "pdhs", "children", "pakistan"],
+  "homepage": "https://github.com/opendoc-pakistan/pakistan-provincial-health-indicators",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "resources": [
+    {
+      "name": "provincial_health_indicators",
+      "path": "data/processed/provincial_health_indicators.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {"name": "province", "type": "string", "description": "Pakistani province."},
+          {"name": "indicator_code", "type": "string", "description": "Short indicator key."},
+          {"name": "indicator_name", "type": "string", "description": "Human-readable indicator description."},
+          {"name": "year", "type": "integer", "description": "Survey reference year (2018 for PDHS 2017-18)."},
+          {"name": "value", "type": "number", "description": "Indicator value (percent)."},
+          {"name": "unit", "type": "string", "description": "Unit of measure."}
+        ],
+        "primaryKey": ["province", "indicator_code"]
+      }
+    }
+  ]
+}

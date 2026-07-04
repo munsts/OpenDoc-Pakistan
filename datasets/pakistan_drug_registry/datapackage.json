@@ -1,9 +1,9 @@
 {
   "name": "pakistan-drug-registry",
   "title": "Pakistan Pharmaceutical Product Registry (RAG Corpus)",
-  "description": "A retrieval-augmented-generation (RAG) ready corpus of pharmaceutical products marketed in Pakistan, with retail prices, pack sizes, and market availability. Shipped as JSONL (one embeddable passage + structured metadata per product) and an equivalent flat CSV. Sourced from Open Data Pakistan.",
-  "version": "1.0.0",
-  "keywords": ["drugs", "medicines", "pharmaceutical", "prices", "rag", "healthcare", "pakistan"],
+  "description": "A retrieval-augmented-generation (RAG) ready corpus of medicines relevant to Pakistan. Two parts: (1) marketed pharmaceutical products with retail prices, pack sizes and availability; (2) Pakistan's National Essential Medicines List (WHO Model List, 23rd List 2023) with therapeutic category, listing type and dosage forms/strengths. Each part ships as JSONL (embeddable passage + structured metadata) plus a flat CSV twin.",
+  "version": "1.1.0",
+  "keywords": ["drugs", "medicines", "pharmaceutical", "prices", "essential-medicines", "who", "rag", "healthcare", "pakistan"],
   "homepage": "https://github.com/opendoc-pakistan/pakistan-drug-registry",
   "licenses": [
     {
@@ -13,6 +13,40 @@
     }
   ],
   "resources": [
+    {
+      "name": "essential_medicines_rag",
+      "path": "data/processed/essential_medicines.jsonl",
+      "profile": "data-resource",
+      "format": "jsonl",
+      "mediatype": "application/x-ndjson",
+      "description": "RAG corpus of Pakistan's National Essential Medicines List. One JSON object per line: {id, text, metadata{medicine, therapeutic_category, subcategory, list_type, dosage_forms, country, source}}. Source: Pakistan gazette S.R.O. 1423(I)/2023 adopting the WHO Model List of Essential Medicines (23rd List, 2023).",
+      "schema": {
+        "fields": [
+          {"name": "id", "type": "string"},
+          {"name": "text", "type": "string"},
+          {"name": "metadata", "type": "object"}
+        ]
+      }
+    },
+    {
+      "name": "essential_medicines",
+      "path": "data/processed/essential_medicines.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {"name": "id", "type": "string"},
+          {"name": "medicine", "type": "string"},
+          {"name": "therapeutic_category", "type": "string"},
+          {"name": "subcategory", "type": "string"},
+          {"name": "list_type", "type": "string"},
+          {"name": "dosage_forms", "type": "string"},
+          {"name": "text", "type": "string"}
+        ],
+        "primaryKey": ["id"]
+      }
+    },
     {
       "name": "drug_registry_rag",
       "path": "data/processed/drug_registry.jsonl",

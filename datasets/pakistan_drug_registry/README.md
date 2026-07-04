@@ -2,7 +2,12 @@
 
 ## Summary
 
-A retrieval-augmented-generation (RAG) ready corpus of pharmaceutical products marketed in Pakistan, including retail prices (before/after discount), pack sizes, manufacturers, and market availability. It ships in two equivalent formats: a **JSONL** corpus (one embeddable passage plus structured metadata per product) for RAG / vector-search pipelines, and a **flat CSV** for tabular ML and quick validation. This is the reference dataset defining OpenDoc's RAG corpus convention.
+A retrieval-augmented-generation (RAG) ready corpus of medicines relevant to Pakistan, in **two parts**:
+
+1. **Marketed products** — pharmaceutical products sold in Pakistan with retail prices (before/after discount), pack sizes, manufacturers, and market availability (321 products).
+2. **Essential medicines** — Pakistan's National Essential Medicines List (WHO Model List, 23rd List 2023), with therapeutic category, listing type (core/complementary), and dosage forms/strengths (398 medicines).
+
+Each part ships in two equivalent formats: a **JSONL** corpus (one embeddable passage plus structured metadata per record) for RAG / vector-search pipelines, and a **flat CSV** for tabular ML and quick validation. This is the reference dataset defining OpenDoc's RAG corpus convention.
 
 ## Dataset Details
 
@@ -13,8 +18,9 @@ A retrieval-augmented-generation (RAG) ready corpus of pharmaceutical products m
 - **Language**: `English`
 - **Geography**: `Pakistan`
 - **File Formats**: `JSONL`, `CSV`
-- **Records**: `321 unique products across 83 companies`
-- **Update Frequency**: `Irregular (as source is refreshed)`
+- **Records**: `321 marketed products (83 companies) + 398 essential medicines (19 therapeutic categories)`
+- **Version**: `1.1.0`
+- **Update Frequency**: `Irregular (as sources are refreshed)`
 - **Maintainer**: `OpenDoc Data Stewardship Team`
 
 ## Source and Provenance
@@ -30,12 +36,12 @@ A retrieval-augmented-generation (RAG) ready corpus of pharmaceutical products m
 
 ## License
 
-- **Original License**: MIT License (as declared on the upstream Kaggle source).
-- **Repository License**: MIT License (retained from source).
+- **Marketed products** — Original License: MIT (as declared on the upstream Kaggle source). Redistributed under MIT.
+- **Essential medicines** — Source: Government of Pakistan gazette notification S.R.O. 1423(I)/2023 (public statutory notification) adopting the WHO Model List of Essential Medicines. WHO Model List content is © WHO, reproduced here for reference from the public gazette; WHO material is generally reusable with attribution under WHO's terms.
 - **Attribution Required**: Yes
-- **Commercial Use**: Allowed
+- **Commercial Use**: Allowed (marketed-products part under MIT)
 - **Redistribution**: Allowed
-- **Restrictions**: Must retain the MIT notice and credit Talha Sattar, Open Data Pakistan, and OpenDoc Pakistan.
+- **Restrictions**: Retain the MIT notice and credit Talha Sattar & Open Data Pakistan (products); credit MoNHSR&C / WHO (essential medicines); and credit OpenDoc Pakistan.
 
 ## Intended Use
 
@@ -52,8 +58,15 @@ Appropriate for:
 
 ## Data Structure
 
+Marketed products (source: Open Data Pakistan / Kaggle, MIT):
 - `data/processed/drug_registry.jsonl` — one JSON object per line: `{id, text, metadata{product_name, company, pack_size, price_before_pkr, discount_percent, price_after_pkr, availability, country, source}}`.
 - `data/processed/drug_registry.csv` — flat equivalent with the metadata fields plus the `text` column.
+
+Essential medicines (source: Pakistan gazette S.R.O. 1423(I)/2023 adopting the WHO Model List of Essential Medicines, 23rd List 2023):
+- `data/processed/essential_medicines.jsonl` — `{id, text, metadata{medicine, therapeutic_category, subcategory, list_type, dosage_forms, country, source}}`.
+- `data/processed/essential_medicines.csv` — flat equivalent.
+
+The essential-medicines part was extracted from the WHO-hosted PDF of the Pakistan NEML gazette using automated PDF parsing (firecrawl `parse`), then structured by therapeutic section.
 
 ## Data Dictionary
 
@@ -77,8 +90,9 @@ See [data_dictionary.csv](data_dictionary.csv).
 
 ## Bias, Gaps, and Limitations
 
-- Coverage is limited to products present in the source snapshot; not exhaustive of the Pakistani market.
-- No therapeutic/composition metadata — enrichment from the DRAP essential-medicines gazette (PDF, via OCR) is a planned future version.
+- Marketed-products coverage is limited to the source snapshot; not exhaustive of the Pakistani market.
+- The marketed-products and essential-medicines parts are not cross-linked (brand↔generic mapping is out of scope for this version).
+- Essential-medicines entries were extracted via automated PDF parsing; dosage-form strings are as-listed and may contain minor OCR/formatting artefacts.
 
 ## Example Usage
 
