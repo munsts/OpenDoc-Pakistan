@@ -1,0 +1,34 @@
+{
+  "name": "pakistan-disease-surveillance",
+  "title": "Pakistan Disease Surveillance and Immunization Coverage (Time Series)",
+  "description": "Long-format annual time series of Pakistan's communicable-disease burden and childhood immunization coverage (measles, DPT, hepatitis B, polio, malaria incidence, and HIV prevalence), compiled from the World Bank Open Data / World Development Indicators API.",
+  "version": "1.0.0",
+  "keywords": ["disease", "surveillance", "immunization", "vaccine", "polio", "malaria", "hiv", "measles", "pakistan", "time-series"],
+  "homepage": "https://github.com/opendoc-pakistan/pakistan-disease-surveillance",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "resources": [
+    {
+      "name": "disease_surveillance",
+      "path": "data/processed/disease_surveillance.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {"name": "indicator_code", "type": "string", "description": "World Bank indicator code (e.g. SH.IMM.MEAS)."},
+          {"name": "indicator_name", "type": "string", "description": "Human-readable indicator name."},
+          {"name": "year", "type": "integer", "description": "Observation year (Gregorian)."},
+          {"name": "value", "type": "number", "description": "Observed value for that indicator and year."},
+          {"name": "unit", "type": "string", "description": "Unit of measure for the value."}
+        ],
+        "primaryKey": ["indicator_code", "year"]
+      }
+    }
+  ]
+}

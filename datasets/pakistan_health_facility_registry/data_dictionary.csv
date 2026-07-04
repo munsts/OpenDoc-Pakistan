@@ -1,0 +1,15 @@
+name,type,description,nullable,constraints
+name,string,Facility name,true,
+facility_type,string,Normalised facility type (healthcare tag; falls back to amenity),true,"Example: hospital, clinic, doctors, pharmacy, dentist"
+amenity,string,Raw OpenStreetMap amenity tag,true,
+speciality,string,Medical speciality if tagged,true,
+operator,string,Operating organisation,true,
+operator_type,string,Operator type if tagged,true,"Example: public, private"
+beds,string,Number of beds if tagged,true,
+emergency,string,Emergency services availability if tagged,true,
+address,string,Full address if tagged,true,
+operational_status,string,Operational status if tagged,true,
+longitude,number,Longitude in WGS84 decimal degrees,true,"Min: 60; Max: 78"
+latitude,number,Latitude in WGS84 decimal degrees,true,"Min: 23; Max: 38"
+osm_id,string,OpenStreetMap object identifier,false,
+source,string,Original tagging source if recorded,true,

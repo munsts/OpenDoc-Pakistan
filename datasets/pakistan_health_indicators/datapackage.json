@@ -1,0 +1,34 @@
+{
+  "name": "pakistan-health-indicators",
+  "title": "Pakistan National Health Indicators (Time Series)",
+  "description": "Long-format annual time series of Pakistan's core public-health indicators (life expectancy, infant/child/maternal mortality, immunization coverage, fertility, health expenditure, TB incidence, and more) compiled from the World Bank Open Data / World Development Indicators API.",
+  "version": "1.0.0",
+  "keywords": ["health", "public-health", "indicators", "mortality", "immunization", "life-expectancy", "pakistan", "time-series"],
+  "homepage": "https://github.com/opendoc-pakistan/pakistan-health-indicators",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "resources": [
+    {
+      "name": "health_indicators",
+      "path": "data/processed/health_indicators.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {"name": "indicator_code", "type": "string", "description": "World Bank indicator code (e.g. SP.DYN.LE00.IN)."},
+          {"name": "indicator_name", "type": "string", "description": "Human-readable indicator name."},
+          {"name": "year", "type": "integer", "description": "Observation year (Gregorian)."},
+          {"name": "value", "type": "number", "description": "Observed value for that indicator and year."},
+          {"name": "unit", "type": "string", "description": "Unit of measure for the value."}
+        ],
+        "primaryKey": ["indicator_code", "year"]
+      }
+    }
+  ]
+}

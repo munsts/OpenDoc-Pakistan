@@ -1,0 +1,243 @@
+indicator_code,indicator_name,year,value,unit
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",1990,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",1991,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",1992,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",1993,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",1994,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",1995,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",1996,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",1997,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",1998,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",1999,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2000,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2001,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2002,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2003,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2004,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2005,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2006,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2007,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2008,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2009,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2010,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2011,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2012,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2013,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2014,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2015,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2016,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2017,0.1,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2018,0.2,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2019,0.2,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2020,0.2,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2021,0.2,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2022,0.2,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2023,0.2,percent_ages_15_49
+SH.DYN.AIDS.ZS,"Prevalence of HIV, total (% of population ages 15-49)",2024,0.2,percent_ages_15_49
+SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",2003,62,percent_one_year_olds
+SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",2004,62,percent_one_year_olds
+SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",2005,65,percent_one_year_olds
+SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",2006,60,percent_one_year_olds
+SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",2007,54,percent_one_year_olds
+SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",2008,53,percent_one_year_olds
+SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",2009,52,percent_one_year_olds
+SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",2010,52,percent_one_year_olds
+SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",2011,63,percent_one_year_olds
+SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",2012,64,percent_one_year_olds
+SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",2013,65,percent_one_year_olds
+SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",2014,69,percent_one_year_olds
+SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",2015,72,percent_one_year_olds
+SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",2016,75,percent_one_year_olds
+SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",2017,75,percent_one_year_olds
+SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",2018,80,percent_one_year_olds
+SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",2019,84,percent_one_year_olds
+SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",2020,80,percent_one_year_olds
+SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",2021,83,percent_one_year_olds
+SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",2022,85,percent_one_year_olds
+SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",2023,86,percent_one_year_olds
+SH.IMM.HEPB,"Immunization, HepB3 (% of one-year-old children)",2024,87,percent_one_year_olds
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",1980,2,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",1981,3,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",1982,5,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",1983,15,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",1984,23,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",1985,30,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",1986,34,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",1987,36,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",1988,38,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",1989,40,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",1990,54,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",1991,50,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",1992,42,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",1993,37,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",1994,39,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",1995,58,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",1996,46,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",1997,52,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",1998,54,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",1999,57,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2000,59,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2001,61,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2002,63,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2003,66,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2004,68,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2005,63,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2006,59,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2007,54,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2008,53,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2009,52,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2010,52,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2011,63,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2012,64,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2013,65,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2014,69,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2015,72,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2016,75,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2017,75,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2018,80,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2019,84,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2020,80,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2021,83,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2022,85,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2023,86,percent_children_12_23m
+SH.IMM.IDPT,"Immunization, DPT (% of children ages 12-23 months)",2024,87,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",1980,1,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",1981,2,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",1982,3,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",1983,19,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",1984,33,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",1985,38,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",1986,41,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",1987,43,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",1988,46,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",1989,48,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",1990,50,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",1991,51,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",1992,52,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",1993,52,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",1994,53,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",1995,47,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",1996,50,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",1997,52,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",1998,54,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",1999,56,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2000,57,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2001,59,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2002,60,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2003,62,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2004,63,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2005,61,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2006,59,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2007,57,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2008,56,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2009,56,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2010,57,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2011,59,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2012,63,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2013,68,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2014,71,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2015,75,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2016,75,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2017,76,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2018,79,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2019,81,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2020,83,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2021,81,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2022,82,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2023,84,percent_children_12_23m
+SH.IMM.MEAS,"Immunization, measles (% of children ages 12-23 months)",2024,86,percent_children_12_23m
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",1980,2,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",1981,3,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",1982,5,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",1983,15,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",1984,23,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",1985,30,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",1986,34,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",1987,36,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",1988,38,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",1989,40,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",1990,54,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",1991,50,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",1992,42,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",1993,37,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",1994,39,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",1995,58,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",1996,46,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",1997,52,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",1998,58,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",1999,60,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2000,61,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2001,63,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2002,64,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2003,66,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2004,67,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2005,63,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2006,58,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2007,54,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2008,53,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2009,52,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2010,52,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2011,63,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2012,64,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2013,65,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2014,69,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2015,72,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2016,75,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2017,75,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2018,75,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2019,84,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2020,83,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2021,83,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2022,85,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2023,86,percent_one_year_olds
+SH.IMM.POL3,"Immunization, Pol3 (% of one-year-old children)",2024,87,percent_one_year_olds
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2000,6.08,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2001,6.63,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2002,6.02,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2003,5.63,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2004,4.06,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2005,4.9,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2006,4.82,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2007,4.61,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2008,4.1,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2009,5.32,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2010,7.38,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2011,9.52,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2012,8.09,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2013,6.66,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2014,4.72,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2015,4.68,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2016,4.7,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2017,3.74,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2018,3.16,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2019,2.82,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2020,2.35,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2021,2.15,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2022,11.08,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2023,17.61,per_1000_at_risk
+SH.MLR.INCD.P3,"Incidence of malaria (per 1,000 population at risk)",2024,12.77,per_1000_at_risk
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2000,275,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2001,275,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2002,275,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2003,276,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2004,276,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2005,276,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2006,276,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2007,276,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2008,276,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2009,276,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2010,276,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2011,276,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2012,276,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2013,275,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2014,270,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2015,270,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2016,268,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2017,267,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2018,265,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2019,263,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2020,260,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2021,270,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2022,275,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2023,267,per_100000_people
+SH.TBS.INCD,"Incidence of tuberculosis (per 100,000 people)",2024,266,per_100000_people

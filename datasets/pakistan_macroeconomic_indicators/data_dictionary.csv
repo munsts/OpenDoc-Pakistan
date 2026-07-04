@@ -1,0 +1,8 @@
+name,type,description,nullable,constraints
+year,integer,Calendar year of observation,false,
+gdp_growth_pct,number,Real GDP growth rate percentage,false,
+cpi_inflation_pct,number,Average consumer price index inflation percentage,false,
+exports_billion_usd,number,Total goods and services exports in billions of USD,false,"Min: 0"
+imports_billion_usd,number,Total goods and services imports in billions of USD,false,"Min: 0"
+remittances_billion_usd,number,Worker remittances inflows in billions of USD,false,"Min: 0"
+unemployment_rate_pct,number,Estimated percentage of the labor force that is unemployed,false,"Min: 0, Max: 100"

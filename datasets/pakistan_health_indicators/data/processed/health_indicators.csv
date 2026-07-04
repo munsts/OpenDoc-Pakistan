@@ -1,0 +1,473 @@
+indicator_code,indicator_name,year,value,unit
+SH.DTH.COMM.ZS,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",2000,52.0241577791822,percent_of_total_deaths
+SH.DTH.COMM.ZS,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",2010,44.5878713801873,percent_of_total_deaths
+SH.DTH.COMM.ZS,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",2015,38.1888999785228,percent_of_total_deaths
+SH.DTH.COMM.ZS,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",2019,34.3431916493645,percent_of_total_deaths
+SH.DTH.COMM.ZS,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",2020,37.768489061811,percent_of_total_deaths
+SH.DTH.COMM.ZS,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",2021,37.2884010066938,percent_of_total_deaths
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1960,252.8,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1961,243.5,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1962,235,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1963,226.8,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1964,219.5,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1965,213.1,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1966,207.3,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1967,202.4,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1968,198.1,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1969,194.3,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1970,190.8,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1971,187.5,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1972,184.4,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1973,181.5,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1974,178.9,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1975,176.4,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1976,174.1,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1977,171.9,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1978,169.9,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1979,167.8,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1980,165.7,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1981,163.6,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1982,161.4,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1983,159.1,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1984,156.6,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1985,153.9,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1986,151.3,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1987,148.5,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1988,145.8,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1989,143.1,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1990,140.4,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1991,137.6,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1992,134.6,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1993,131.5,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1994,128.3,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1995,125,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1996,121.5,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1997,117.9,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1998,114.5,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",1999,111.1,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2000,107.9,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2001,105.1,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2002,102.5,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2003,100.1,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2004,98,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2005,96,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2006,94.2,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2007,92.3,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2008,90.5,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2009,88.5,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2010,86.5,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2011,84.3,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2012,82,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2013,79.6,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2014,77.2,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2015,74.8,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2016,72.4,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2017,70.1,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2018,67.9,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2019,65.8,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2020,63.7,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2021,61.7,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2022,59.7,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2023,57.8,per_1000_live_births
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",2024,56,per_1000_live_births
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2000,87.3443263636155,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2001,87.5860762080419,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2002,87.8248146353087,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2003,88.062537100299,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2004,88.2993740055727,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2005,87.9858227113677,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2006,88.1422644667259,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2007,88.3130427829655,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2008,88.4820319386941,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2009,88.6492343131649,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2010,88.8147345072875,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2011,88.978515573403,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2012,89.1405658210321,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2013,89.3007289268109,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2014,89.4591472805659,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2015,89.6158196961384,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2016,89.7707150440618,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2017,89.9237776878555,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2018,90.0758470234098,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2019,90.2267743289886,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2020,90.3763302585524,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2021,90.5243087608224,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2022,90.6704556362056,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2023,90.6815872292919,percent_of_population
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),2024,90.6932992273275,percent_of_population
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",1960,0.55726158618927,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",1970,0.520799994468689,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",1975,0.526300013065338,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",1980,0.573099970817566,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",1981,0.5692999958992,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",1986,0.599500000476837,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",1989,0.604300022125244,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",1990,0.6399999857,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",1991,0.6521999836,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",1992,0.6446999907,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",1993,0.6514999866,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2000,0.49,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2001,0.5,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2002,0.49,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2003,0.48,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2004,0.48,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2005,0.47,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2006,0.46,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2007,0.46,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2008,0.44,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2009,0.43,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2010,0.42,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2011,0.43,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2012,0.45,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2013,0.47,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2014,0.47,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2015,0.46,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2016,0.49,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2017,0.5,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2018,0.5,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2019,0.5,per_1000_people
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",2020,0.63,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",1960,0.185,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",1970,0.232,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",1975,0.233,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",1980,0.285,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",1981,0.344,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",1982,0.342,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",1986,0.351,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",1990,0.462,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",1991,0.48,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",1992,0.486,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",1993,0.496,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",1994,0.506,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",1995,0.518,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",1996,0.536,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",1997,0.551,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",1998,0.564,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",1999,0.579,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2000,0.593,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2001,0.604,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2004,0.679,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2005,0.72,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2007,0.693,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2008,0.707,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2009,0.718,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2010,0.727,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2011,0.748,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2012,0.775,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2013,0.795,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2014,0.818,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2015,0.85,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2016,0.89,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2017,0.932,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2018,0.917,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2019,1.049,per_1000_people
+SH.MED.PHYS.ZS,"Physicians (per 1,000 people)",2021,1.16,per_1000_people
+SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total),1991,17.2,percent_of_births
+SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total),1997,18,percent_of_births
+SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total),1999,18,percent_of_births
+SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total),2001,23,percent_of_births
+SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total),2002,23,percent_of_births
+SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total),2005,31,percent_of_births
+SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total),2006,56,percent_of_births
+SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total),2007,38.8,percent_of_births
+SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total),2008,40,percent_of_births
+SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total),2009,41,percent_of_births
+SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total),2011,43,percent_of_births
+SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total),2012,51,percent_of_births
+SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total),2013,52.1,percent_of_births
+SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total),2015,59,percent_of_births
+SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total),2018,69.3,percent_of_births
+SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total),2019,73.7,percent_of_births
+SH.STA.BRTC.ZS,Births attended by skilled health staff (% of total),2020,68,percent_of_births
+SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2000,11.8,percent_pop_20_79
+SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2011,7.9,percent_pop_20_79
+SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),2024,31.4,percent_pop_20_79
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",1985,432,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",1986,436,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",1987,442,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",1988,441,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",1989,439,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",1990,434,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",1991,443,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",1992,459,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",1993,473,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",1994,479,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",1995,485,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",1996,482,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",1997,476,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",1998,456,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",1999,438,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2000,419,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2001,400,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2002,380,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2003,358,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2004,333,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2005,316,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2006,284,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2007,265,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2008,254,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2009,246,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2010,240,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2011,234,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2012,227,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2013,220,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2014,211,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2015,202,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2016,193,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2017,184,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2018,178,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2019,173,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2020,178,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2021,193,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2022,160,per_100000_live_births
+SH.STA.MMRT,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",2023,155,per_100000_live_births
+SH.STA.STNT.ZS,"Prevalence of stunting, height for age (% of children under 5)",1986,62.5,percent_under5
+SH.STA.STNT.ZS,"Prevalence of stunting, height for age (% of children under 5)",1991,53.9,percent_under5
+SH.STA.STNT.ZS,"Prevalence of stunting, height for age (% of children under 5)",1992,42.7,percent_under5
+SH.STA.STNT.ZS,"Prevalence of stunting, height for age (% of children under 5)",2001,41.4,percent_under5
+SH.STA.STNT.ZS,"Prevalence of stunting, height for age (% of children under 5)",2011,43.6,percent_under5
+SH.STA.STNT.ZS,"Prevalence of stunting, height for age (% of children under 5)",2013,45,percent_under5
+SH.STA.STNT.ZS,"Prevalence of stunting, height for age (% of children under 5)",2018,37.6,percent_under5
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2000,2.48079324,percent_of_gdp
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2001,2.33959723,percent_of_gdp
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2002,2.42219901,percent_of_gdp
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2003,2.10399199,percent_of_gdp
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2004,2.03666282,percent_of_gdp
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2005,2.37323904,percent_of_gdp
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2006,2.73132491,percent_of_gdp
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2007,2.62370729,percent_of_gdp
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2008,2.56806731,percent_of_gdp
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2009,2.49995875,percent_of_gdp
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2010,2.42967653,percent_of_gdp
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2011,2.23121333,percent_of_gdp
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2012,2.22185278,percent_of_gdp
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2013,2.4164784,percent_of_gdp
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2014,2.48899078,percent_of_gdp
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2015,2.49493265,percent_of_gdp
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2016,2.57026362,percent_of_gdp
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2017,2.7863009,percent_of_gdp
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2018,2.82844949,percent_of_gdp
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2019,2.84736943,percent_of_gdp
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2020,2.95273018,percent_of_gdp
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2021,2.99015832,percent_of_gdp
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2022,2.90354776,percent_of_gdp
+SH.XPD.CHEX.GD.ZS,Current health expenditure (% of GDP),2023,2.51988316,percent_of_gdp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2000,57.3422699,percent_of_health_exp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2001,55.79309845,percent_of_health_exp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2002,50.96485519,percent_of_health_exp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2003,60.46445465,percent_of_health_exp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2004,60.75031281,percent_of_health_exp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2005,65.86717224,percent_of_health_exp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2006,72.83744049,percent_of_health_exp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2007,71.69874573,percent_of_health_exp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2008,69.98925781,percent_of_health_exp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2009,67.87589264,percent_of_health_exp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2010,67.75833893,percent_of_health_exp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2011,65.34801483,percent_of_health_exp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2012,61.15657806,percent_of_health_exp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2013,62.74438858,percent_of_health_exp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2014,65.50695038,percent_of_health_exp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2015,64.43975067,percent_of_health_exp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2016,62.12799454,percent_of_health_exp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2017,57.8424263,percent_of_health_exp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2018,56.24115753,percent_of_health_exp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2019,56.08301163,percent_of_health_exp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2020,55.23900604,percent_of_health_exp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2021,50.67523956,percent_of_health_exp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2022,47.36522675,percent_of_health_exp
+SH.XPD.OOPC.CH.ZS,Out-of-pocket expenditure (% of current health expenditure),2023,52.93231964,percent_of_health_exp
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1960,168.3,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1961,163.1,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1962,158.3,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1963,153.7,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1964,149.7,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1965,146.2,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1966,143.2,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1967,140.8,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1968,138.8,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1969,137.2,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1970,135.7,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1971,134.4,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1972,133.2,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1973,132.2,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1974,131.4,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1975,130.6,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1976,129.9,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1977,129.3,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1978,128.8,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1979,128.1,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1980,127.4,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1981,126.6,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1982,125.7,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1983,124.5,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1984,123.2,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1985,121.7,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1986,120.1,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1987,118.4,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1988,116.6,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1989,114.8,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1990,113,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1991,111,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1992,108.9,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1993,106.7,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1994,104.3,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1995,101.8,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1996,99.1,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1997,96.4,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1998,93.8,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",1999,91.2,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2000,88.8,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2001,86.6,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2002,84.7,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2003,83,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2004,81.4,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2005,80,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2006,78.6,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2007,77.3,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2008,75.9,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2009,74.4,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2010,72.8,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2011,71.1,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2012,69.3,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2013,67.4,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2014,65.5,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2015,63.6,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2016,61.7,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2017,59.8,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2018,58.1,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2019,56.3,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2020,54.6,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2021,53,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2022,51.3,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2023,49.7,per_1000_live_births
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",2024,48.2,per_1000_live_births
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1960,44.101,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1961,44.956,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1962,45.85,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1963,46.761,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1964,47.831,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1965,48.495,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1966,49.797,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1967,50.763,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1968,51.624,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1969,52.316,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1970,52.943,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1971,49.002,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1972,53.824,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1973,54.09,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1974,54.266,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1975,54.722,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1976,55.069,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1977,55.482,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1978,56.072,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1979,56.614,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1980,57.199,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1981,57.764,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1982,58.291,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1983,58.663,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1984,58.921,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1985,59.075,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1986,59.167,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1987,59.222,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1988,59.36,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1989,59.528,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1990,59.728,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1991,59.864,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1992,59.983,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1993,60.083,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1994,60.197,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1995,60.273,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1996,60.466,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1997,60.623,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1998,61.134,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",1999,61.54,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2000,61.903,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2001,62.241,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2002,62.556,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2003,62.834,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2004,63.097,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2005,62.416,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2006,63.624,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2007,63.807,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2008,64.002,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2009,64.206,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2010,64.378,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2011,64.659,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2012,64.883,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2013,65.129,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2014,65.374,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2015,65.641,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2016,65.943,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2017,66.223,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2018,66.481,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2019,66.729,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2020,65.701,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2021,65.773,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2022,67.417,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2023,67.649,years
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",2024,67.799,years
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1960,6.8,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1961,6.8,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1962,6.8,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1963,6.8,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1964,6.8,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1965,6.8,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1966,6.8,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1967,6.8,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1968,6.8,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1969,6.8,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1970,6.801,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1971,6.802,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1972,6.805,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1973,6.808,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1974,6.811,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1975,6.812,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1976,6.808,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1977,6.799,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1978,6.783,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1979,6.761,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1980,6.734,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1981,6.704,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1982,6.674,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1983,6.644,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1984,6.615,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1985,6.585,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1986,6.554,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1987,6.518,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1988,6.476,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1989,6.425,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1990,6.364,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1991,6.291,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1992,6.207,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1993,6.112,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1994,6.008,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1995,5.894,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1996,5.771,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1997,5.642,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1998,5.507,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",1999,5.462,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2000,5.352,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2001,5.182,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2002,5.012,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2003,4.894,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2004,4.685,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2005,4.595,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2006,4.589,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2007,4.554,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2008,4.515,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2009,4.465,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2010,4.398,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2011,4.305,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2012,4.204,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2013,4.125,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2014,4.055,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2015,3.988,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2016,3.902,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2017,3.9,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2018,3.855,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2019,3.81,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2020,3.765,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2021,3.72,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2022,3.662,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2023,3.605,births_per_woman
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",2024,3.547,births_per_woman

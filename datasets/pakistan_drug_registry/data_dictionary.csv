@@ -1,0 +1,10 @@
+name,type,description,nullable,constraints
+id,string,Stable unique record identifier (drug-<md5 hash>),false,
+product_name,string,Brand/product name of the pharmaceutical,false,
+company,string,Manufacturer or marketing company in Pakistan,true,
+pack_size,string,Package size / unit count as listed,true,"Example: 1x14's, 2x6's"
+price_before_pkr,integer,Original retail price in Pakistani Rupees before discount,true,"Min: 0"
+discount_percent,integer,Advertised discount percentage,false,"Min: 0; Max: 100"
+price_after_pkr,integer,Retail price in Pakistani Rupees after discount,true,"Min: 0"
+availability,string,Market availability status,true,"Example: Available, Sold Out"
+text,string,Natural-language passage describing the product (RAG embedding field),false,

@@ -1,0 +1,8 @@
+name,type,description,nullable,constraints
+city,string,Name of the city,false,"Allowed values: Lahore, Karachi, Islamabad, Peshawar, Quetta"
+date,date,Date of observation (YYYY-MM-DD),false,
+avg_temp_c,number,Average temperature in degrees Celsius,false,
+rainfall_mm,number,Total monthly rainfall in millimeters,false,"Min: 0"
+aqi_value,integer,Air Quality Index (AQI) value,false,"Min: 0"
+pm25_concentration,number,PM2.5 concentration in micrograms per cubic meter (µg/m³),false,"Min: 0"
+primary_pollutant,string,Primary air pollutant responsible for AQI,false,"Allowed values: PM2.5, PM10, CO, NO2, SO2, O3"

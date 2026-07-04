@@ -1,0 +1,53 @@
+{
+  "name": "pakistan-drug-registry",
+  "title": "Pakistan Pharmaceutical Product Registry (RAG Corpus)",
+  "description": "A retrieval-augmented-generation (RAG) ready corpus of pharmaceutical products marketed in Pakistan, with retail prices, pack sizes, and market availability. Shipped as JSONL (one embeddable passage + structured metadata per product) and an equivalent flat CSV. Sourced from Open Data Pakistan.",
+  "version": "1.0.0",
+  "keywords": ["drugs", "medicines", "pharmaceutical", "prices", "rag", "healthcare", "pakistan"],
+  "homepage": "https://github.com/opendoc-pakistan/pakistan-drug-registry",
+  "licenses": [
+    {
+      "name": "MIT",
+      "path": "https://opensource.org/license/mit",
+      "title": "MIT License"
+    }
+  ],
+  "resources": [
+    {
+      "name": "drug_registry_rag",
+      "path": "data/processed/drug_registry.jsonl",
+      "profile": "data-resource",
+      "format": "jsonl",
+      "mediatype": "application/x-ndjson",
+      "description": "RAG corpus. One JSON object per line: {id, text, metadata{...}}. `text` is a natural-language passage for embedding; `metadata` holds structured fields.",
+      "schema": {
+        "fields": [
+          {"name": "id", "type": "string", "description": "Stable record id (drug-<hash>)."},
+          {"name": "text", "type": "string", "description": "Natural-language passage describing the product, for embedding/retrieval."},
+          {"name": "metadata", "type": "object", "description": "Structured fields: product_name, company, pack_size, price_before_pkr, discount_percent, price_after_pkr, availability, country, source."}
+        ]
+      }
+    },
+    {
+      "name": "drug_registry",
+      "path": "data/processed/drug_registry.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {"name": "id", "type": "string"},
+          {"name": "product_name", "type": "string"},
+          {"name": "company", "type": "string"},
+          {"name": "pack_size", "type": "string"},
+          {"name": "price_before_pkr", "type": "integer"},
+          {"name": "discount_percent", "type": "integer"},
+          {"name": "price_after_pkr", "type": "integer"},
+          {"name": "availability", "type": "string"},
+          {"name": "text", "type": "string"}
+        ],
+        "primaryKey": ["id"]
+      }
+    }
+  ]
+}

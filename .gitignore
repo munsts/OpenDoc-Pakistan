@@ -1,0 +1,11 @@
+*
+
+!.gitignore
+!README.md
+!LICENSE
+!datasets/
+!datasets/**
+
+**/__pycache__/
+.DS_Store
+Thumbs.db

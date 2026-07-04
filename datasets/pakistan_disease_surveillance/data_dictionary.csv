@@ -1,0 +1,6 @@
+name,type,description,nullable,constraints
+indicator_code,string,World Bank / WDI code for the disease or immunization metric,false,"Example: SH.IMM.MEAS"
+indicator_name,string,Human-readable name of the indicator,false,
+year,integer,Calendar year of the observation,false,"Min: 1980"
+value,number,Observed value of the indicator for the given year,false,
+unit,string,Unit of measure for the value,false,"Example: percent_children_12_23m, per_1000_at_risk"

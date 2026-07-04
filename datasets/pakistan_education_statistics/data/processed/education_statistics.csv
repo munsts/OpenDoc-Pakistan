@@ -1,0 +1,16 @@
+district,province,literacy_rate_pct,primary_enrollment,secondary_enrollment,number_of_schools,year
+Karachi,Sindh,82.5,450000,280000,1200,2024
+Lahore,Punjab,84.1,410000,260000,1150,2024
+Islamabad,ICT,87.2,120000,90000,450,2024
+Peshawar,KPK,71.3,180000,110000,680,2024
+Quetta,Balochistan,59.8,95000,55000,320,2024
+Rawalpindi,Punjab,81.4,220000,140000,750,2024
+Faisalabad,Punjab,74.9,250000,150000,820,2024
+Multan,Punjab,68.2,160000,95000,580,2024
+Hyderabad,Sindh,69.5,140000,85000,510,2024
+Sialkot,Punjab,79.0,135000,88000,490,2024
+Abbottabad,KPK,75.4,75000,48000,290,2024
+Gilgit,Gilgit-Baltistan,72.1,35000,21000,180,2024
+Muzaffarabad,AJK,76.5,42000,25000,210,2024
+Gwadar,Balochistan,52.3,18000,9500,95,2024
+Swat,KPK,64.8,110000,65000,410,2024

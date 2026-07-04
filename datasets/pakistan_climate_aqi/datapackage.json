@@ -1,0 +1,33 @@
+{
+  "name": "pakistan-climate-aqi",
+  "title": "Pakistan Climate and Air Quality Index (AQI) 2025",
+  "description": "Monthly average temperature, rainfall, and Air Quality Index (AQI) values across major cities of Pakistan in 2025.",
+  "version": "1.0.0",
+  "keywords": ["climate", "weather", "air-quality", "aqi", "smog", "pakistan"],
+  "homepage": "https://github.com/pakistan-data-commons/pakistan-climate-aqi",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "resources": [
+    {
+      "name": "climate_aqi",
+      "path": "data/processed/climate_aqi.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {"name": "city", "type": "string"},
+          {"name": "date", "type": "date"},
+          {"name": "avg_temp_c", "type": "number"},
+          {"name": "rainfall_mm", "type": "number"},
+          {"name": "aqi_value", "type": "integer"},
+          {"name": "pm25_concentration", "type": "number"},
+          {"name": "primary_pollutant", "type": "string"}
+        ]
+      }
+    }
+  ]
+}

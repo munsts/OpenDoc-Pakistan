@@ -1,0 +1,42 @@
+{
+  "name": "pakistan-health-facility-registry",
+  "title": "Pakistan Health Facility Registry (Geolocated)",
+  "description": "A geolocated registry of health facilities in Pakistan (hospitals, clinics, dispensaries, pharmacies, doctors) with facility type, operator, bed counts where available, and coordinates. Derived from the OpenStreetMap-based healthsites.io export published on Open Data Pakistan, with personal-identifier columns removed.",
+  "version": "1.0.0",
+  "keywords": ["health-facilities", "hospitals", "clinics", "geospatial", "healthsites", "osm", "pakistan"],
+  "homepage": "https://github.com/opendoc-pakistan/pakistan-health-facility-registry",
+  "licenses": [
+    {
+      "name": "ODbL-1.0",
+      "path": "https://opendatacommons.org/licenses/odbl/1-0/",
+      "title": "Open Data Commons Open Database License 1.0"
+    }
+  ],
+  "resources": [
+    {
+      "name": "health_facilities",
+      "path": "data/processed/health_facilities.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {"name": "name", "type": "string", "description": "Facility name."},
+          {"name": "facility_type", "type": "string", "description": "Normalised facility type (healthcare tag, falling back to amenity)."},
+          {"name": "amenity", "type": "string", "description": "OSM amenity tag."},
+          {"name": "speciality", "type": "string", "description": "Medical speciality, if tagged."},
+          {"name": "operator", "type": "string", "description": "Operating organisation."},
+          {"name": "operator_type", "type": "string", "description": "Operator type (public/private/etc.), if tagged."},
+          {"name": "beds", "type": "string", "description": "Number of beds, if tagged."},
+          {"name": "emergency", "type": "string", "description": "Emergency services availability, if tagged."},
+          {"name": "address", "type": "string", "description": "Full address, if tagged."},
+          {"name": "operational_status", "type": "string", "description": "Operational status, if tagged."},
+          {"name": "longitude", "type": "number", "description": "Longitude (WGS84)."},
+          {"name": "latitude", "type": "number", "description": "Latitude (WGS84)."},
+          {"name": "osm_id", "type": "string", "description": "OpenStreetMap object id."},
+          {"name": "source", "type": "string", "description": "Original tagging source, if recorded."}
+        ]
+      }
+    }
+  ]
+}

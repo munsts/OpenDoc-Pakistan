@@ -1,0 +1,8 @@
+name,type,description,nullable,constraints
+district,string,Name of the administrative district,false,
+province,string,Name of the province or administrative territory,false,"Allowed values: Punjab, Sindh, KPK, Balochistan, ICT, Gilgit-Baltistan, AJK"
+literacy_rate_pct,number,Literacy rate percentage of the district population,false,"Min: 0, Max: 100"
+primary_enrollment,integer,Total student enrollment in primary schools (grades 1-5),false,"Min: 0"
+secondary_enrollment,integer,Total student enrollment in secondary schools (grades 6-10),false,"Min: 0"
+number_of_schools,integer,Total number of functioning public and registered private schools,false,"Min: 0"
+year,integer,Calendar year representing the statistics,false,

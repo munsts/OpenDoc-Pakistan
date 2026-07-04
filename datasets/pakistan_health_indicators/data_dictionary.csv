@@ -1,0 +1,6 @@
+name,type,description,nullable,constraints
+indicator_code,string,World Bank / World Development Indicators code for the metric,false,"Example: SP.DYN.LE00.IN"
+indicator_name,string,Human-readable name of the health indicator,false,
+year,integer,Calendar year of the observation,false,"Min: 1960"
+value,number,Observed value of the indicator for the given year,false,
+unit,string,Unit of measure for the value,false,"Example: years, percent, per_1000_live_births"

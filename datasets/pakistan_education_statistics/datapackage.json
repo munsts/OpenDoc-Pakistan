@@ -1,0 +1,33 @@
+{
+  "name": "pakistan-education-statistics",
+  "title": "Pakistan Education Statistics 2024",
+  "description": "Educational indicators across major districts of Pakistan for the year 2024.",
+  "version": "1.0.0",
+  "keywords": ["education", "literacy", "schools", "enrollment", "pakistan"],
+  "homepage": "https://github.com/pakistan-data-commons/pakistan-education-statistics",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "resources": [
+    {
+      "name": "education_statistics",
+      "path": "data/processed/education_statistics.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {"name": "district", "type": "string"},
+          {"name": "province", "type": "string"},
+          {"name": "literacy_rate_pct", "type": "number"},
+          {"name": "primary_enrollment", "type": "integer"},
+          {"name": "secondary_enrollment", "type": "integer"},
+          {"name": "number_of_schools", "type": "integer"},
+          {"name": "year", "type": "integer"}
+        ]
+      }
+    }
+  ]
+}
