@@ -1,0 +1,211 @@
+week_end_date,expenditure_group,spi_current,spi_previous_week,spi_year_ago,wow_change_pct,yoy_change_pct,source_url
+2026-07-02,"Q1 (Upto Rs. 17,732)",344.22,339.41,301.6,1.417165081,14.13129973,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-02.07.2026.xlsx
+2026-07-02,"Q2 (Rs. 17,733 - 22,888)",345.57,342.63,297.63,0.8580684704,16.10724725,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-02.07.2026.xlsx
+2026-07-02,"Q3 (Rs. 22,889 - 29,517)",365.88,364.87,321.87,0.276810919,13.67322211,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-02.07.2026.xlsx
+2026-07-02,"Q4 (Rs. 29,518 - 44,175)",352.29,353.42,312.4,-0.3197328957,12.76888604,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-02.07.2026.xlsx
+2026-07-02,"Q5 (Above Rs. 44,175)",351.82,359.01,315.02,-2.002729729,11.68179798,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-02.07.2026.xlsx
+2026-07-02,Combined,354.24,357.76,312.06,-0.9838998211,13.51663142,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-02.07.2026.xlsx
+2026-06-18,"Q1 (Upto Rs. 17,732)",339.41,337.25,299.58,0.6404744255,13.29528006,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-18.06.2026.xlsx
+2026-06-18,"Q2 (Rs. 17,733 - 22,888)",342.63,340.54,295.36,0.6137311329,16.00419827,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-18.06.2026.xlsx
+2026-06-18,"Q3 (Rs. 22,889 - 29,517)",364.87,362.94,320.05,0.5317683364,14.00406187,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-18.06.2026.xlsx
+2026-06-18,"Q4 (Rs. 29,518 - 44,175)",353.42,351.61,310.88,0.5147748926,13.68373649,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-18.06.2026.xlsx
+2026-06-18,"Q5 (Above Rs. 44,175)",359.01,357.6,313.6,0.394295302,14.48022959,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-18.06.2026.xlsx
+2026-06-18,Combined,357.76,356.11,310.35,0.4633399792,15.27630095,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-18.06.2026.xlsx
+2026-06-11,"Q1 (Upto Rs. 17,732)",337.25,336.62,299.44,0.1871546551,12.62690355,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-11.06.2026.xlsx
+2026-06-11,"Q2 (Rs. 17,733 - 22,888)",340.54,340.12,295.2,0.1234858285,15.35907859,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-11.06.2026.xlsx
+2026-06-11,"Q3 (Rs. 22,889 - 29,517)",362.94,362.54,319.72,0.1103326529,13.51807832,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-11.06.2026.xlsx
+2026-06-11,"Q4 (Rs. 29,518 - 44,175)",351.61,351.34,310.47,0.07684863665,13.2508777,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-11.06.2026.xlsx
+2026-06-11,"Q5 (Above Rs. 44,175)",357.6,356.88,312.29,0.2017484869,14.50895001,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-11.06.2026.xlsx
+2026-06-11,Combined,356.11,355.55,309.51,0.157502461,15.05605635,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-11.06.2026.xlsx
+2026-06-04,"Q1 (Upto Rs. 17,732)",336.62,335.56,298.99,0.3158898558,12.58570521,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-04.06.2026.xlsx
+2026-06-04,"Q2 (Rs. 17,733 - 22,888)",340.12,339.97,295.08,0.04412154014,15.26365731,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-04.06.2026.xlsx
+2026-06-04,"Q3 (Rs. 22,889 - 29,517)",362.54,363.04,319.83,-0.1377258704,13.3539693,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-04.06.2026.xlsx
+2026-06-04,"Q4 (Rs. 29,518 - 44,175)",351.34,352.67,310.78,-0.3771230896,13.05103288,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-04.06.2026.xlsx
+2026-06-04,"Q5 (Above Rs. 44,175)",356.88,360.04,312.84,-0.8776802577,14.0774837,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-04.06.2026.xlsx
+2026-06-04,Combined,355.55,357.54,309.85,-0.5565810818,14.74907213,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-04.06.2026.xlsx
+2026-05-21,"Q1 (Upto Rs. 17,732)",335.56,335.77,300.18,-0.06254281204,11.78626158,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-21.05.2026.xlsx
+2026-05-21,"Q2 (Rs. 17,733 - 22,888)",339.97,340.94,297.38,-0.284507538,14.32174322,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-21.05.2026.xlsx
+2026-05-21,"Q3 (Rs. 22,889 - 29,517)",363.04,363.6,321.74,-0.1540154015,12.83645179,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-21.05.2026.xlsx
+2026-05-21,"Q4 (Rs. 29,518 - 44,175)",352.67,353.13,312.63,-0.1302636423,12.80747209,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-21.05.2026.xlsx
+2026-05-21,"Q5 (Above Rs. 44,175)",360.04,361.33,315.35,-0.3570143636,14.17155541,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-21.05.2026.xlsx
+2026-05-21,Combined,357.54,358.71,312.34,-0.3261687714,14.47140936,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-21.05.2026.xlsx
+2026-05-14,"Q1 (Upto Rs. 17,732)",335.77,334.45,300.97,0.3946778293,11.56261421,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-14.05.2026.xlsx
+2026-05-14,"Q2 (Rs. 17,733 - 22,888)",340.94,339.53,298.2,0.4152799458,14.33266264,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-14.05.2026.xlsx
+2026-05-14,"Q3 (Rs. 22,889 - 29,517)",363.6,362.18,322.59,0.3920702413,12.71273133,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-14.05.2026.xlsx
+2026-05-14,"Q4 (Rs. 29,518 - 44,175)",353.13,351.6,313.51,0.4351535836,12.63755542,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-14.05.2026.xlsx
+2026-05-14,"Q5 (Above Rs. 44,175)",361.33,359.47,316.3,0.5174284363,14.23648435,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-14.05.2026.xlsx
+2026-05-14,Combined,358.71,357.04,313.24,0.4677347076,14.51602605,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-14.05.2026.xlsx
+2026-05-07,"Q1 (Upto Rs. 17,732)",334.45,332.16,298.24,0.6894267823,12.14122854,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-07.05.2026.xlsx
+2026-05-07,"Q2 (Rs. 17,733 - 22,888)",339.53,336.95,295.19,0.7656922392,15.02083404,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-07.05.2026.xlsx
+2026-05-07,"Q3 (Rs. 22,889 - 29,517)",362.18,359.46,319.46,0.7566905914,13.37256621,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-07.05.2026.xlsx
+2026-05-07,"Q4 (Rs. 29,518 - 44,175)",351.6,348.71,310.22,0.8287688911,13.33892077,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-07.05.2026.xlsx
+2026-05-07,"Q5 (Above Rs. 44,175)",359.47,356.61,313.08,0.8019965789,14.81729909,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-07.05.2026.xlsx
+2026-05-07,Combined,357.04,354.23,310.05,0.7932699094,15.15562006,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-07.05.2026.xlsx
+2026-04-30,"Q1 (Upto Rs. 17,732)",332.16,331.6,297.93,0.1688781665,11.489276,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-30.04.2026.xlsx
+2026-04-30,"Q2 (Rs. 17,733 - 22,888)",336.95,336.06,294.67,0.2648336607,14.34825398,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-30.04.2026.xlsx
+2026-04-30,"Q3 (Rs. 22,889 - 29,517)",359.46,358.15,318.81,0.3657685327,12.75054107,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-30.04.2026.xlsx
+2026-04-30,"Q4 (Rs. 29,518 - 44,175)",348.71,346.93,309.43,0.5130718012,12.69430889,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-30.04.2026.xlsx
+2026-04-30,"Q5 (Above Rs. 44,175)",356.61,353.67,312.26,0.8312833998,14.20290783,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-30.04.2026.xlsx
+2026-04-30,Combined,354.23,352.04,309.31,0.622088399,14.52264718,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-30.04.2026.xlsx
+2026-04-23,"Q1 (Upto Rs. 17,732)",331.6,332.97,297.71,-0.4114484788,11.38356118,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-23.04.2026.xlsx
+2026-04-23,"Q2 (Rs. 17,733 - 22,888)",336.06,337.26,294.37,-0.355808575,14.16244862,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-23.04.2026.xlsx
+2026-04-23,"Q3 (Rs. 22,889 - 29,517)",358.15,359.27,318.45,-0.3117432572,12.46663526,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-23.04.2026.xlsx
+2026-04-23,"Q4 (Rs. 29,518 - 44,175)",346.93,347.98,309,-0.3017414794,12.27508091,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-23.04.2026.xlsx
+2026-04-23,"Q5 (Above Rs. 44,175)",353.67,354.89,311.74,-0.3437684916,13.45031116,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-23.04.2026.xlsx
+2026-04-23,Combined,352.04,353.21,308.86,-0.3312476997,13.98044421,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-23.04.2026.xlsx
+2026-04-16,"Q1 (Upto Rs. 17,732)",332.97,334.17,303.2,-0.3590986624,9.818601583,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-16.04.2026.xlsx
+2026-04-16,"Q2 (Rs. 17,733 - 22,888)",337.26,338.75,301.38,-0.4398523985,11.90523591,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-16.04.2026.xlsx
+2026-04-16,"Q3 (Rs. 22,889 - 29,517)",359.27,361.01,324.32,-0.4819811086,10.77639369,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-16.04.2026.xlsx
+2026-04-16,"Q4 (Rs. 29,518 - 44,175)",347.98,350.05,314.15,-0.5913440937,10.76874105,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-16.04.2026.xlsx
+2026-04-16,"Q5 (Above Rs. 44,175)",354.89,357.9,316.79,-0.8410170439,12.02689479,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-16.04.2026.xlsx
+2026-04-16,Combined,353.21,355.66,314.92,-0.6888601473,12.15864347,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-16.04.2026.xlsx
+2026-04-09,"Q1 (Upto Rs. 17,732)",334.17,331.69,305.65,0.7476860924,9.330934075,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-09.04.2026.xlsx
+2026-04-09,"Q2 (Rs. 17,733 - 22,888)",338.75,335.33,303.81,1.019890854,11.50060893,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-09.04.2026.xlsx
+2026-04-09,"Q3 (Rs. 22,889 - 29,517)",361.01,356.83,326.67,1.171426169,10.51213763,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-09.04.2026.xlsx
+2026-04-09,"Q4 (Rs. 29,518 - 44,175)",350.05,344.69,316.46,1.555020453,10.61429565,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-09.04.2026.xlsx
+2026-04-09,"Q5 (Above Rs. 44,175)",357.9,349.18,318.84,2.49727934,12.25065864,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-09.04.2026.xlsx
+2026-04-09,Combined,355.66,348.94,317.12,1.925832521,12.15312815,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-09.04.2026.xlsx
+2026-04-02,"Q1 (Upto Rs. 17,732)",331.69,329.39,308.66,0.6982604208,7.461284261,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-02.04.2026.xlsx
+2026-04-02,"Q2 (Rs. 17,733 - 22,888)",335.33,332.83,306.86,0.7511342127,9.277846575,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-02.04.2026.xlsx
+2026-04-02,"Q3 (Rs. 22,889 - 29,517)",356.83,353.93,329.66,0.8193710621,8.241824911,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-02.04.2026.xlsx
+2026-04-02,"Q4 (Rs. 29,518 - 44,175)",344.69,341.48,319.39,0.9400257702,7.921350074,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-02.04.2026.xlsx
+2026-04-02,"Q5 (Above Rs. 44,175)",349.18,345.2,321.24,1.152954809,8.697547005,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-02.04.2026.xlsx
+2026-04-02,Combined,348.94,345.45,319.79,1.010276451,9.115356953,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-02.04.2026.xlsx
+2026-03-26,"Q1 (Upto Rs. 17,732)",329.39,326.22,307.79,0.9717368647,7.017771857,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-26.03.2026.xlsx
+2026-03-26,"Q2 (Rs. 17,733 - 22,888)",332.83,329.25,306.03,1.087319666,8.757311375,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-26.03.2026.xlsx
+2026-03-26,"Q3 (Rs. 22,889 - 29,517)",353.93,350.92,328.89,0.8577453551,7.613487792,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-26.03.2026.xlsx
+2026-03-26,"Q4 (Rs. 29,518 - 44,175)",341.48,338.82,318.68,0.7850776223,7.154512363,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-26.03.2026.xlsx
+2026-03-26,"Q5 (Above Rs. 44,175)",345.2,341.97,320.69,0.9445272977,7.642895008,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-26.03.2026.xlsx
+2026-03-26,Combined,345.45,342.13,319.14,0.9703913717,8.244030833,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-26.03.2026.xlsx
+2026-03-18,"Q1 (Upto Rs. 17,732)",326.22,325.62,308.43,0.1842638659,5.767921408,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-18.03.2026.xlsx
+2026-03-18,"Q2 (Rs. 17,733 - 22,888)",329.25,328.55,306.63,0.2130573733,7.376968985,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-18.03.2026.xlsx
+2026-03-18,"Q3 (Rs. 22,889 - 29,517)",350.92,350.21,329.43,0.2027355016,6.523388884,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-18.03.2026.xlsx
+2026-03-18,"Q4 (Rs. 29,518 - 44,175)",338.82,338.06,319.2,0.2248121635,6.146616541,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-18.03.2026.xlsx
+2026-03-18,"Q5 (Above Rs. 44,175)",341.97,341.28,321.12,0.2021800281,6.492899851,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-18.03.2026.xlsx
+2026-03-18,Combined,342.13,341.42,319.62,0.2079550114,7.042738252,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-18.03.2026.xlsx
+2026-03-11,"Q1 (Upto Rs. 17,732)",325.62,323.48,309.65,0.661555583,5.157435815,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-11.03.2026.xlsx
+2026-03-11,"Q2 (Rs. 17,733 - 22,888)",328.55,325.48,307.71,0.9432223178,6.772610575,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-11.03.2026.xlsx
+2026-03-11,"Q3 (Rs. 22,889 - 29,517)",350.21,346.32,330.71,1.123238623,5.896404705,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-11.03.2026.xlsx
+2026-03-11,"Q4 (Rs. 29,518 - 44,175)",338.06,333.05,320.47,1.504278637,5.488813305,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-11.03.2026.xlsx
+2026-03-11,"Q5 (Above Rs. 44,175)",341.28,333,322.28,2.486486486,5.895494601,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-11.03.2026.xlsx
+2026-03-11,Combined,341.42,335.09,320.75,1.889044734,6.444271239,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-11.03.2026.xlsx
+2026-03-05,"Q1 (Upto Rs. 17,732)",323.48,323.48,309.33,0,4.574402741,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-05.03.2026.xlsx
+2026-03-05,"Q2 (Rs. 17,733 - 22,888)",325.48,325.2,307.2,0.08610086101,5.950520833,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-05.03.2026.xlsx
+2026-03-05,"Q3 (Rs. 22,889 - 29,517)",346.32,345.76,330.11,0.1619620546,4.910484384,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-05.03.2026.xlsx
+2026-03-05,"Q4 (Rs. 29,518 - 44,175)",333.05,332.19,319.76,0.2588879858,4.156242182,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-05.03.2026.xlsx
+2026-03-05,"Q5 (Above Rs. 44,175)",333,331.23,321.48,0.5343718866,3.583426652,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-05.03.2026.xlsx
+2026-03-05,Combined,335.09,333.86,320.04,0.3684178997,4.702537183,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-05.03.2026.xlsx
+2026-02-26,"Q1 (Upto Rs. 17,732)",323.48,325.8,309.94,-0.7120933088,4.368587469,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-26.02.2026.xlsx
+2026-02-26,"Q2 (Rs. 17,733 - 22,888)",325.2,327.44,307.79,-0.684094796,5.656454076,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-26.02.2026.xlsx
+2026-02-26,"Q3 (Rs. 22,889 - 29,517)",345.76,347.84,330.63,-0.597976081,4.576112271,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-26.02.2026.xlsx
+2026-02-26,"Q4 (Rs. 29,518 - 44,175)",332.19,334.17,320.14,-0.5925127929,3.76397826,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-26.02.2026.xlsx
+2026-02-26,"Q5 (Above Rs. 44,175)",331.23,332.8,321.59,-0.4717548077,2.997605647,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-26.02.2026.xlsx
+2026-02-26,Combined,333.86,335.67,320.32,-0.5392200673,4.227022977,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-26.02.2026.xlsx
+2026-02-19,"Q1 (Upto Rs. 17,732)",325.8,322.23,308.82,1.107904292,5.498348553,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-19.02.2026.xlsx
+2026-02-19,"Q2 (Rs. 17,733 - 22,888)",327.44,322.6,306.64,1.500309981,6.783198539,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-19.02.2026.xlsx
+2026-02-19,"Q3 (Rs. 22,889 - 29,517)",347.84,344.3,329.42,1.028173105,5.591645923,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-19.02.2026.xlsx
+2026-02-19,"Q4 (Rs. 29,518 - 44,175)",334.17,331.13,318.81,0.9180684323,4.817916627,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-19.02.2026.xlsx
+2026-02-19,"Q5 (Above Rs. 44,175)",332.8,330.23,320.54,0.7782454653,3.824795657,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-19.02.2026.xlsx
+2026-02-19,Combined,335.67,331.81,319.12,1.163316356,5.186136876,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-19.02.2026.xlsx
+2026-02-12,"Q1 (Upto Rs. 17,732)",322.23,324.23,308.24,-0.6168460661,4.538671165,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-12.02.2026.xlsx
+2026-02-12,"Q2 (Rs. 17,733 - 22,888)",322.6,324.61,305.93,-0.619204584,5.448958912,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-12.02.2026.xlsx
+2026-02-12,"Q3 (Rs. 22,889 - 29,517)",344.3,346.33,328.64,-0.5861461612,4.765092502,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-12.02.2026.xlsx
+2026-02-12,"Q4 (Rs. 29,518 - 44,175)",331.13,333.2,317.91,-0.6212484994,4.158409613,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-12.02.2026.xlsx
+2026-02-12,"Q5 (Above Rs. 44,175)",330.23,332.15,319.63,-0.5780520849,3.316334512,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-12.02.2026.xlsx
+2026-02-12,Combined,331.81,333.79,318.26,-0.5931873334,4.257525294,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-12.02.2026.xlsx
+2026-02-04,"Q1 (Upto Rs. 17,732)",324.23,323.8,308.96,0.1327980235,4.942387364,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-04.02.2026.xlsx
+2026-02-04,"Q2 (Rs. 17,733 - 22,888)",324.61,324.25,306.45,0.1110254433,5.925925926,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-04.02.2026.xlsx
+2026-02-04,"Q3 (Rs. 22,889 - 29,517)",346.33,346.06,329,0.0780211524,5.267477204,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-04.02.2026.xlsx
+2026-02-04,"Q4 (Rs. 29,518 - 44,175)",333.2,332.93,318.07,0.08109812874,4.756814538,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-04.02.2026.xlsx
+2026-02-04,"Q5 (Above Rs. 44,175)",332.15,331.86,319.57,0.08738624721,3.936539725,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-04.02.2026.xlsx
+2026-02-04,Combined,333.79,333.49,318.38,0.08995771987,4.840128149,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-04.02.2026.xlsx
+2026-01-29,"Q1 (Upto Rs. 17,732)",323.8,324.3,309.85,-0.15417823,4.502178473,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-29.01.2026.xlsx
+2026-01-29,"Q2 (Rs. 17,733 - 22,888)",324.25,324.65,307.28,-0.1232096103,5.522650351,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-29.01.2026.xlsx
+2026-01-29,"Q3 (Rs. 22,889 - 29,517)",346.06,346.38,329.78,-0.09238408684,4.936624416,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-29.01.2026.xlsx
+2026-01-29,"Q4 (Rs. 29,518 - 44,175)",332.93,333.16,318.8,-0.06903589867,4.432245922,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-29.01.2026.xlsx
+2026-01-29,"Q5 (Above Rs. 44,175)",331.86,331.8,320.18,0.01808318264,3.647948029,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-29.01.2026.xlsx
+2026-01-29,Combined,333.49,333.6,319.06,-0.0329736211,4.522660315,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-29.01.2026.xlsx
+2026-01-22,"Q1 (Upto Rs. 17,732)",324.3,325.28,311.47,-0.3012788982,4.119176807,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-22.01.2026.xlsx
+2026-01-22,"Q2 (Rs. 17,733 - 22,888)",324.65,325.84,308.74,-0.365209919,5.153203343,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-22.01.2026.xlsx
+2026-01-22,"Q3 (Rs. 22,889 - 29,517)",346.38,347.73,331.06,-0.3882322492,4.627559959,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-22.01.2026.xlsx
+2026-01-22,"Q4 (Rs. 29,518 - 44,175)",333.16,334.68,319.92,-0.4541651727,4.138534634,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-22.01.2026.xlsx
+2026-01-22,"Q5 (Above Rs. 44,175)",331.8,333.6,321.11,-0.5395683453,3.329077263,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-22.01.2026.xlsx
+2026-01-22,Combined,333.6,335.2,320.21,-0.477326969,4.181630805,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-22.01.2026.xlsx
+2026-01-15,"Q1 (Upto Rs. 17,732)",325.28,324.37,314.75,0.2805438234,3.345512311,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-15.01.2026.xlsx
+2026-01-15,"Q2 (Rs. 17,733 - 22,888)",325.84,324.96,311.75,0.2708025603,4.519647153,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-15.01.2026.xlsx
+2026-01-15,"Q3 (Rs. 22,889 - 29,517)",347.73,346.88,333.82,0.2450415129,4.166916302,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-15.01.2026.xlsx
+2026-01-15,"Q4 (Rs. 29,518 - 44,175)",334.68,333.88,322.51,0.2396070444,3.773526402,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-15.01.2026.xlsx
+2026-01-15,"Q5 (Above Rs. 44,175)",333.6,332.74,323.38,0.2584600589,3.160368607,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-15.01.2026.xlsx
+2026-01-15,Combined,335.2,334.35,322.71,0.2542246149,3.87034799,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-15.01.2026.xlsx
+2026-01-08,"Q1 (Upto Rs. 17,732)",324.37,323.98,316.72,0.1203778011,2.415382672,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-08.01.2026.xlsx
+2026-01-08,"Q2 (Rs. 17,733 - 22,888)",324.96,324.53,313.51,0.1324993067,3.652196102,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-08.01.2026.xlsx
+2026-01-08,"Q3 (Rs. 22,889 - 29,517)",346.88,346.44,335.37,0.1270061194,3.432030295,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-08.01.2026.xlsx
+2026-01-08,"Q4 (Rs. 29,518 - 44,175)",333.88,333.45,323.91,0.1289548658,3.078015498,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-08.01.2026.xlsx
+2026-01-08,"Q5 (Above Rs. 44,175)",332.74,332.39,324.38,0.1052979933,2.577224243,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-08.01.2026.xlsx
+2026-01-08,Combined,334.35,333.96,323.97,0.1167804527,3.20400037,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-08.01.2026.xlsx
+2026-01-01,"Q1 (Upto Rs. 17,732)",323.98,326,320.01,-0.6196319018,1.240586232,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-01.01.2026.xlsx
+2026-01-01,"Q2 (Rs. 17,733 - 22,888)",324.53,326.52,316.43,-0.6094573074,2.559807856,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-01.01.2026.xlsx
+2026-01-01,"Q3 (Rs. 22,889 - 29,517)",346.44,348.43,337.91,-0.5711333697,2.524340801,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-01.01.2026.xlsx
+2026-01-01,"Q4 (Rs. 29,518 - 44,175)",333.45,335.56,326.19,-0.6287996185,2.22569668,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-01.01.2026.xlsx
+2026-01-01,"Q5 (Above Rs. 44,175)",332.39,334.83,326.14,-0.7287280112,1.91635494,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-01.01.2026.xlsx
+2026-01-01,Combined,333.96,336.22,326.1,-0.6721789305,2.410303588,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-01.01.2026.xlsx
+2025-12-24,"Q1 (Upto Rs. 17,732)",326,327.07,321.65,-0.3271470939,1.352401679,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-24.12.2025.xlsx
+2025-12-24,"Q2 (Rs. 17,733 - 22,888)",326.52,327.09,318.32,-0.174263964,2.576024127,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-24.12.2025.xlsx
+2025-12-24,"Q3 (Rs. 22,889 - 29,517)",348.43,349.08,338.87,-0.1862037355,2.82114085,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-24.12.2025.xlsx
+2025-12-24,"Q4 (Rs. 29,518 - 44,175)",335.56,336.09,326.53,-0.1576958553,2.765442685,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-24.12.2025.xlsx
+2025-12-24,"Q5 (Above Rs. 44,175)",334.83,335.05,326.46,-0.06566184152,2.563866936,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-24.12.2025.xlsx
+2025-12-24,Combined,336.22,336.53,326.96,-0.09211660179,2.832150722,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-24.12.2025.xlsx
+2025-12-18,"Q1 (Upto Rs. 17,732)",327.07,326.84,319.44,0.07037082364,2.388554971,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-18.12.2025.xlsx
+2025-12-18,"Q2 (Rs. 17,733 - 22,888)",327.09,326.62,315.85,0.1438981079,3.558651259,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-18.12.2025.xlsx
+2025-12-18,"Q3 (Rs. 22,889 - 29,517)",349.08,348.45,336.33,0.1808006888,3.790919633,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-18.12.2025.xlsx
+2025-12-18,"Q4 (Rs. 29,518 - 44,175)",336.09,335.29,323.87,0.2385994214,3.773118844,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-18.12.2025.xlsx
+2025-12-18,"Q5 (Above Rs. 44,175)",335.05,334.1,323.85,0.2843460042,3.458391231,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-18.12.2025.xlsx
+2025-12-18,Combined,336.53,335.73,324.38,0.2382867185,3.745607004,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-18.12.2025.xlsx
+2025-12-11,"Q1 (Upto Rs. 17,732)",326.84,327.7,317.28,-0.2624351541,3.013111447,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-11.12.2025.xlsx
+2025-12-11,"Q2 (Rs. 17,733 - 22,888)",326.62,327.17,313.97,-0.1681083229,4.029047361,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-11.12.2025.xlsx
+2025-12-11,"Q3 (Rs. 22,889 - 29,517)",348.45,348.77,334.79,-0.09175101069,4.080169659,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-11.12.2025.xlsx
+2025-12-11,"Q4 (Rs. 29,518 - 44,175)",335.29,335.44,322.55,-0.04471738612,3.949775229,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-11.12.2025.xlsx
+2025-12-11,"Q5 (Above Rs. 44,175)",334.1,334.03,322.89,0.02095620154,3.471770572,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-11.12.2025.xlsx
+2025-12-11,Combined,335.73,335.84,323.14,-0.03275369223,3.896144086,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-11.12.2025.xlsx
+2025-12-04,"Q1 (Upto Rs. 17,732)",327.7,330.88,317.2,-0.961073501,3.310214376,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-04.12.2025.xlsx
+2025-12-04,"Q2 (Rs. 17,733 - 22,888)",327.17,330.06,313.81,-0.8755983761,4.257353175,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-04.12.2025.xlsx
+2025-12-04,"Q3 (Rs. 22,889 - 29,517)",348.77,351.33,334.57,-0.7286596647,4.244253818,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-04.12.2025.xlsx
+2025-12-04,"Q4 (Rs. 29,518 - 44,175)",335.44,337.77,322.31,-0.6898185156,4.073717849,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-04.12.2025.xlsx
+2025-12-04,"Q5 (Above Rs. 44,175)",334.03,335.81,322.64,-0.530061642,3.530250434,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-04.12.2025.xlsx
+2025-12-04,Combined,335.84,337.99,322.91,-0.6361134945,4.0042117,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Report-04.12.2025.xlsx
+2025-11-27,"Q1 (Upto Rs. 17,732)",330.88,331.17,318.6,-0.08756831839,3.854362837,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-27.11.2025.xlsx
+2025-11-27,"Q2 (Rs. 17,733 - 22,888)",330.06,326.83,315.23,0.9882813695,4.704501475,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-27.11.2025.xlsx
+2025-11-27,"Q3 (Rs. 22,889 - 29,517)",351.33,349.63,335.87,0.4862282985,4.602971388,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-27.11.2025.xlsx
+2025-11-27,"Q4 (Rs. 29,518 - 44,175)",337.77,336.82,323.53,0.2820497595,4.401446543,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-27.11.2025.xlsx
+2025-11-27,"Q5 (Above Rs. 44,175)",335.81,333.81,323.56,0.5991432252,3.786005687,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-27.11.2025.xlsx
+2025-11-27,Combined,337.99,335.54,324,0.7301662991,4.317901235,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-27.11.2025.xlsx
+2025-11-20,"Q1 (Upto Rs. 17,732)",329.13,328.89,318.4,0.07297272644,3.369974874,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-20.11.2025.xlsx
+2025-11-20,"Q2 (Rs. 17,733 - 22,888)",326.83,326.6,315.17,0.07042253521,3.699590697,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-20.11.2025.xlsx
+2025-11-20,"Q3 (Rs. 22,889 - 29,517)",349.63,349.49,335.87,0.04005837077,4.096823176,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-20.11.2025.xlsx
+2025-11-20,"Q4 (Rs. 29,518 - 44,175)",336.82,336.71,323.61,0.0326690624,4.082074102,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-20.11.2025.xlsx
+2025-11-20,"Q5 (Above Rs. 44,175)",333.81,333.51,323.74,0.08995232527,3.110520788,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-20.11.2025.xlsx
+2025-11-20,Combined,335.54,335.31,324.11,0.06859324207,3.526580482,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-20.11.2025.xlsx
+2025-11-13,"Q1 (Upto Rs. 17,732)",328.89,327.73,315.52,0.3539498978,4.23744929,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-13.11.2025.xlsx
+2025-11-13,"Q2 (Rs. 17,733 - 22,888)",326.6,325.2,312.51,0.430504305,4.508655723,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-13.11.2025.xlsx
+2025-11-13,"Q3 (Rs. 22,889 - 29,517)",349.49,347.95,333.47,0.4425923265,4.804030348,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-13.11.2025.xlsx
+2025-11-13,"Q4 (Rs. 29,518 - 44,175)",336.71,335,321.37,0.5104477612,4.773314248,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-13.11.2025.xlsx
+2025-11-13,"Q5 (Above Rs. 44,175)",333.51,331.58,321.79,0.5820616442,3.642126853,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-13.11.2025.xlsx
+2025-11-13,Combined,335.31,333.55,321.94,0.5276570229,4.152947754,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-13.11.2025.xlsx
+2025-11-06,"Q1 (Upto Rs. 17,732)",327.73,331.18,312.93,-1.041729573,4.729492219,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-06.11.2025.xlsx
+2025-11-06,"Q2 (Rs. 17,733 - 22,888)",325.2,328.25,310.22,-0.9291698401,4.828831152,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-06.11.2025.xlsx
+2025-11-06,"Q3 (Rs. 22,889 - 29,517)",347.95,350.55,331.43,-0.7416916274,4.984461274,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-06.11.2025.xlsx
+2025-11-06,"Q4 (Rs. 29,518 - 44,175)",335,337.23,319.5,-0.6612697565,4.851330203,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-06.11.2025.xlsx
+2025-11-06,"Q5 (Above Rs. 44,175)",331.58,333.04,320.37,-0.4383857795,3.49907919,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-06.11.2025.xlsx
+2025-11-06,Combined,333.55,335.53,320.17,-0.5901111674,4.17902989,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-06.11.2025.xlsx
+2025-10-30,"Q1 (Upto Rs. 17,732)",331.18,330.27,312.02,0.2755321404,6.140632011,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-30.10.2025.xlsx
+2025-10-30,"Q2 (Rs. 17,733 - 22,888)",328.25,327.72,309.41,0.1617234224,6.089008112,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-30.10.2025.xlsx
+2025-10-30,"Q3 (Rs. 22,889 - 29,517)",350.55,350.04,330.65,0.1456976346,6.018448511,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-30.10.2025.xlsx
+2025-10-30,"Q4 (Rs. 29,518 - 44,175)",337.23,336.76,318.77,0.139565269,5.791009192,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-30.10.2025.xlsx
+2025-10-30,"Q5 (Above Rs. 44,175)",333.04,332.76,319.61,0.08414472893,4.201996183,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-30.10.2025.xlsx
+2025-10-30,Combined,335.53,335.14,319.4,0.1163692785,5.050093926,https://www.pbs.gov.pk/wp-content/uploads/2020/07/3.-SPI-Report-30.10.2025.xlsx
+2025-10-23,"Q1 (Upto Rs. 17,732)",330.27,329.37,313.16,0.2732489298,5.463660748,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Executive-Summary-SPI-Report_-23.10.2025.xlsx
+2025-10-23,"Q2 (Rs. 17,733 - 22,888)",327.72,326.88,310.66,0.2569750367,5.491534153,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Executive-Summary-SPI-Report_-23.10.2025.xlsx
+2025-10-23,"Q3 (Rs. 22,889 - 29,517)",350.04,349.23,330.05,0.2319388369,6.056658082,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Executive-Summary-SPI-Report_-23.10.2025.xlsx
+2025-10-23,"Q4 (Rs. 29,518 - 44,175)",336.76,335.97,317.75,0.2351400423,5.982690795,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Executive-Summary-SPI-Report_-23.10.2025.xlsx
+2025-10-23,"Q5 (Above Rs. 44,175)",332.76,332.07,319.82,0.2077875147,4.04602589,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Executive-Summary-SPI-Report_-23.10.2025.xlsx
+2025-10-23,Combined,335.14,334.39,319.09,0.2242890039,5.02992886,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Executive-Summary-SPI-Report_-23.10.2025.xlsx

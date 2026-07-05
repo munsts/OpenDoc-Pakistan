@@ -1,0 +1,25 @@
+{
+  "name": "pakistan-finance-rag-corpus",
+  "title": "Pakistan Finance RAG Corpus",
+  "description": "Separate retrieval corpus for Pakistan finance, inflation, SPI/CPI/WPI, and government securities, with source documents, chunks, and citation-backed QA pairs.",
+  "version": "0.1.0",
+  "keywords": ["rag", "finance", "inflation", "cpi", "spi", "wpi", "bonds", "yields", "pakistan", "pbs", "sbp"],
+  "homepage": "https://www.pbs.gov.pk/price-statistics/",
+  "licenses": [
+    {
+      "name": "LicenseRef-PBS-Public-Website",
+      "path": "https://www.pbs.gov.pk/price-statistics/",
+      "title": "Pakistan Bureau of Statistics public website data - redistribution license not explicitly stated"
+    },
+    {
+      "name": "LicenseRef-SBP-Public-Website",
+      "path": "https://www.sbp.org.pk/economic-data",
+      "title": "State Bank of Pakistan public website data - redistribution license not explicitly stated"
+    }
+  ],
+  "resources": [
+    {"name": "rag_documents", "path": "data/processed/rag_documents.csv", "profile": "tabular-data-resource", "format": "csv", "mediatype": "text/csv"},
+    {"name": "rag_chunks", "path": "data/processed/rag_chunks.csv", "profile": "tabular-data-resource", "format": "csv", "mediatype": "text/csv"},
+    {"name": "rag_qa_pairs", "path": "data/processed/rag_qa_pairs.csv", "profile": "tabular-data-resource", "format": "csv", "mediatype": "text/csv"}
+  ]
+}

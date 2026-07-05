@@ -1,0 +1,69 @@
+resource,name,type,description,nullable,constraints
+monthly_macro_inflation_features,period,string,Observation month in YYYY-MM format,false,Primary key
+monthly_macro_inflation_features,year,integer,Calendar year,false,
+monthly_macro_inflation_features,month,integer,Calendar month,false,"1-12"
+monthly_macro_inflation_features,national_cpi_yoy_pct,number,National CPI YoY inflation percent,true,
+monthly_macro_inflation_features,national_cpi_mom_pct,number,National CPI MoM inflation percent,true,
+monthly_macro_inflation_features,urban_cpi_yoy_pct,number,Urban CPI YoY inflation percent,true,
+monthly_macro_inflation_features,urban_cpi_mom_pct,number,Urban CPI MoM inflation percent,true,
+monthly_macro_inflation_features,rural_cpi_yoy_pct,number,Rural CPI YoY inflation percent,true,
+monthly_macro_inflation_features,rural_cpi_mom_pct,number,Rural CPI MoM inflation percent,true,
+monthly_macro_inflation_features,spi_yoy_pct,number,SPI YoY inflation percent,true,
+monthly_macro_inflation_features,spi_mom_pct,number,SPI MoM inflation percent,true,
+monthly_macro_inflation_features,wpi_yoy_pct,number,WPI YoY inflation percent,true,
+monthly_macro_inflation_features,wpi_mom_pct,number,WPI MoM inflation percent,true,
+monthly_macro_inflation_features,*_index_2015_16,number,CPI or WPI index on 2015-16 base,true,
+monthly_macro_inflation_features,annual_*,number,Annual World Bank WDI macro feature joined by calendar year,true,
+monthly_macro_inflation_features,*_lag_1m,number,One-month lag feature,true,
+monthly_macro_inflation_features,*_lag_3m,number,Three-month lag feature,true,
+monthly_macro_inflation_features,*_rolling_3m_avg,number,Trailing three-month rolling average,true,
+monthly_macro_inflation_features,*_rolling_6m_avg,number,Trailing six-month rolling average,true,
+monthly_macro_inflation_features,target_next_month_national_cpi_yoy_pct,number,Next-month national CPI YoY target,true,
+monthly_macro_inflation_features,target_next_month_wpi_yoy_pct,number,Next-month WPI YoY target,true,
+monthly_macro_inflation_features,target_next_month_national_cpi_direction,string,Next-month CPI direction target,true,"up|down|flat"
+monthly_macro_inflation_features,split,string,Chronological ML split,false,"train|validation|test"
+weekly_spi_price_features,week_end_date,date,SPI week ending date,false,Composite primary key
+weekly_spi_price_features,item_number,integer,PBS item number,false,Composite primary key
+weekly_spi_price_features,item_description,string,Item description,false,
+weekly_spi_price_features,unit,string,Published item unit,false,
+weekly_spi_price_features,city_code,string,PBS city code,false,Composite primary key
+weekly_spi_price_features,city,string,City name,false,
+weekly_spi_price_features,price_pkr,number,Current average weekly city-item price,false,
+weekly_spi_price_features,price_lag_1w,number,Previous observation price for same item and city,true,
+weekly_spi_price_features,price_lag_4w,number,Four-observation lag price for same item and city,true,
+weekly_spi_price_features,price_wow_pct,number,Week-on-week price change percent,true,
+weekly_spi_price_features,price_rolling_4w_avg,number,Trailing four-observation average,true,
+weekly_spi_price_features,price_rolling_4w_std,number,Trailing four-observation standard deviation,true,
+weekly_spi_price_features,target_next_week_price_pkr,number,Next observation price target,true,
+weekly_spi_price_features,target_next_week_wow_pct,number,Next observation price change target,true,
+weekly_spi_price_features,target_next_week_direction,string,Next observation price direction target,true,"up|down|flat"
+weekly_spi_price_features,split,string,Chronological ML split,false,"train|validation|test"
+government_securities_yield_features,instrument,string,Security instrument,false,Composite primary key
+government_securities_yield_features,auction_number,string,Published auction number,false,Composite primary key
+government_securities_yield_features,date,date,Auction or settlement date,false,Composite primary key
+government_securities_yield_features,tenor,string,Security tenor,false,Composite primary key
+government_securities_yield_features,coupon_rate_pct,number,PIB coupon rate where applicable,true,
+government_securities_yield_features,amount_million_pkr,number,Accepted or realized amount in million PKR,true,
+government_securities_yield_features,weighted_average_yield_pct,number,Weighted average auction yield,false,
+government_securities_yield_features,yield_lag_1_auction_pct,number,Previous yield for same instrument and tenor,true,
+government_securities_yield_features,yield_lag_3_auction_pct,number,Three-auction lag yield for same instrument and tenor,true,
+government_securities_yield_features,yield_change_from_previous_pct_points,number,Change from previous auction yield,true,
+government_securities_yield_features,yield_rolling_3_auction_avg_pct,number,Trailing three-auction average yield,true,
+government_securities_yield_features,amount_lag_1_auction_million_pkr,number,Previous amount for same instrument and tenor,true,
+government_securities_yield_features,target_next_auction_yield_pct,number,Next auction yield target,true,
+government_securities_yield_features,target_next_auction_yield_direction,string,Next auction yield direction target,true,"up|down|flat"
+government_securities_yield_features,split,string,Chronological ML split,false,"train|validation|test"
+interest_corridor_daily_features,observation_id,string,Stable operation observation identifier,false,Primary key
+interest_corridor_daily_features,date,date,Observation date,false,
+interest_corridor_daily_features,ceiling_amount_million_pkr,number,Repo ceiling facility amount in million PKR,false,
+interest_corridor_daily_features,ceiling_institutions,number,Institutions using ceiling facility,false,
+interest_corridor_daily_features,floor_amount_million_pkr,number,Reverse repo floor facility amount in million PKR,false,
+interest_corridor_daily_features,floor_institutions,number,Institutions using floor facility,false,
+interest_corridor_daily_features,total_facility_amount_million_pkr,number,Ceiling plus floor amount,false,
+interest_corridor_daily_features,net_floor_minus_ceiling_amount_million_pkr,number,Floor amount less ceiling amount,false,
+interest_corridor_daily_features,*_lag_1,number,Previous observation lag,true,
+interest_corridor_daily_features,*_rolling_7_obs_avg,number,Trailing seven-observation average,true,
+interest_corridor_daily_features,*_rolling_30_obs_avg,number,Trailing thirty-observation average,true,
+interest_corridor_daily_features,target_next_obs_total_facility_amount_million_pkr,number,Next observation total facility amount target,true,
+interest_corridor_daily_features,target_next_obs_facility_direction,string,Next observation facility direction target,true,"up|down|flat"
+interest_corridor_daily_features,split,string,Chronological ML split,false,"train|validation|test"

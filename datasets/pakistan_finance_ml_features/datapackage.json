@@ -1,0 +1,21 @@
+{
+  "name": "pakistan-finance-ml-features",
+  "title": "Pakistan Finance ML Features",
+  "description": "Separate machine-learning feature tables for Pakistan finance: monthly macro/inflation features, weekly SPI price features, government securities yield features, and interest corridor facility usage features.",
+  "version": "0.1.0",
+  "keywords": ["machine-learning", "forecasting", "features", "inflation", "spi", "bonds", "yields", "interest-rates", "pakistan"],
+  "homepage": "https://www.pbs.gov.pk/price-statistics/",
+  "licenses": [
+    {
+      "name": "LicenseRef-Mixed-Official-Public-Website",
+      "path": "https://www.pbs.gov.pk/price-statistics/",
+      "title": "Derived from PBS/SBP public website data and World Bank WDI; redistribution license varies by source"
+    }
+  ],
+  "resources": [
+    {"name": "monthly_macro_inflation_features", "path": "data/processed/monthly_macro_inflation_features.csv", "profile": "tabular-data-resource", "format": "csv", "mediatype": "text/csv"},
+    {"name": "weekly_spi_price_features", "path": "data/processed/weekly_spi_price_features.csv", "profile": "tabular-data-resource", "format": "csv", "mediatype": "text/csv"},
+    {"name": "government_securities_yield_features", "path": "data/processed/government_securities_yield_features.csv", "profile": "tabular-data-resource", "format": "csv", "mediatype": "text/csv"},
+    {"name": "interest_corridor_daily_features", "path": "data/processed/interest_corridor_daily_features.csv", "profile": "tabular-data-resource", "format": "csv", "mediatype": "text/csv"}
+  ]
+}

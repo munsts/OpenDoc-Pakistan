@@ -1,0 +1,52 @@
+{
+  "name": "pakistan-government-securities-auctions",
+  "title": "Pakistan Government Securities Auctions",
+  "description": "Official State Bank of Pakistan auction history for Market Treasury Bills and Pakistan Investment Bonds, including detailed auction amounts, cut-off prices, weighted-average yields, and outstanding PIB securities.",
+  "version": "0.1.0",
+  "keywords": ["finance", "government-securities", "treasury-bills", "bonds", "yields", "auctions", "pakistan", "sbp"],
+  "homepage": "https://www.sbp.org.pk/economic-data",
+  "licenses": [
+    {
+      "name": "LicenseRef-SBP-Public-Website",
+      "path": "https://www.sbp.org.pk/economic-data",
+      "title": "State Bank of Pakistan public website data - redistribution license not explicitly stated"
+    }
+  ],
+  "resources": [
+    {
+      "name": "tbill_auction_results",
+      "path": "data/processed/tbill_auction_results.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "tbill_weighted_average_yields",
+      "path": "data/processed/tbill_weighted_average_yields.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "pib_auction_results",
+      "path": "data/processed/pib_auction_results.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "pib_weighted_average_yields",
+      "path": "data/processed/pib_weighted_average_yields.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "pib_outstanding_securities",
+      "path": "data/processed/pib_outstanding_securities.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv"
+    }
+  ]
+}

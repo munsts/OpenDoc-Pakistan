@@ -1,0 +1,100 @@
+resource,name,type,description,nullable,constraints
+price_indices_historical,period,string,Observation month in YYYY-MM format,false,Primary key
+price_indices_historical,year,integer,Calendar year,false,
+price_indices_historical,month,integer,Calendar month number,false,"1-12"
+price_indices_historical,national_cpi_index_2015_16,number,National CPI index with base 2015-16,false,
+price_indices_historical,urban_cpi_index_2015_16,number,Urban CPI index with base 2015-16,false,
+price_indices_historical,rural_cpi_index_2015_16,number,Rural CPI index with base 2015-16,false,
+price_indices_historical,wpi_index_2015_16,number,Wholesale Price Index with base 2015-16,false,
+price_indices_historical,cpi_index_2007_08_published,number,Published CPI index on old 2007-08 base when available,true,
+price_indices_historical,wpi_index_2007_08_published,number,Published WPI index on old 2007-08 base when available,true,
+price_indices_historical,source_url,string,Official PBS source URL,false,
+inflation_yoy_historical,period,string,Observation month in YYYY-MM format,false,Primary key
+inflation_yoy_historical,year,integer,Calendar year,false,
+inflation_yoy_historical,month,integer,Calendar month number,false,"1-12"
+inflation_yoy_historical,national_cpi_yoy_pct_2015_16,number,National CPI year-on-year inflation percent,false,
+inflation_yoy_historical,urban_cpi_yoy_pct_2015_16,number,Urban CPI year-on-year inflation percent,false,
+inflation_yoy_historical,rural_cpi_yoy_pct_2015_16,number,Rural CPI year-on-year inflation percent,false,
+inflation_yoy_historical,wpi_yoy_pct_2015_16,number,WPI year-on-year inflation percent,false,
+inflation_yoy_historical,cpi_yoy_pct_2007_08_published,number,Published CPI year-on-year percent on old 2007-08 base when available,true,
+inflation_yoy_historical,wpi_yoy_pct_2007_08_published,number,Published WPI year-on-year percent on old 2007-08 base when available,true,
+inflation_yoy_historical,source_url,string,Official PBS source URL,false,
+monthly_inflation_rates_latest,period,string,Observation month in YYYY-MM format,false,Primary key
+monthly_inflation_rates_latest,national_cpi_yoy_pct,number,National CPI year-on-year inflation percent,false,
+monthly_inflation_rates_latest,national_cpi_mom_pct,number,National CPI month-on-month inflation percent,false,
+monthly_inflation_rates_latest,urban_cpi_yoy_pct,number,Urban CPI year-on-year inflation percent,false,
+monthly_inflation_rates_latest,urban_cpi_mom_pct,number,Urban CPI month-on-month inflation percent,false,
+monthly_inflation_rates_latest,rural_cpi_yoy_pct,number,Rural CPI year-on-year inflation percent,false,
+monthly_inflation_rates_latest,rural_cpi_mom_pct,number,Rural CPI month-on-month inflation percent,false,
+monthly_inflation_rates_latest,urban_food_yoy_pct,number,Urban food CPI year-on-year inflation percent,false,
+monthly_inflation_rates_latest,urban_food_mom_pct,number,Urban food CPI month-on-month inflation percent,false,
+monthly_inflation_rates_latest,rural_food_yoy_pct,number,Rural food CPI year-on-year inflation percent,false,
+monthly_inflation_rates_latest,rural_food_mom_pct,number,Rural food CPI month-on-month inflation percent,false,
+monthly_inflation_rates_latest,urban_non_food_yoy_pct,number,Urban non-food CPI year-on-year inflation percent,false,
+monthly_inflation_rates_latest,urban_non_food_mom_pct,number,Urban non-food CPI month-on-month inflation percent,false,
+monthly_inflation_rates_latest,rural_non_food_yoy_pct,number,Rural non-food CPI year-on-year inflation percent,false,
+monthly_inflation_rates_latest,rural_non_food_mom_pct,number,Rural non-food CPI month-on-month inflation percent,false,
+monthly_inflation_rates_latest,spi_yoy_pct,number,SPI year-on-year inflation percent,false,
+monthly_inflation_rates_latest,spi_mom_pct,number,SPI month-on-month inflation percent,false,
+monthly_inflation_rates_latest,wpi_yoy_pct,number,WPI year-on-year inflation percent,false,
+monthly_inflation_rates_latest,wpi_mom_pct,number,WPI month-on-month inflation percent,false,
+monthly_inflation_rates_latest,source_url,string,Official PBS source URL,false,
+weekly_spi_city_item_prices,week_end_date,date,SPI week ending date,false,Composite primary key
+weekly_spi_city_item_prices,item_number,integer,PBS item number,false,Composite primary key
+weekly_spi_city_item_prices,item_description,string,Item description,false,
+weekly_spi_city_item_prices,unit,string,Published item unit,false,
+weekly_spi_city_item_prices,city_code,string,PBS city code,false,Composite primary key
+weekly_spi_city_item_prices,city,string,City name,false,
+weekly_spi_city_item_prices,price_type,string,Price statistic: min avg or max,false,"min|avg|max"
+weekly_spi_city_item_prices,price_pkr,number,Price in Pakistani rupees,true,
+weekly_spi_city_item_prices,availability_status,string,Source-cell availability status,false,"reported|blank|not_available|reported_zero"
+weekly_spi_city_item_prices,source_url,string,Official PBS Excel source URL,false,
+weekly_spi_summary,week_end_date,date,SPI week ending date,false,Composite primary key
+weekly_spi_summary,expenditure_group,string,Expenditure group or combined category,false,Composite primary key
+weekly_spi_summary,spi_current,number,SPI for current week,false,
+weekly_spi_summary,spi_previous_week,number,SPI for previous week,false,
+weekly_spi_summary,spi_year_ago,number,SPI for corresponding week of prior year,false,
+weekly_spi_summary,wow_change_pct,number,Week-on-week SPI change percent,false,
+weekly_spi_summary,yoy_change_pct,number,Year-on-year SPI change percent,false,
+weekly_spi_summary,source_url,string,Official PBS Excel source URL,false,
+weekly_spi_item_changes,week_end_date,date,SPI week ending date,false,Composite primary key
+weekly_spi_item_changes,change_category,string,Whether average item price increased decreased or remained unchanged,false,
+weekly_spi_item_changes,rank_in_category,integer,Published rank within change category,false,Composite primary key
+weekly_spi_item_changes,item_description,string,Item description,false,Composite primary key
+weekly_spi_item_changes,unit,string,Published item unit,false,
+weekly_spi_item_changes,price_current_pkr,number,Current average price in Pakistani rupees,false,
+weekly_spi_item_changes,price_previous_week_pkr,number,Previous week average price in Pakistani rupees,false,
+weekly_spi_item_changes,price_year_ago_pkr,number,Corresponding prior-year week average price in Pakistani rupees,false,
+weekly_spi_item_changes,wow_change_pct,number,Week-on-week item price change percent,false,
+weekly_spi_item_changes,yoy_change_pct,number,Year-on-year item price change percent,false,
+weekly_spi_item_changes,weight_lowest_group_pct,number,Item weight for lowest expenditure group,false,
+weekly_spi_item_changes,weight_combined_pct,number,Item weight for combined group,false,
+weekly_spi_item_changes,impact_lowest_group_pct_points,number,Item impact for lowest expenditure group in percentage points,false,
+weekly_spi_item_changes,impact_combined_pct_points,number,Item impact for combined group in percentage points,false,
+weekly_spi_item_changes,source_url,string,Official PBS Excel source URL,false,
+monthly_spi_city_item_prices,period,string,Observation month in YYYY-MM format,false,Composite primary key
+monthly_spi_city_item_prices,item_set,string,Whether item is one of 51 SPI index items or 15 non-index essential items,false,Composite primary key
+monthly_spi_city_item_prices,item_number,integer,PBS item number,false,Composite primary key
+monthly_spi_city_item_prices,item_description,string,Item description,false,
+monthly_spi_city_item_prices,unit,string,Published item unit,false,
+monthly_spi_city_item_prices,city,string,City name,false,Composite primary key
+monthly_spi_city_item_prices,average_price_pkr,number,Average monthly city price in Pakistani rupees,true,
+monthly_spi_city_item_prices,availability_status,string,Source-cell availability status,false,"reported|blank|not_available|reported_zero"
+monthly_spi_city_item_prices,source_url,string,Official PBS Excel source URL,false,
+source_inventory_weekly,period,date,SPI week ending date,false,
+source_inventory_weekly,annex_pdf_url,string,Official weekly annex PDF URL,true,
+source_inventory_weekly,report_pdf_url,string,Official weekly report PDF URL,true,
+source_inventory_weekly,annex_excel_url,string,Official weekly annex Excel URL,true,
+source_inventory_weekly,report_excel_url,string,Official weekly report Excel URL,true,
+source_inventory_weekly,parsed_city_item_price_rows,integer,Rows parsed into weekly_spi_city_item_prices,true,
+source_inventory_weekly,parsed_summary_rows,integer,Rows parsed into weekly_spi_summary,true,
+source_inventory_weekly,parsed_item_change_rows,integer,Rows parsed into weekly_spi_item_changes,true,
+source_inventory_weekly,parse_error,string,Parse error if encountered,true,
+source_inventory_monthly,period,string,Observation month in YYYY-MM format,false,
+source_inventory_monthly,label,string,Published month label,false,
+source_inventory_monthly,review_url,string,Official monthly review URL,true,
+source_inventory_monthly,annex_url,string,Official monthly annex URL,true,
+source_inventory_monthly,urban_construction_url,string,Official urban construction prices URL,true,
+source_inventory_monthly,rural_construction_url,string,Official rural construction prices URL,true,
+source_inventory_monthly,parsed_monthly_price_rows,integer,Rows parsed into monthly_spi_city_item_prices,true,
+source_inventory_monthly,parse_error,string,Parse error if encountered,true,

@@ -1,0 +1,29 @@
+resource,name,type,description,nullable,constraints
+rag_documents,doc_id,string,Stable document identifier,false,Primary key
+rag_documents,source_name,string,Official source organization,false,
+rag_documents,document_title,string,Document or table title,false,
+rag_documents,document_type,string,Source type such as pdf excel_report or table_resource,false,
+rag_documents,publication_date,string,Publication date or covered period,true,
+rag_documents,source_url,string,Official source URL,false,
+rag_documents,license,string,Repository license reference,false,
+rag_documents,parsed_units,string,Pages sheets or table resource parsed,false,
+rag_documents,collection_date,date,Date the corpus was built,false,
+rag_chunks,chunk_id,string,Stable retrieval chunk identifier,false,Primary key
+rag_chunks,doc_id,string,Parent document identifier,false,Foreign key to rag_documents.doc_id
+rag_chunks,source_name,string,Official source organization,false,
+rag_chunks,source_url,string,Official source URL,false,
+rag_chunks,publication_date,string,Publication date or covered period,true,
+rag_chunks,section,string,Document section or table name,false,
+rag_chunks,page_or_sheet,string,Page sheet or row locator,false,
+rag_chunks,chunk_ordinal,integer,Corpus chunk sequence number,false,
+rag_chunks,chunk_text,string,Retrieval-ready chunk text,false,
+rag_chunks,char_count,integer,Character count of chunk_text,false,Min: 1
+rag_chunks,token_estimate,integer,Approximate token count,false,Min: 1
+rag_chunks,topic_tags,string,Comma-separated finance topic tags,false,
+rag_qa_pairs,qa_id,string,Stable QA identifier,false,Primary key
+rag_qa_pairs,task_type,string,Evaluation task type,false,
+rag_qa_pairs,question,string,Question text,false,
+rag_qa_pairs,answer,string,Source-grounded answer,false,
+rag_qa_pairs,evidence_chunk_id,string,Chunk that supports the answer,false,Foreign key to rag_chunks.chunk_id
+rag_qa_pairs,source_url,string,Official source URL,false,
+rag_qa_pairs,split,string,Train validation or test split,false,"train|validation|test"

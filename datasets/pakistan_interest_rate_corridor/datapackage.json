@@ -1,0 +1,34 @@
+{
+  "name": "pakistan-interest-rate-corridor",
+  "title": "Pakistan Interest Rate Corridor Facility Usage",
+  "description": "Official State Bank of Pakistan history of access to overnight repo and reverse repo facilities, showing ceiling and floor amounts and participating institutions.",
+  "version": "0.1.0",
+  "keywords": ["finance", "interest-rates", "policy-rate", "repo", "reverse-repo", "monetary-policy", "pakistan", "sbp"],
+  "homepage": "https://www.sbp.org.pk/economic-data",
+  "licenses": [
+    {
+      "name": "LicenseRef-SBP-Public-Website",
+      "path": "https://www.sbp.org.pk/economic-data",
+      "title": "State Bank of Pakistan public website data - redistribution license not explicitly stated"
+    }
+  ],
+  "resources": [
+    {
+      "name": "interest_rate_corridor",
+      "path": "data/processed/interest_rate_corridor.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {"name": "date", "type": "date"},
+          {"name": "ceiling_amount_million_pkr", "type": "number"},
+          {"name": "ceiling_institutions", "type": "number"},
+          {"name": "floor_amount_million_pkr", "type": "number"},
+          {"name": "floor_institutions", "type": "number"}
+        ],
+        "primaryKey": ["date"]
+      }
+    }
+  ]
+}

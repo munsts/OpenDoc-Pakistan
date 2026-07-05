@@ -1,0 +1,110 @@
+{
+  "name": "pakistan-inflation-and-prices",
+  "title": "Pakistan Inflation and SPI Prices",
+  "description": "Official Pakistan Bureau of Statistics inflation and price data: CPI/WPI historical indices, inflation rates, weekly SPI city-item prices, weekly SPI summaries and item changes, and monthly SPI city-item average prices.",
+  "version": "0.1.0",
+  "keywords": ["finance", "inflation", "cpi", "spi", "wpi", "prices", "pakistan", "pbs"],
+  "homepage": "https://www.pbs.gov.pk/price-statistics/",
+  "licenses": [
+    {
+      "name": "LicenseRef-PBS-Public-Website",
+      "path": "https://www.pbs.gov.pk/price-statistics/",
+      "title": "Pakistan Bureau of Statistics public website data - redistribution license not explicitly stated"
+    }
+  ],
+  "resources": [
+    {
+      "name": "price_indices_historical",
+      "path": "data/processed/price_indices_historical.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {"name": "period", "type": "string"},
+          {"name": "year", "type": "integer"},
+          {"name": "month", "type": "integer"},
+          {"name": "national_cpi_index_2015_16", "type": "number"},
+          {"name": "urban_cpi_index_2015_16", "type": "number"},
+          {"name": "rural_cpi_index_2015_16", "type": "number"},
+          {"name": "wpi_index_2015_16", "type": "number"},
+          {"name": "cpi_index_2007_08_published", "type": "number"},
+          {"name": "wpi_index_2007_08_published", "type": "number"},
+          {"name": "source_url", "type": "string"}
+        ],
+        "primaryKey": ["period"]
+      }
+    },
+    {
+      "name": "inflation_yoy_historical",
+      "path": "data/processed/inflation_yoy_historical.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {"name": "period", "type": "string"},
+          {"name": "year", "type": "integer"},
+          {"name": "month", "type": "integer"},
+          {"name": "national_cpi_yoy_pct_2015_16", "type": "number"},
+          {"name": "urban_cpi_yoy_pct_2015_16", "type": "number"},
+          {"name": "rural_cpi_yoy_pct_2015_16", "type": "number"},
+          {"name": "wpi_yoy_pct_2015_16", "type": "number"},
+          {"name": "cpi_yoy_pct_2007_08_published", "type": "number"},
+          {"name": "wpi_yoy_pct_2007_08_published", "type": "number"},
+          {"name": "source_url", "type": "string"}
+        ],
+        "primaryKey": ["period"]
+      }
+    },
+    {
+      "name": "monthly_inflation_rates_latest",
+      "path": "data/processed/monthly_inflation_rates_latest.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "weekly_spi_city_item_prices",
+      "path": "data/processed/weekly_spi_city_item_prices.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "weekly_spi_summary",
+      "path": "data/processed/weekly_spi_summary.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "weekly_spi_item_changes",
+      "path": "data/processed/weekly_spi_item_changes.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "monthly_spi_city_item_prices",
+      "path": "data/processed/monthly_spi_city_item_prices.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "source_inventory_weekly",
+      "path": "data/processed/source_inventory_weekly.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv"
+    },
+    {
+      "name": "source_inventory_monthly",
+      "path": "data/processed/source_inventory_monthly.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv"
+    }
+  ]
+}

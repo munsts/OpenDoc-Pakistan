@@ -1,0 +1,6 @@
+name,type,description,nullable,constraints
+date,date,Observation date,false,
+ceiling_amount_million_pkr,number,Amount accessed through overnight repo ceiling facility in million PKR,false,"Min: 0"
+ceiling_institutions,number,Number of institutions using the ceiling facility,false,"Min: 0"
+floor_amount_million_pkr,number,Amount accessed through reverse repo floor facility in million PKR,false,"Min: 0"
+floor_institutions,number,Number of institutions using the floor facility,false,"Min: 0"
