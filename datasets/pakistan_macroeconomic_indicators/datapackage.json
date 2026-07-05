@@ -1,15 +1,15 @@
 {
   "name": "pakistan-macroeconomic-indicators",
-  "title": "Pakistan Macroeconomic Indicators (2010-2025)",
-  "description": "Annual macroeconomic indicators for Pakistan from the year 2010 to 2025.",
-  "version": "1.0.0",
-  "keywords": ["economics", "gdp", "inflation", "trade", "remittances", "pakistan"],
-  "homepage": "https://github.com/pakistan-data-commons/pakistan-macroeconomic-indicators",
+  "title": "Pakistan Macroeconomic Indicators (Time Series)",
+  "description": "Long-format annual time series of Pakistan macroeconomic indicators compiled from the World Bank Open Data / World Development Indicators API.",
+  "version": "1.1.0",
+  "keywords": ["economics", "macroeconomics", "gdp", "inflation", "trade", "remittances", "reserves", "pakistan", "time-series"],
+  "homepage": "https://github.com/opendoc-pakistan/pakistan-macroeconomic-indicators",
   "licenses": [
     {
-      "name": "PDDL-1.0",
-      "path": "https://opendatacommons.org/licenses/pddl/1-0/",
-      "title": "Open Data Commons Public Domain Dedication and License"
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
     }
   ],
   "resources": [
@@ -17,16 +17,17 @@
       "name": "macroeconomic_indicators",
       "path": "data/processed/macroeconomic_indicators.csv",
       "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
       "schema": {
         "fields": [
-          {"name": "year", "type": "integer"},
-          {"name": "gdp_growth_pct", "type": "number"},
-          {"name": "cpi_inflation_pct", "type": "number"},
-          {"name": "exports_billion_usd", "type": "number"},
-          {"name": "imports_billion_usd", "type": "number"},
-          {"name": "remittances_billion_usd", "type": "number"},
-          {"name": "unemployment_rate_pct", "type": "number"}
-        ]
+          {"name": "indicator_code", "type": "string", "description": "World Bank WDI indicator code."},
+          {"name": "indicator_name", "type": "string", "description": "Human-readable World Bank indicator name."},
+          {"name": "year", "type": "integer", "description": "Observation year (Gregorian calendar)."},
+          {"name": "value", "type": "number", "description": "Observed value for the indicator and year."},
+          {"name": "unit", "type": "string", "description": "Unit of measure for the value."}
+        ],
+        "primaryKey": ["indicator_code", "year"]
       }
     }
   ]

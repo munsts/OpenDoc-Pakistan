@@ -1,17 +1,601 @@
-year,gdp_growth_pct,cpi_inflation_pct,exports_billion_usd,imports_billion_usd,remittances_billion_usd,unemployment_rate_pct
-2010,1.6,13.9,22.0,37.5,9.7,5.0
-2011,2.7,11.9,25.4,43.6,11.2,5.1
-2012,3.5,9.7,24.6,43.8,12.8,5.2
-2013,4.4,7.7,25.1,43.9,13.9,5.3
-2014,4.7,7.2,24.7,43.6,15.8,5.4
-2015,4.7,2.5,22.1,44.0,18.7,5.5
-2016,5.5,2.9,20.5,47.0,19.9,5.6
-2017,5.6,4.1,22.0,55.7,19.3,5.8
-2018,5.8,5.1,24.8,60.8,19.6,5.8
-2019,1.0,10.6,24.3,54.8,21.8,6.0
-2020,-0.9,9.7,22.5,43.6,23.1,6.6
-2021,5.7,8.9,25.3,56.4,29.4,6.3
-2022,6.1,12.2,32.5,71.5,31.2,6.2
-2023,-0.2,29.2,27.7,55.3,27.3,8.5
-2024,2.4,23.4,30.6,53.2,30.3,7.8
-2025,2.8,11.8,32.1,54.5,32.5,7.2
+indicator_code,indicator_name,year,value,unit
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1970,23000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1971,1000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1972,17000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1973,-4000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1974,4000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1975,25000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1976,8220530.16788921,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1977,15223204.0146096,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1978,32273192.5109724,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1979,58254127.3625728,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1980,63632992.7810683,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1981,108084748.503728,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1982,63833091.6241583,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1983,29457026.6648159,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1984,55510169.7116457,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1985,131389252.246715,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1986,105730331.820871,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1987,129377643.59248,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1988,186491557.33337,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1989,210599917.11983,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1990,245262963.460759,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1991,258414487.035347,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1992,336479857.130617,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1993,348556957.814185,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1994,421024638.454287,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1995,722631560.660743,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1996,921976182.51983,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1997,716253125.440908,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1998,506000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",1999,532000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2000,308000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2001,378000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2002,826000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2003,534000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2004,1118000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2005,2201000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2006,4273000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2007,5590000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2008,5438000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2009,2338000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2010,2022000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2011,1326000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2012,859000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2013,1333000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2014,1887000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2015,1673000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2016,2576000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2017,2496000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2018,1737000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2019,2234000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2020,2057000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2021,2147000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2022,1462000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2023,2048000000,current_usd
+BX.KLT.DINV.CD.WD,"Foreign direct investment, net inflows (BoP, current US$)",2024,2665000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1976,411736938.5,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1977,872086608.9,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1978,1309296997,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1979,1501616821,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1980,2047622437,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1981,2067108154,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1982,2588121582,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1983,2940239990,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1984,2580805664,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1985,2537092529,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1986,2446387207,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1987,2180528076,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1988,1871958252,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1989,2017306152,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1990,2006266968,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1991,1548698364,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1992,1573619019,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1993,1446277100,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1994,1749277100,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1995,1712219435.60135,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1996,1284050241.16386,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1997,1707282924.73027,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1998,1172000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",1999,996000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2000,1075000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2001,1461000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2002,3554000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2003,3964000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2004,3945000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2005,4280000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2006,5121000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2007,5998000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2008,7039000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2009,8717000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2010,9690000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2011,12263000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2012,14007000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2013,14629000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2014,17244000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2015,19306000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2016,19819000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2017,19856000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2018,21193000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2019,22252000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2020,26089000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2021,31312000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2022,30176000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2023,26558000000,current_usd
+BX.TRF.PWKR.CD.DT,"Personal remittances, received (current US$)",2024,34914000000,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1960,327400600,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1961,261302470,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1962,269316859,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1963,307832196,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1964,254226648,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1965,230344688,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1966,208453006,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1967,165486080,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1968,258389140,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1969,332933120,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1970,194529622,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1971,198501968.272939,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1972,323798402.128806,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1973,590281469.789527,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1974,688502075.449753,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1975,562995171.933785,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1976,684140446.77116,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1977,715701866.633621,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1978,795941588.071206,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1979,1144047212.5687,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1980,1567771124.70579,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1981,1455323108.8897,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1982,1812777232.67859,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1983,2682849896.94921,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1984,1610425669.5035,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1985,1429436612.12654,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1986,1464868890.78015,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1987,1440835177.34739,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1988,1192694259.38085,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1989,1302246971.95048,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1990,1046429500.63308,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1991,1219792227.00139,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1992,1523790725.72188,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1993,1995445624.14359,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1994,3715827396.79534,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1995,2527544035.20383,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1996,1307463615.27223,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1997,1794513746.87746,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1998,1625676185.12263,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",1999,2117468754.80146,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2000,2087167574.18215,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2001,4218132004.43274,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2002,8795802481.46045,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2003,11815604886.3329,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2004,10718170456.621,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2005,11109358834.068,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2006,12878021928.1544,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2007,15798067447.2965,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2008,9024013987.18211,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2009,13606125133.5603,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2010,17255570039.5703,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2011,17697925812.3776,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2012,13688479776.3039,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2013,7651260101.72058,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2014,14306811155.4783,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2015,20027864211.2597,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2016,22027605269.5237,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2017,18455861310.286,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2018,11837177725.8521,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2019,16586046186.2171,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2020,18521734363.9531,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2021,22811522857.5295,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2022,9926587077.28489,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2023,13730353485.3454,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2024,18407745860.6666,current_usd
+FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)",2025,26455819675.7312,current_usd
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1960,6.94736842105289,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1961,1.64041994750609,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1962,-0.5164622336985,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1963,1.45648844797496,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1964,4.17958688145319,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1965,5.56863547936375,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1966,7.22762159787735,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1967,6.81139963428688,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1968,0.170627348438101,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1969,3.18698679573686,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1970,5.34984090983017,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1971,4.73069148232272,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1972,5.18323764549138,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1973,23.0700840250844,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1974,26.6630348537488,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1975,20.9045094573998,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1976,7.15832373118465,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1977,10.1329676874055,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1978,6.13869266742743,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1979,8.26704697617572,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1980,11.9382309107087,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1981,11.8799135925283,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1982,5.90352878435863,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1983,6.362033499853,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1984,6.08716673573716,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1985,5.61483921793224,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1986,3.50641424758205,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1987,4.68121854620213,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1988,8.83793701817773,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1989,7.84426473740044,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1990,9.05213155279776,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1991,11.7912703351416,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1992,9.5090414619015,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1993,9.97366476029209,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1994,12.3681943936948,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1995,12.3435785170513,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1996,10.3738085885002,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1997,11.3754928865122,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1998,6.22800415424543,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",1999,4.14263718082171,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2000,4.36666451291681,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2001,3.14826144590618,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2002,3.29034472613153,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2003,2.91413470059479,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2004,7.44462469342739,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2005,9.06332737030417,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2006,7.92108440058789,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2007,7.59868441050774,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2008,20.2861210929554,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2009,13.6477650639761,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2010,12.9388705634889,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2011,11.9160927116277,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2012,9.68235186055684,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2013,7.69215611899565,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2014,7.18938402847028,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,2.52932817254229,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,3.7651191635658,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,4.08537368032608,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,5.07805725868917,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,10.5780305672025,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,9.74011619320125,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,9.49641577285205,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,19.8738599646655,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,30.7681280657005,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,12.6325318530452,annual_percent
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2025,3.54555214890893,annual_percent
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1960,269004619.907602,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1961,255984880.302394,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1962,288744225.115498,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1963,378622427.551449,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1964,401931961.360773,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1965,418311633.767325,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1966,453170936.581268,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1967,516589668.206636,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1968,605837883.242335,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1969,601007979.840403,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1970,763754724.905502,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1971,823603527.929441,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1972,675563974.513518,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1973,942116712.380592,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1974,1208080808.08081,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1975,1312525252.52525,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1976,1402121212.12121,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1977,1413232323.23232,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1978,1679696969.69697,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1979,2174646464.64646,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1980,2978282828.28283,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1981,3606767676.76768,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1982,3131090047.39336,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1983,3495669291.33858,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1984,3549643811.21995,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1985,3290831134.56464,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1986,3922380657.16057,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1987,4605651034.08098,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1988,5331871261.74879,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1989,5652851125.93075,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1990,5917028934.69827,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1991,7725461182.02971,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1992,8442738387.45654,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1993,8394305116.6868,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1994,8449778027.40581,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1995,10132269178.8685,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1996,10703072793.5879,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1997,10040500610.948,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1998,10252214043.9952,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),1999,9668690721.42037,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2000,9580014109.68833,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2001,10322860872.5524,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2002,11029069178.3046,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2003,13669643162.0283,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2004,15103000000,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2005,17790723344.6096,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2006,20313153770.8457,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2007,21406517114.1039,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2008,24013343672.3078,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2009,23213002701.9693,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2010,24858636642.8718,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2011,31088962295.1378,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2012,29697611485.2317,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2013,31497982328.1766,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2014,30382086972.4595,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2015,29920081165.7791,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2016,27400963629.0087,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2017,27888160733.4655,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2018,30562205605.5736,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2019,30136170670.3429,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2020,27935253908.9592,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2021,31546332472.5314,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2022,39515650036.1059,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2023,35331726543.8312,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2024,38607805445.6242,current_usd
+NE.EXP.GNFS.CD,Exports of goods and services (current US$),2025,40670467311.9112,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1960,495590088.198236,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1961,577278454.430911,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1962,620327593.448131,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1963,732255354.892902,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1964,801763964.720706,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1965,1007139857.20286,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1966,806173876.52247,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1967,1013229735.40529,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1968,932801343.973121,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1969,916841663.166737,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1970,1037799244.01512,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1971,1117807643.84712,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1972,814017565.007749,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1973,907783978.057316,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1974,1535555555.55556,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1975,2324848484.84848,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1976,2409494949.49495,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1977,2701111111.11111,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1978,3292929292.92929,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1979,4295858585.85859,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1980,5512929292.92929,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1981,6275656565.65657,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1982,6492985781.99052,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1983,6458110236.22047,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1984,6843425348.76818,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1985,7040171503.95778,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1986,6415065096.09423,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1987,6366035537.43082,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1988,7473483338.08032,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1989,8174710142.51481,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1990,8100453419.34278,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1991,8434875710.52096,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1992,9984113697.29231,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1993,11552190707.3422,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1994,9883122490.28425,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1995,11777213240.079,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1996,13567628711.2634,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1997,12967600154.0064,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1998,10900343051.9781,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),1999,10684436462.7839,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2000,11769388547.9584,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2001,12581363105.462,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2002,11619627151.6726,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2003,14030211712.4808,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2004,17697600000,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2005,25595408507.0825,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2006,33184884874.8509,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2007,35286555607.2316,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2008,45441542692.237,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2009,39220849368.7124,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2010,38066808315.7267,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2011,43534938844.223,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2012,48633322390.5338,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2013,48401946136.1579,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2014,49596212908.433,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2015,50134759860.0874,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2016,50070595635.3331,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2017,58514391836.2421,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2018,67821965004.981,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2019,62624564039.0062,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2020,52327295403.4835,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2021,62659182539.6335,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2022,84315688680.3991,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2023,60515108025.9204,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2024,63865509443.4655,current_usd
+NE.IMP.GNFS.CD,Imports of goods and services (current US$),2025,70090772303.0925,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1960,3749265014.69971,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1961,4118647627.04746,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1962,4310163796.72407,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1963,4630827383.45233,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1964,5204955900.88198,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1965,5929231415.37169,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1966,6561108777.82444,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1967,7464510709.7858,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1968,8041999160.0168,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1969,8683116337.67325,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1970,10027509449.811,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1971,10665896682.0664,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1972,9415016359.56604,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1973,6383429490.21091,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1974,8899191919.19192,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1975,11230606060.6061,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1976,13168080808.0808,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1977,15126060606.0606,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1978,17811515151.5152,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1979,19688383838.3838,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1980,23654444444.4444,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1981,28100606060.6061,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1982,30725971563.981,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1983,28691889763.7795,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1984,31151825467.4978,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1985,31144920844.3272,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1986,31899070055.7967,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1987,33351529274.6869,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1988,38472742808.3167,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1989,40171106279.0078,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1990,40010423970.4576,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1991,45625336680.2047,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1992,48884671947.4657,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1993,51809999353.1614,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1994,52293470813.1336,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1995,60636071684.1918,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1996,63320170084.4076,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1997,62433340468.0228,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1998,62191955814.3478,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),1999,62973857068.5113,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2000,99484802344.5277,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2001,97145618479.9038,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2002,97923302809.3537,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2003,112371913740.823,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2004,132216048339.413,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2005,145208562960.767,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2006,161871385506.36,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2007,184140869997.46,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2008,202203748583.854,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2009,187337783856.466,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2010,196709621849.586,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2011,230586581059.665,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2012,250106966104.704,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2013,258657231672.412,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2014,271390474857.632,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2015,299963590534.773,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2016,313630000130.435,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2017,339205534861.1,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2018,356128166704.921,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2019,320909472770.669,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2020,300425609817.981,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2021,348516647445.148,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2022,374890295666.694,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2023,336686348609.266,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2024,371747087751.306,current_usd
+NY.GDP.MKTP.CD,GDP (current US$),2025,407307214476.222,current_usd
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1961,5.98734641929141,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1962,4.48285862750326,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1963,8.68883151825786,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1964,7.56975744902432,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1965,10.4193658220408,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1966,5.78995180142022,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1967,5.4006125972184,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1968,7.23322092498739,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1969,5.5078996342957,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1970,11.3534617181927,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1971,0.468372548493363,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1972,0.813406404584697,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1973,7.06426385694971,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1974,3.54019171278873,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1975,4.21141563146435,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1976,5.15618958986124,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1977,3.94769828741323,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1978,8.04853361937855,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1979,3.75843556852186,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1980,10.2157040372755,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1981,7.92076357199696,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1982,6.53748679998847,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1983,6.77837833870171,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1984,5.06520560476402,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1985,7.59211469875896,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1986,5.50165366386253,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1987,6.45234302466982,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1988,7.62527877959378,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1989,4.95976889440439,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1990,4.45858681510218,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1991,5.06156775897861,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1992,7.70589781716029,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1993,1.7577476978468,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1994,3.73741555767747,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1995,4.96260914623281,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1996,4.84658128681654,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1997,1.01439601077892,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1998,2.55023429817393,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),1999,3.66013273943236,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2000,4.2600880111325,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2001,3.65135017083765,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2002,2.59481668445784,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2003,5.40131087314342,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2004,7.83125556961251,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2005,7.2765744364722,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2006,6.05163767569996,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2007,4.4448143398844,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2008,2.1204410433083,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2009,3.47255059567348,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2010,1.50171752152883,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2011,2.68011685421705,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2012,3.02758391088629,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2013,4.36686504978387,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2014,4.11642817161422,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,4.21794209572506,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,6.57383828511043,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,4.43262590683975,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,6.15170261099519,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,2.49763692943365,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-1.27408744338709,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,6.51388575852702,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,4.7781068690358,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,-0.414935997088406,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,3.08176295579301,percent
+NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,3.69842668749033,percent
+NY.GDP.PCAP.CD,GDP per capita (current US$),1960,82.0241000071912,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1961,87.7778246966181,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1962,89.5039525753413,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1963,93.6508728613463,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1964,102.45976384531,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1965,113.567206414596,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1966,122.229353754713,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1967,135.190474942968,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1968,141.558306459346,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1969,148.528512990071,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1970,166.662061958389,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1971,172.453662202274,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1972,148.073976270617,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1973,97.5136425928243,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1974,132.005156607293,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1975,161.681774899518,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1976,183.859733422347,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1977,204.677762649367,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1978,233.41799161409,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1979,249.229389957057,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1980,287.448707270022,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1981,327.505069961745,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1982,344.889792466995,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1983,311.098361356703,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1984,327.345625152291,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1985,317.063499386432,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1986,313.946324043906,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1987,317.23867416111,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1988,353.85454278549,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1989,357.595796105007,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1990,344.45547384189,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1991,380.019843346229,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1992,395.67720859593,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1993,407.888140688466,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1994,399.955927561352,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1995,450.550279346206,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1996,456.996961832943,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1997,438.030942680153,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1998,424.453697798497,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),1999,418.249257055367,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2000,642.338346499898,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2001,609.939506905073,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2002,599.937345723927,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2003,672.44178669894,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2004,771.902247348954,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2005,827.619861189926,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2006,900.873564984808,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2007,998.090114197524,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2008,1067.04324565284,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2009,963.788066395225,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2010,987.304571124485,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2011,1131.73513834324,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2012,1204.36475491585,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2013,1225.4340119198,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2014,1266.61340849959,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2015,1380.47020838317,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2016,1424.69161195897,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2017,1519.23459514248,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2018,1569.33814626355,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2019,1390.41690981745,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2020,1278.39735206896,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2021,1455.31922370186,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2022,1538.3228133171,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2023,1360.32417758419,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2024,1479.47755241191,current_usd_per_person
+NY.GDP.PCAP.CD,GDP per capita (current US$),2025,1595.90912252837,current_usd_per_person
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1991,0.596,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1992,0.587,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1993,0.596,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1994,0.601,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1995,0.611,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1996,0.6,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1997,0.611,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1998,0.62,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",1999,0.625,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2000,0.614,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2001,0.611,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2002,0.615,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2003,0.612,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2004,0.598,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2005,0.583,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2006,0.582,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2007,0.398,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2008,0.423,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2009,0.535,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2010,0.653,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2011,0.796,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2012,3.667,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2013,2.954,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2014,1.827,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2015,3.566,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2016,2.285,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2017,3.204,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2018,4.083,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2019,4.83,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2020,5.994,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2021,6.338,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2022,5.291,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2023,5.237,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2024,5.492,percent_of_labor_force
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2025,5.42,percent_of_labor_force

@@ -1,114 +1,120 @@
-# Pakistan Macroeconomic Indicators (2010–2025)
+# Pakistan Macroeconomic Indicators (Time Series)
 
 ## Summary
 
-This dataset compiles key annual macroeconomic indicators for Pakistan from the year 2010 to 2025. It tracks GDP growth percentage, consumer price index (CPI) inflation, exports, imports, worker remittances, and the unemployment rate. This dataset is essential for economic researchers, policy analysts, and data science students studying inflation cycles, trade deficits, and growth trends.
+This dataset is a long-format annual time series of Pakistan macroeconomic indicators compiled from the World Bank Open Data / World Development Indicators (WDI) API. It covers GDP, GDP per capita, GDP growth, consumer inflation, foreign direct investment, personal remittances, unemployment, total reserves, exports, and imports from 1960 to 2025 where observations are available.
 
 ## Dataset Details
 
 - **Dataset ID**: `pakistan-macroeconomic-indicators`
-- **Version**: `1.0.0`
+- **Version**: `1.1.0`
 - **Category**: `Economy and Finance`
-- **Tags**: `economics`, `gdp`, `inflation`, `trade`, `remittances`, `pakistan`
+- **Tags**: `economics`, `macroeconomics`, `gdp`, `inflation`, `trade`, `remittances`, `reserves`, `pakistan`, `time-series`
 - **Language**: `English`
-- **Geography**: `Pakistan (national scale)`
-- **Time Period**: `2010 - 2025`
+- **Geography**: `Pakistan (national aggregate)`
+- **Time Period**: `1960 - 2025`
 - **File Formats**: `CSV`
-- **Size**: `1 KB`
-- **Update Frequency**: `Annually`
+- **Records**: `600 observations across 10 indicators`
+- **Update Frequency**: `Annual`
 - **Maintainer**: `OpenDoc Data Stewardship Team`
 
 ## Source and Provenance
 
-- **Source Name**: State Bank of Pakistan (SBP) & Pakistan Bureau of Statistics (PBS)
-- **Source URL**: https://www.sbp.org.pk
-- **Source Type**: Official Central Bank and Bureau of Statistics publications
-- **Collection Method**: Digitized and consolidated from historical annual reports and economic surveys.
-- **Collection Date**: January 2026
-- **Processing Pipeline**: Consolidated tabular listings, adjusted columns to consistent scale (Billions USD), and compiled into standard CSV.
-- **Raw Data Availability**: Publicly available on SBP and PBS websites.
+- **Source Name**: World Bank Open Data - World Development Indicators (WDI)
+- **Source URL**: https://data.worldbank.org/country/pakistan
+- **Source Type**: Public open-data API (`https://api.worldbank.org/v2/country/PAK/indicator/...`)
+- **Collection Method**: Programmatic download of per-indicator JSON responses for country `PAK`, filtered to non-null observations.
+- **Collection Date**: July 4, 2026
+- **Processing Pipeline**: Merged per-indicator API responses into a single long-format table (`indicator_code, indicator_name, year, value, unit`), dropped null values, added unit labels, sorted by indicator and year.
+- **Raw Data Availability**: Fully public via the World Bank API.
 
 ## License
 
-- **Original License**: Public Domain (State Bank of Pakistan open release)
-- **Repository License**: Open Data Commons Public Domain Dedication and License (PDDL)
-- **Attribution Required**: Recommended (Optional)
+- **Original License**: CC BY 4.0 (World Bank Open Data Terms of Use)
+- **Repository License**: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- **Attribution Required**: Yes
 - **Commercial Use**: Allowed
 - **Redistribution**: Allowed
-- **Restrictions**: None.
+- **Restrictions**: Must credit the World Bank and OpenDoc Pakistan.
 
 ## Intended Use
 
 Appropriate for:
-- Building macroeconomic forecasting models (e.g., predicting inflation based on import levels).
-- Analyzing the historical impact of workers' remittances on national economic indicators.
-- Historical trend visualization.
+- Macroeconomic trend analysis and forecasting.
+- Feature engineering for country-level economic, finance, development, and policy models.
+- Teaching examples for long-format time-series analysis.
 
 ## Out-of-Scope Use
 
-Prohibited or discouraged uses:
-- Real-time stock trading or short-term investment advising (this dataset has annual resolution).
-- Micro-economic or corporate finance analysis (the indicators are macro-aggregate).
+- Real-time financial trading or investment advice; values are annual national aggregates and may lag.
+- Sub-national fiscal or economic analysis; values are national aggregates.
+- Interpreting provisional or revised years without checking the latest World Bank metadata.
 
 ## Data Structure
 
-The dataset contains a single CSV file under `data/processed/macroeconomic_indicators.csv`.
+Single CSV at `data/processed/macroeconomic_indicators.csv` in long format. One row represents one indicator-year observation.
+
 Columns:
-- `year` (integer): Calendar year of observation.
-- `gdp_growth_pct` (number): Real GDP growth rate percentage.
-- `cpi_inflation_pct` (number): Average consumer price index inflation percentage.
-- `exports_billion_usd` (number): Total goods and services exports in billions of USD.
-- `imports_billion_usd` (number): Total goods and services imports in billions of USD.
-- `remittances_billion_usd` (number): Worker remittances inflows in billions of USD.
-- `unemployment_rate_pct` (number): Estimated percentage of the labor force that is unemployed.
+- `indicator_code`: World Bank WDI indicator code.
+- `indicator_name`: World Bank indicator name.
+- `year`: Gregorian calendar year.
+- `value`: Numeric observation.
+- `unit`: Curated unit label.
+
+Indicators included:
+- `BX.KLT.DINV.CD.WD`: Foreign direct investment, net inflows (BoP, current US$)
+- `BX.TRF.PWKR.CD.DT`: Personal remittances, received (current US$)
+- `FI.RES.TOTL.CD`: Total reserves (includes gold, current US$)
+- `FP.CPI.TOTL.ZG`: Inflation, consumer prices (annual %)
+- `NE.EXP.GNFS.CD`: Exports of goods and services (current US$)
+- `NE.IMP.GNFS.CD`: Imports of goods and services (current US$)
+- `NY.GDP.MKTP.CD`: GDP (current US$)
+- `NY.GDP.MKTP.KD.ZG`: GDP growth (annual %)
+- `NY.GDP.PCAP.CD`: GDP per capita (current US$)
+- `SL.UEM.TOTL.ZS`: Unemployment, total (% of total labor force)
 
 ## Data Dictionary
 
-Detailed field definitions are available in [data_dictionary.csv](data_dictionary.csv).
+See [data_dictionary.csv](data_dictionary.csv).
 
 ## Quality Report
 
 - **Quality Score**: 100 / 100
 - **Rating**: Excellent
-- **Missing Values**: 0%
-- **Duplicate Rows**: 0%
-- **Validation Status**: Passed
-- **Known Issues**: None.
+- **Missing Values**: Null observations removed; coverage varies by indicator and year.
+- **Duplicate Rows**: 0% (primary key: `indicator_code` + `year`).
+- **Validation Status**: Passed CSV integrity validation.
+- **Known Issues**: World Bank API calls for official exchange rate (`PA.NUS.FCRF`), current-account balance (`BN.CAB.XOKA.CD`), and external debt stocks (`DT.DOD.DECT.CD`) returned repeated gateway/time-out errors during the July 4, 2026 build and are not included in v1.1.0.
 
 ## Privacy and Sensitivity Review
 
-- **Privacy Level**: P0 (No personal data; national aggregates)
+- **Privacy Level**: P0 (aggregate national statistics, no personal data)
 - **Personal Data Present**: No
 - **Sensitive Data Present**: No
-- **Redactions Applied**: None.
-- **Reviewer**: OpenDoc Compliance Board
-- **Review Date**: July 3, 2026
+- **Redactions Applied**: None
+- **Reviewer**: OpenDoc Data Stewardship Team
+- **Review Date**: July 4, 2026
 
 ## Bias, Gaps, and Limitations
 
-- Data for the final year (2025) contains provisional estimates released by the SBP, subject to adjustments in subsequent economic surveys.
-- Parallel exchange markets (e.g., open market vs interbank rates) are not modeled in the trade indicators.
+- National aggregates hide provincial, sectoral, urban/rural, and income-group differences.
+- Some indicators are modelled estimates and may be revised by the World Bank.
+- Indicator coverage is uneven: not every metric has observations back to 1960.
+- Values are calendar-year WDI series and may not align with Pakistan fiscal-year reporting.
 
 ## Example Usage
 
 ```python
 import pandas as pd
-import matplotlib.pyplot as plt
 
-# Load dataset
 df = pd.read_csv("data/processed/macroeconomic_indicators.csv")
 
-# Plot GDP growth vs Inflation over years
-plt.plot(df["year"], df["gdp_growth_pct"], label="GDP Growth %")
-plt.plot(df["year"], df["cpi_inflation_pct"], label="CPI Inflation %")
-plt.legend()
-plt.title("GDP Growth vs Inflation in Pakistan")
-plt.show()
+inflation = df[df["indicator_code"] == "FP.CPI.TOTL.ZG"]
+print(inflation[["year", "value"]].tail(10))
 ```
 
 ## Citation
 
-Please cite this dataset as:
 ```text
-State Bank of Pakistan, "Pakistan Macroeconomic Indicators (2010–2025)", curated by OpenDoc Pakistan (OpenDoc), v1.0.0, 2026.
+World Bank, "World Development Indicators - Pakistan", curated as "Pakistan Macroeconomic Indicators" by OpenDoc Pakistan (OpenDoc), v1.1.0, 2026.
 ```
