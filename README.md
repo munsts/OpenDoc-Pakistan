@@ -15,6 +15,7 @@ Each dataset lives in `datasets/<dataset_name>/` and includes:
 | --- | --- |
 | Pakistan 2023 Digital Census (Districts) | `datasets/pakistan_census_2023_districts/data/processed/census_2023_districts.csv` |
 | Pakistan Climate AQI | `datasets/pakistan_climate_aqi/data/processed/climate_aqi.csv` |
+| Pakistan Corporate Financials & Taxation | `datasets/pakistan_corporate_financials_and_taxes/data/processed/corporate_financials_and_taxes.csv` |
 | Pakistan Disease Surveillance | `datasets/pakistan_disease_surveillance/data/processed/disease_surveillance.csv` |
 | Pakistan Drug Registry | `datasets/pakistan_drug_registry/data/processed/drug_registry.csv` |
 | Pakistan Education Statistics | `datasets/pakistan_education_statistics/data/processed/education_statistics.csv` |
@@ -28,6 +29,7 @@ Each dataset lives in `datasets/<dataset_name>/` and includes:
 | Pakistan Interest Rate Corridor | `datasets/pakistan_interest_rate_corridor/data/processed/interest_rate_corridor.csv` |
 | Pakistan Macroeconomic Indicators | `datasets/pakistan_macroeconomic_indicators/data/processed/macroeconomic_indicators.csv` |
 | Pakistan Provincial Health Indicators | `datasets/pakistan_provincial_health_indicators/data/processed/provincial_health_indicators.csv` |
+| Pakistan Taxpayer Heatmap & Regional Collections | `datasets/pakistan_taxpayer_heatmap_and_collections/data/processed/taxpayer_heatmap_and_collections.csv` |
 
 ## License
 

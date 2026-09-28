@@ -1,0 +1,84 @@
+{
+  "name": "pakistan-corporate-financials-and-taxes",
+  "title": "Pakistan Top Corporate Financials, Taxation, and Effective Tax Rates (2020-2024)",
+  "description": "Multi-year financial statements analysis and corporate tax contributions of leading listed companies on the Pakistan Stock Exchange (PSX), tracking revenue, pre-tax profits, tax provisions, effective tax rates (ETR), assets, and sectoral tax burdens across 15 industries.",
+  "version": "1.0.0",
+  "category": "Corporate Finance & Taxation",
+  "keywords": [
+    "corporate",
+    "financials",
+    "taxation",
+    "effective-tax-rate",
+    "super-tax",
+    "revenue",
+    "psx",
+    "fbr",
+    "sbp",
+    "pakistan",
+    "banking",
+    "energy",
+    "cement",
+    "textile"
+  ],
+  "source_organization": "State Bank of Pakistan (SBP) & Pakistan Stock Exchange (PSX)",
+  "source_url": "https://www.sbp.org.pk",
+  "maintainer": "OpenDoc Data Stewardship Team",
+  "geographic_coverage": "Pakistan (National Corporate Sector)",
+  "temporal_coverage": "2020-2024",
+  "update_frequency": "Annually",
+  "license": "CC-BY-4.0",
+  "pipeline_source": "scripts/ingest/build_corporate_financials.py",
+  "homepage": "https://github.com/munsts/OpenDoc-Pakistan",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "resources": [
+    {
+      "name": "corporate_financials_and_taxes",
+      "path": "data/processed/corporate_financials_and_taxes.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {"name": "symbol", "type": "string", "description": "PSX stock ticker symbol."},
+          {"name": "company_name", "type": "string", "description": "Official company legal name."},
+          {"name": "sector", "type": "string", "description": "PSX industrial sector."},
+          {"name": "market_cap_category", "type": "string", "description": "Market capitalization tier."},
+          {"name": "fiscal_year", "type": "integer", "description": "Fiscal year."},
+          {"name": "revenue_pkr_million", "type": "number", "description": "Total turnover/revenue (PKR Million)."},
+          {"name": "profit_before_tax_pkr_million", "type": "number", "description": "Profit before tax (PKR Million)."},
+          {"name": "tax_expense_pkr_million", "type": "number", "description": "Provision for taxation / taxes paid (PKR Million)."},
+          {"name": "profit_after_tax_pkr_million", "type": "number", "description": "Profit after tax (PKR Million)."},
+          {"name": "effective_tax_rate_pct", "type": "number", "description": "Effective tax rate percentage."},
+          {"name": "total_assets_pkr_million", "type": "number", "description": "Total balance sheet assets (PKR Million)."},
+          {"name": "super_tax_applicable", "type": "string", "description": "Applicability of Section 4C Super Tax."}
+        ],
+        "primaryKey": ["symbol", "fiscal_year"]
+      }
+    },
+    {
+      "name": "sectoral_tax_and_revenue_summary",
+      "path": "data/processed/sectoral_tax_and_revenue_summary.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {"name": "sector", "type": "string"},
+          {"name": "fiscal_year", "type": "integer"},
+          {"name": "company_count", "type": "integer"},
+          {"name": "total_revenue_pkr_billion", "type": "number"},
+          {"name": "total_profit_before_tax_pkr_billion", "type": "number"},
+          {"name": "total_tax_paid_pkr_billion", "type": "number"},
+          {"name": "total_profit_after_tax_pkr_billion", "type": "number"},
+          {"name": "sector_effective_tax_rate_pct", "type": "number"}
+        ]
+      }
+    }
+  ]
+}

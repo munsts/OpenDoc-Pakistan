@@ -1,0 +1,311 @@
+symbol,company_name,sector,market_cap_category,fiscal_year,revenue_pkr_million,profit_before_tax_pkr_million,tax_expense_pkr_million,profit_after_tax_pkr_million,effective_tax_rate_pct,total_assets_pkr_million,super_tax_applicable
+ATLH,Atlas Honda Limited,Automobile Assemblers,Mid Cap,2020,72400,4500,1400,3100,31.11,42000,false
+ATLH,Atlas Honda Limited,Automobile Assemblers,Mid Cap,2021,91500,5200,1600,3600,30.77,51000,false
+ATLH,Atlas Honda Limited,Automobile Assemblers,Mid Cap,2022,123000,6800,2100,4700,30.88,65000,true
+ATLH,Atlas Honda Limited,Automobile Assemblers,Mid Cap,2023,138000,7400,2400,5000,32.43,72000,true
+ATLH,Atlas Honda Limited,Automobile Assemblers,Mid Cap,2024,154000,9800,3100,6700,31.63,81000,true
+HCAR,Honda Atlas Cars (Pakistan) Limited,Automobile Assemblers,Mid Cap,2020,37400,1100,420,680,38.18,32000,false
+HCAR,Honda Atlas Cars (Pakistan) Limited,Automobile Assemblers,Mid Cap,2021,67100,2600,850,1750,32.69,45000,false
+HCAR,Honda Atlas Cars (Pakistan) Limited,Automobile Assemblers,Mid Cap,2022,108000,3800,1300,2500,34.21,62000,true
+HCAR,Honda Atlas Cars (Pakistan) Limited,Automobile Assemblers,Mid Cap,2023,48200,380,450,-70,118.42,41000,true
+HCAR,Honda Atlas Cars (Pakistan) Limited,Automobile Assemblers,Mid Cap,2024,54000,1200,520,680,43.33,46000,true
+INDU,Indus Motor Company Limited,Automobile Assemblers,Large Cap,2020,86200,7400,2300,5100,31.08,72000,false
+INDU,Indus Motor Company Limited,Automobile Assemblers,Large Cap,2021,179200,18200,5400,12800,29.67,115000,false
+INDU,Indus Motor Company Limited,Automobile Assemblers,Large Cap,2022,275500,23500,7700,15800,32.77,155000,true
+INDU,Indus Motor Company Limited,Automobile Assemblers,Large Cap,2023,177700,14200,4500,9700,31.69,138000,true
+INDU,Indus Motor Company Limited,Automobile Assemblers,Large Cap,2024,192000,18500,5800,12700,31.35,148000,true
+MTL,Millat Tractors Limited,Automobile Assemblers,Large Cap,2020,23200,3100,950,2150,30.65,24000,false
+MTL,Millat Tractors Limited,Automobile Assemblers,Large Cap,2021,43900,8200,2400,5800,29.27,35000,false
+MTL,Millat Tractors Limited,Automobile Assemblers,Large Cap,2022,53300,7800,2400,5400,30.77,41000,true
+MTL,Millat Tractors Limited,Automobile Assemblers,Large Cap,2023,44200,5100,1800,3300,35.29,38000,true
+MTL,Millat Tractors Limited,Automobile Assemblers,Large Cap,2024,76500,12800,4200,8600,32.81,52000,true
+PAKC,Pakistan Cables Limited,Cables & Electrical Goods,Mid Cap,2020,9200,280,95,185,33.93,10500,false
+PAKC,Pakistan Cables Limited,Cables & Electrical Goods,Mid Cap,2021,13200,720,210,510,29.17,13800,false
+PAKC,Pakistan Cables Limited,Cables & Electrical Goods,Mid Cap,2022,21500,1240,380,860,30.65,19500,true
+PAKC,Pakistan Cables Limited,Cables & Electrical Goods,Mid Cap,2023,24800,1450,480,970,33.1,22500,true
+PAKC,Pakistan Cables Limited,Cables & Electrical Goods,Mid Cap,2024,26500,1600,520,1080,32.5,24500,true
+CHCC,Cherat Cement Company Limited,Cement,Mid Cap,2020,17100,-1200,380,-1580,0.0,45000,false
+CHCC,Cherat Cement Company Limited,Cement,Mid Cap,2021,25200,4200,1100,3100,26.19,52000,false
+CHCC,Cherat Cement Company Limited,Cement,Mid Cap,2022,32800,6400,2100,4300,32.81,61000,true
+CHCC,Cherat Cement Company Limited,Cement,Mid Cap,2023,37500,8200,3100,5100,37.8,68000,true
+CHCC,Cherat Cement Company Limited,Cement,Mid Cap,2024,39200,8600,3300,5300,38.37,72000,true
+DGKC,D.G. Khan Cement Company Limited,Cement,Mid Cap,2020,38200,-2800,750,-3550,0.0,124000,false
+DGKC,D.G. Khan Cement Company Limited,Cement,Mid Cap,2021,45100,5600,1700,3900,30.36,138000,false
+DGKC,D.G. Khan Cement Company Limited,Cement,Mid Cap,2022,58400,5800,2200,3600,37.93,155000,true
+DGKC,D.G. Khan Cement Company Limited,Cement,Mid Cap,2023,67200,7100,3200,3900,45.07,172000,true
+DGKC,D.G. Khan Cement Company Limited,Cement,Mid Cap,2024,68500,6800,2900,3900,42.65,180000,true
+FCCL,Fauji Cement Company Limited,Cement,Mid Cap,2020,17200,-150,420,-570,0.0,58000,false
+FCCL,Fauji Cement Company Limited,Cement,Mid Cap,2021,24300,4800,1400,3400,29.17,65000,false
+FCCL,Fauji Cement Company Limited,Cement,Mid Cap,2022,54200,9200,3400,5800,36.96,128000,true
+FCCL,Fauji Cement Company Limited,Cement,Mid Cap,2023,68400,14200,4900,9300,34.51,145000,true
+FCCL,Fauji Cement Company Limited,Cement,Mid Cap,2024,72000,15100,5200,9900,34.44,155000,true
+LUCK,Lucky Cement Limited,Cement,Large Cap,2020,102980,8400,1900,6500,22.62,225000,false
+LUCK,Lucky Cement Limited,Cement,Large Cap,2021,182340,32100,7800,24300,24.3,289000,false
+LUCK,Lucky Cement Limited,Cement,Large Cap,2022,268260,40500,12900,27600,31.85,385000,true
+LUCK,Lucky Cement Limited,Cement,Large Cap,2023,385150,67800,21400,46400,31.56,492000,true
+LUCK,Lucky Cement Limited,Cement,Large Cap,2024,385000,78400,22100,56300,28.19,545000,true
+MLCF,Maple Leaf Cement Factory Limited,Cement,Mid Cap,2020,29100,-4900,850,-5750,0.0,89000,false
+MLCF,Maple Leaf Cement Factory Limited,Cement,Mid Cap,2021,35500,5800,1900,3900,32.76,98000,false
+MLCF,Maple Leaf Cement Factory Limited,Cement,Mid Cap,2022,48200,6200,2500,3700,40.32,115000,true
+MLCF,Maple Leaf Cement Factory Limited,Cement,Mid Cap,2023,61500,9800,3800,6000,38.78,132000,true
+MLCF,Maple Leaf Cement Factory Limited,Cement,Mid Cap,2024,64200,10500,4100,6400,39.05,142000,true
+EPCL,Engro Polymer & Chemicals Limited,Chemicals,Mid Cap,2020,35300,8400,2500,5900,29.76,54000,false
+EPCL,Engro Polymer & Chemicals Limited,Chemicals,Mid Cap,2021,70000,21500,6400,15100,29.77,72000,false
+EPCL,Engro Polymer & Chemicals Limited,Chemicals,Mid Cap,2022,82000,17200,5400,11800,31.4,85000,true
+EPCL,Engro Polymer & Chemicals Limited,Chemicals,Mid Cap,2023,76000,11200,3800,7400,33.93,89000,true
+EPCL,Engro Polymer & Chemicals Limited,Chemicals,Mid Cap,2024,78500,9800,3300,6500,33.67,92000,true
+LOTCHEM,Lotte Chemical Pakistan Limited,Chemicals,Mid Cap,2020,38500,3100,950,2150,30.65,32000,false
+LOTCHEM,Lotte Chemical Pakistan Limited,Chemicals,Mid Cap,2021,67200,6800,2100,4700,30.88,44000,false
+LOTCHEM,Lotte Chemical Pakistan Limited,Chemicals,Mid Cap,2022,100200,14500,4400,10100,30.34,58000,true
+LOTCHEM,Lotte Chemical Pakistan Limited,Chemicals,Mid Cap,2023,84500,8200,2600,5600,31.71,52000,true
+LOTCHEM,Lotte Chemical Pakistan Limited,Chemicals,Mid Cap,2024,86000,7800,2500,5300,32.05,54000,true
+LUCKYCORE,Lucky Core Industries Limited,Chemicals,Large Cap,2020,53600,4800,1400,3400,29.17,58000,false
+LUCKYCORE,Lucky Core Industries Limited,Chemicals,Large Cap,2021,64200,8500,2300,6200,27.06,68000,false
+LUCKYCORE,Lucky Core Industries Limited,Chemicals,Large Cap,2022,100500,12400,3900,8500,31.45,92000,true
+LUCKYCORE,Lucky Core Industries Limited,Chemicals,Large Cap,2023,109800,18200,5800,12400,31.87,115000,true
+LUCKYCORE,Lucky Core Industries Limited,Chemicals,Large Cap,2024,122000,19500,6200,13300,31.79,128000,true
+BAFL,Bank Alfalah Limited,Commercial Banks,Large Cap,2020,55000,17900,7400,10500,41.34,1380000,false
+BAFL,Bank Alfalah Limited,Commercial Banks,Large Cap,2021,62000,23400,9200,14200,39.32,1740000,false
+BAFL,Bank Alfalah Limited,Commercial Banks,Large Cap,2022,88000,37200,19000,18200,51.08,2210000,true
+BAFL,Bank Alfalah Limited,Commercial Banks,Large Cap,2023,138000,72800,36400,36400,50.0,2760000,true
+BAFL,Bank Alfalah Limited,Commercial Banks,Large Cap,2024,152000,74500,36800,37700,49.4,2980000,true
+BAHL,Bank AL Habib Limited,Commercial Banks,Large Cap,2020,68000,28600,10800,17800,37.76,1520000,false
+BAHL,Bank AL Habib Limited,Commercial Banks,Large Cap,2021,76000,30700,12000,18700,39.09,1850000,false
+BAHL,Bank AL Habib Limited,Commercial Banks,Large Cap,2022,99000,36900,20400,16500,55.28,2260000,true
+BAHL,Bank AL Habib Limited,Commercial Banks,Large Cap,2023,142000,71500,36200,35300,50.63,2740000,true
+BAHL,Bank AL Habib Limited,Commercial Banks,Large Cap,2024,158000,73000,36000,37000,49.32,2950000,true
+FABL,Faysal Bank Limited,Commercial Banks,Mid Cap,2020,38000,10900,4400,6500,40.37,710000,false
+FABL,Faysal Bank Limited,Commercial Banks,Mid Cap,2021,44000,13800,5600,8200,40.58,850000,false
+FABL,Faysal Bank Limited,Commercial Banks,Mid Cap,2022,65000,22400,11200,11200,50.0,1060000,true
+FABL,Faysal Bank Limited,Commercial Banks,Mid Cap,2023,95000,40100,20000,20100,49.88,1380000,true
+FABL,Faysal Bank Limited,Commercial Banks,Mid Cap,2024,108000,42000,20800,21200,49.52,1520000,true
+HBL,Habib Bank Limited,Commercial Banks,Large Cap,2020,100090,53000,22100,30900,41.7,3990000,false
+HBL,Habib Bank Limited,Commercial Banks,Large Cap,2021,115000,62000,27000,35000,43.55,4310000,false
+HBL,Habib Bank Limited,Commercial Banks,Large Cap,2022,142000,77100,42700,34400,55.38,4670000,true
+HBL,Habib Bank Limited,Commercial Banks,Large Cap,2023,215000,113600,55800,57800,49.12,5520000,true
+HBL,Habib Bank Limited,Commercial Banks,Large Cap,2024,245000,115000,56500,58500,49.13,5890000,true
+MCB,MCB Bank Limited,Commercial Banks,Large Cap,2020,92000,51900,21100,30800,40.66,1750000,false
+MCB,MCB Bank Limited,Commercial Banks,Large Cap,2021,96000,51900,21100,30800,40.66,1970000,false
+MCB,MCB Bank Limited,Commercial Banks,Large Cap,2022,126000,71400,38700,32700,54.2,2080000,true
+MCB,MCB Bank Limited,Commercial Banks,Large Cap,2023,185000,125500,60200,65300,47.97,2430000,true
+MCB,MCB Bank Limited,Commercial Banks,Large Cap,2024,210000,125000,60500,64500,48.4,2680000,true
+MEBL,Meezan Bank Limited,Commercial Banks,Large Cap,2020,78000,37500,14900,22600,39.73,1520000,false
+MEBL,Meezan Bank Limited,Commercial Banks,Large Cap,2021,92000,48400,20000,28400,41.32,1900000,false
+MEBL,Meezan Bank Limited,Commercial Banks,Large Cap,2022,148000,88400,43400,45000,49.1,2580000,true
+MEBL,Meezan Bank Limited,Commercial Banks,Large Cap,2023,242000,154000,75000,79000,48.7,3010000,true
+MEBL,Meezan Bank Limited,Commercial Banks,Large Cap,2024,280000,170000,83000,87000,48.82,3350000,true
+NBP,National Bank of Pakistan,Commercial Banks,Large Cap,2020,105000,50400,19900,30500,39.48,3010000,false
+NBP,National Bank of Pakistan,Commercial Banks,Large Cap,2021,118000,52900,24900,28000,47.07,3850000,false
+NBP,National Bank of Pakistan,Commercial Banks,Large Cap,2022,145000,62700,32300,30400,51.52,5260000,true
+NBP,National Bank of Pakistan,Commercial Banks,Large Cap,2023,208000,101400,49600,51800,48.92,6650000,true
+NBP,National Bank of Pakistan,Commercial Banks,Large Cap,2024,230000,98500,48200,50300,48.93,6920000,true
+UBL,United Bank Limited,Commercial Banks,Large Cap,2020,85000,34200,13300,20900,38.89,2050000,false
+UBL,United Bank Limited,Commercial Banks,Large Cap,2021,97000,52100,21200,30900,40.69,2240000,false
+UBL,United Bank Limited,Commercial Banks,Large Cap,2022,128000,68300,36200,32100,53.0,2870000,true
+UBL,United Bank Limited,Commercial Banks,Large Cap,2023,178000,108000,52000,56000,48.15,3210000,true
+UBL,United Bank Limited,Commercial Banks,Large Cap,2024,195000,110000,54000,56000,49.09,3450000,true
+ENGRO,Engro Corporation Limited,Conglomerates / Holding,Large Cap,2020,248000,44200,11800,32400,26.7,595000,false
+ENGRO,Engro Corporation Limited,Conglomerates / Holding,Large Cap,2021,312000,52400,14200,38200,27.1,685000,false
+ENGRO,Engro Corporation Limited,Conglomerates / Holding,Large Cap,2022,356000,46100,17800,28300,38.61,780000,true
+ENGRO,Engro Corporation Limited,Conglomerates / Holding,Large Cap,2023,482000,68200,23500,44700,34.46,920000,true
+ENGRO,Engro Corporation Limited,Conglomerates / Holding,Large Cap,2024,510000,71500,24800,46700,34.69,985000,true
+INIL,International Industries Limited,Engineering & Steel,Mid Cap,2020,22100,1400,420,980,30.0,35000,false
+INIL,International Industries Limited,Engineering & Steel,Mid Cap,2021,37500,7800,2200,5600,28.21,48000,false
+INIL,International Industries Limited,Engineering & Steel,Mid Cap,2022,45200,6200,2000,4200,32.26,55000,true
+INIL,International Industries Limited,Engineering & Steel,Mid Cap,2023,42100,4500,1600,2900,35.56,52000,true
+INIL,International Industries Limited,Engineering & Steel,Mid Cap,2024,44500,4900,1750,3150,35.71,56000,true
+ISL,International Steels Limited,Engineering & Steel,Mid Cap,2020,48200,950,450,500,47.37,41000,false
+ISL,International Steels Limited,Engineering & Steel,Mid Cap,2021,69500,10800,3300,7500,30.56,54000,false
+ISL,International Steels Limited,Engineering & Steel,Mid Cap,2022,91200,7800,2400,5400,30.77,65000,true
+ISL,International Steels Limited,Engineering & Steel,Mid Cap,2023,78500,4200,1500,2700,35.71,62000,true
+ISL,International Steels Limited,Engineering & Steel,Mid Cap,2024,82000,4800,1700,3100,35.42,66000,true
+MUGHAL,Mughal Iron & Steel Industries Limited,Engineering & Steel,Mid Cap,2020,27200,890,310,580,34.83,31000,false
+MUGHAL,Mughal Iron & Steel Industries Limited,Engineering & Steel,Mid Cap,2021,44500,4800,1400,3400,29.17,42000,false
+MUGHAL,Mughal Iron & Steel Industries Limited,Engineering & Steel,Mid Cap,2022,66200,5800,1800,4000,31.03,58000,true
+MUGHAL,Mughal Iron & Steel Industries Limited,Engineering & Steel,Mid Cap,2023,67500,4900,1600,3300,32.65,61000,true
+MUGHAL,Mughal Iron & Steel Industries Limited,Engineering & Steel,Mid Cap,2024,72000,5400,1800,3600,33.33,68000,true
+EFERT,Engro Fertilizers Limited,Fertilizer,Large Cap,2020,105840,25600,7500,18100,29.3,142000,false
+EFERT,Engro Fertilizers Limited,Fertilizer,Large Cap,2021,132360,29200,8100,21100,27.74,168000,false
+EFERT,Engro Fertilizers Limited,Fertilizer,Large Cap,2022,157020,26800,10800,16000,40.3,195000,true
+EFERT,Engro Fertilizers Limited,Fertilizer,Large Cap,2023,224140,42100,15900,26200,37.77,245000,true
+EFERT,Engro Fertilizers Limited,Fertilizer,Large Cap,2024,220100,39800,14600,25200,36.68,262000,true
+FATIMA,Fatima Fertilizer Company Limited,Fertilizer,Mid Cap,2020,71200,18200,5100,13100,28.02,138000,false
+FATIMA,Fatima Fertilizer Company Limited,Fertilizer,Mid Cap,2021,112400,24100,5600,18500,23.24,165000,false
+FATIMA,Fatima Fertilizer Company Limited,Fertilizer,Mid Cap,2022,155000,22800,8700,14100,38.16,198000,true
+FATIMA,Fatima Fertilizer Company Limited,Fertilizer,Mid Cap,2023,231000,35600,12400,23200,34.83,252000,true
+FATIMA,Fatima Fertilizer Company Limited,Fertilizer,Mid Cap,2024,245000,38200,13800,24400,36.13,278000,true
+FFBL,Fauji Fertilizer Bin Qasim Limited,Fertilizer,Mid Cap,2020,79500,4200,1800,2400,42.86,89000,false
+FFBL,Fauji Fertilizer Bin Qasim Limited,Fertilizer,Mid Cap,2021,112000,11800,3600,8200,30.51,112000,false
+FFBL,Fauji Fertilizer Bin Qasim Limited,Fertilizer,Mid Cap,2022,148000,8400,4200,4200,50.0,138000,true
+FFBL,Fauji Fertilizer Bin Qasim Limited,Fertilizer,Mid Cap,2023,198000,16500,5900,10600,35.76,165000,true
+FFBL,Fauji Fertilizer Bin Qasim Limited,Fertilizer,Mid Cap,2024,210000,18200,6800,11400,37.36,182000,true
+FFC,Fauji Fertilizer Company Limited,Fertilizer,Large Cap,2020,97660,29500,8700,20800,29.49,154000,false
+FFC,Fauji Fertilizer Company Limited,Fertilizer,Large Cap,2021,108650,31800,9900,21900,31.13,178000,false
+FFC,Fauji Fertilizer Company Limited,Fertilizer,Large Cap,2022,109380,34200,14150,20050,41.37,212000,true
+FFC,Fauji Fertilizer Company Limited,Fertilizer,Large Cap,2023,159470,44500,14800,29700,33.26,258000,true
+FFC,Fauji Fertilizer Company Limited,Fertilizer,Large Cap,2024,185400,48200,19800,28400,41.08,295000,true
+COLG,Colgate-Palmolive (Pakistan) Limited,Food & Personal Care,Large Cap,2020,44200,7400,2200,5200,29.73,28000,false
+COLG,Colgate-Palmolive (Pakistan) Limited,Food & Personal Care,Large Cap,2021,54500,8800,2600,6200,29.55,34000,false
+COLG,Colgate-Palmolive (Pakistan) Limited,Food & Personal Care,Large Cap,2022,72100,11200,3800,7400,33.93,42000,true
+COLG,Colgate-Palmolive (Pakistan) Limited,Food & Personal Care,Large Cap,2023,98500,16800,5800,11000,34.52,54000,true
+COLG,Colgate-Palmolive (Pakistan) Limited,Food & Personal Care,Large Cap,2024,108000,18200,6200,12000,34.07,61000,true
+NATF,National Foods Limited,Food & Personal Care,Mid Cap,2020,28200,1650,450,1200,27.27,21000,false
+NATF,National Foods Limited,Food & Personal Care,Mid Cap,2021,34500,2050,550,1500,26.83,25000,false
+NATF,National Foods Limited,Food & Personal Care,Mid Cap,2022,42100,2450,780,1670,31.84,31000,true
+NATF,National Foods Limited,Food & Personal Care,Mid Cap,2023,55200,3100,1050,2050,33.87,39000,true
+NATF,National Foods Limited,Food & Personal Care,Mid Cap,2024,61000,3450,1150,2300,33.33,44000,true
+NESTLE,Nestle Pakistan Limited,Food & Personal Care,Large Cap,2020,118800,12800,3900,8900,30.47,65000,false
+NESTLE,Nestle Pakistan Limited,Food & Personal Care,Large Cap,2021,133300,17500,5200,12300,29.71,72000,false
+NESTLE,Nestle Pakistan Limited,Food & Personal Care,Large Cap,2022,162500,22400,7400,15000,33.04,85000,true
+NESTLE,Nestle Pakistan Limited,Food & Personal Care,Large Cap,2023,200600,28200,9700,18500,34.4,102000,true
+NESTLE,Nestle Pakistan Limited,Food & Personal Care,Large Cap,2024,215000,29500,10100,19400,34.24,110000,true
+UNILEVER,Unilever Pakistan Foods Limited,Food & Personal Care,Large Cap,2020,15600,4800,1200,3600,25.0,12000,false
+UNILEVER,Unilever Pakistan Foods Limited,Food & Personal Care,Large Cap,2021,19800,6800,1600,5200,23.53,15000,false
+UNILEVER,Unilever Pakistan Foods Limited,Food & Personal Care,Large Cap,2022,29500,9800,2900,6900,29.59,21000,true
+UNILEVER,Unilever Pakistan Foods Limited,Food & Personal Care,Large Cap,2023,38200,12400,3900,8500,31.45,26000,true
+UNILEVER,Unilever Pakistan Foods Limited,Food & Personal Care,Large Cap,2024,41500,13100,4100,9000,31.3,29000,true
+MARI,Mari Petroleum Company Limited,Oil & Gas Exploration,Large Cap,2020,71980,40500,10200,30300,25.19,168000,false
+MARI,Mari Petroleum Company Limited,Oil & Gas Exploration,Large Cap,2021,72980,42100,10650,31450,25.3,194000,false
+MARI,Mari Petroleum Company Limited,Oil & Gas Exploration,Large Cap,2022,95130,48900,15800,33100,32.31,245000,true
+MARI,Mari Petroleum Company Limited,Oil & Gas Exploration,Large Cap,2023,145740,75200,18800,56400,25.0,320000,true
+MARI,Mari Petroleum Company Limited,Oil & Gas Exploration,Large Cap,2024,183450,97600,20500,77100,21.0,410000,true
+OGDC,Oil & Gas Development Company Limited,Oil & Gas Exploration,Large Cap,2020,244983,136892,36802,100090,26.88,892000,false
+OGDC,Oil & Gas Development Company Limited,Oil & Gas Exploration,Large Cap,2021,239882,128784,37255,91529,28.93,945000,false
+OGDC,Oil & Gas Development Company Limited,Oil & Gas Exploration,Large Cap,2022,335464,214148,80364,133784,37.53,1120000,true
+OGDC,Oil & Gas Development Company Limited,Oil & Gas Exploration,Large Cap,2023,413594,301364,76826,224538,25.49,1340000,true
+OGDC,Oil & Gas Development Company Limited,Oil & Gas Exploration,Large Cap,2024,463678,290094,81200,208894,27.99,1450000,true
+POL,Pakistan Oilfields Limited,Oil & Gas Exploration,Large Cap,2020,42100,20100,6800,13300,33.83,89000,false
+POL,Pakistan Oilfields Limited,Oil & Gas Exploration,Large Cap,2021,38900,18900,5400,13500,28.57,94000,false
+POL,Pakistan Oilfields Limited,Oil & Gas Exploration,Large Cap,2022,52400,34500,8600,25900,24.93,118000,true
+POL,Pakistan Oilfields Limited,Oil & Gas Exploration,Large Cap,2023,62100,49800,13400,36400,26.91,145000,true
+POL,Pakistan Oilfields Limited,Oil & Gas Exploration,Large Cap,2024,64200,46500,12800,33700,27.53,158000,true
+PPL,Pakistan Petroleum Limited,Oil & Gas Exploration,Large Cap,2020,158358,73150,23200,49950,31.72,482000,false
+PPL,Pakistan Petroleum Limited,Oil & Gas Exploration,Large Cap,2021,149604,71200,18800,52400,26.4,521000,false
+PPL,Pakistan Petroleum Limited,Oil & Gas Exploration,Large Cap,2022,196442,93890,26300,67590,28.01,615000,true
+PPL,Pakistan Petroleum Limited,Oil & Gas Exploration,Large Cap,2023,286281,147750,49850,97900,33.74,742000,true
+PPL,Pakistan Petroleum Limited,Oil & Gas Exploration,Large Cap,2024,297830,152430,38100,114330,25.0,810000,true
+APL,Attock Petroleum Limited,Oil & Gas Marketing,Mid Cap,2020,172000,1400,410,990,29.29,65000,false
+APL,Attock Petroleum Limited,Oil & Gas Marketing,Mid Cap,2021,188000,4900,1500,3400,30.61,72000,false
+APL,Attock Petroleum Limited,Oil & Gas Marketing,Mid Cap,2022,365000,26800,8300,18500,30.97,115000,true
+APL,Attock Petroleum Limited,Oil & Gas Marketing,Mid Cap,2023,474000,18500,6200,12300,33.51,138000,true
+APL,Attock Petroleum Limited,Oil & Gas Marketing,Mid Cap,2024,485000,16200,5800,10400,35.8,145000,true
+PSO,Pakistan State Oil Company Limited,Oil & Gas Marketing,Large Cap,2020,1116000,-21000,4800,-25800,0.0,485000,false
+PSO,Pakistan State Oil Company Limited,Oil & Gas Marketing,Large Cap,2021,1200000,42000,13000,29000,30.95,542000,false
+PSO,Pakistan State Oil Company Limited,Oil & Gas Marketing,Large Cap,2022,2500000,133000,46000,87000,34.59,895000,true
+PSO,Pakistan State Oil Company Limited,Oil & Gas Marketing,Large Cap,2023,3390000,14200,8500,5700,59.86,1150000,true
+PSO,Pakistan State Oil Company Limited,Oil & Gas Marketing,Large Cap,2024,3500000,25000,9100,15900,36.4,1280000,true
+SHEL,Shell Pakistan Limited,Oil & Gas Marketing,Mid Cap,2020,161000,-6800,1800,-8600,0.0,58000,false
+SHEL,Shell Pakistan Limited,Oil & Gas Marketing,Mid Cap,2021,248000,6200,2100,4100,33.87,72000,false
+SHEL,Shell Pakistan Limited,Oil & Gas Marketing,Mid Cap,2022,415000,4200,2200,2000,52.38,98000,true
+SHEL,Shell Pakistan Limited,Oil & Gas Marketing,Mid Cap,2023,418000,8900,3100,5800,34.83,105000,true
+SHEL,Shell Pakistan Limited,Oil & Gas Marketing,Mid Cap,2024,425000,7500,2800,4700,37.33,112000,true
+CPPL,Cherat Packaging Limited,Paper & Board,Mid Cap,2020,9400,890,220,670,24.72,14200,false
+CPPL,Cherat Packaging Limited,Paper & Board,Mid Cap,2021,11200,1450,350,1100,24.14,16500,false
+CPPL,Cherat Packaging Limited,Paper & Board,Mid Cap,2022,14800,2100,620,1480,29.52,21000,true
+CPPL,Cherat Packaging Limited,Paper & Board,Mid Cap,2023,17500,2650,850,1800,32.08,24500,true
+CPPL,Cherat Packaging Limited,Paper & Board,Mid Cap,2024,18800,2850,920,1930,32.28,26000,true
+PKGS,Packages Limited,Paper & Board,Large Cap,2020,67200,4200,1200,3000,28.57,95000,false
+PKGS,Packages Limited,Paper & Board,Large Cap,2021,84500,8500,2400,6100,28.24,115000,false
+PKGS,Packages Limited,Paper & Board,Large Cap,2022,124000,9800,3200,6600,32.65,148000,true
+PKGS,Packages Limited,Paper & Board,Large Cap,2023,158000,14200,4800,9400,33.8,182000,true
+PKGS,Packages Limited,Paper & Board,Large Cap,2024,168000,15100,5100,10000,33.77,195000,true
+ABOT,Abbott Laboratories (Pakistan) Limited,Pharmaceuticals,Large Cap,2020,35400,6200,1700,4500,27.42,31000,false
+ABOT,Abbott Laboratories (Pakistan) Limited,Pharmaceuticals,Large Cap,2021,42500,8500,2400,6100,28.24,38000,false
+ABOT,Abbott Laboratories (Pakistan) Limited,Pharmaceuticals,Large Cap,2022,49200,4800,1800,3000,37.5,42000,true
+ABOT,Abbott Laboratories (Pakistan) Limited,Pharmaceuticals,Large Cap,2023,58400,5600,2100,3500,37.5,48000,true
+ABOT,Abbott Laboratories (Pakistan) Limited,Pharmaceuticals,Large Cap,2024,64500,6900,2400,4500,34.78,54000,true
+AGP,AGP Limited,Pharmaceuticals,Mid Cap,2020,6800,1850,450,1400,24.32,12500,false
+AGP,AGP Limited,Pharmaceuticals,Mid Cap,2021,7400,2050,510,1540,24.88,14200,false
+AGP,AGP Limited,Pharmaceuticals,Mid Cap,2022,10500,2280,680,1600,29.82,19500,true
+AGP,AGP Limited,Pharmaceuticals,Mid Cap,2023,14200,2650,820,1830,30.94,24500,true
+AGP,AGP Limited,Pharmaceuticals,Mid Cap,2024,16800,3100,940,2160,30.32,28000,true
+GLAXO,GlaxoSmithKline Pakistan Limited,Pharmaceuticals,Large Cap,2020,35200,4800,1500,3300,31.25,28000,false
+GLAXO,GlaxoSmithKline Pakistan Limited,Pharmaceuticals,Large Cap,2021,37800,6100,1900,4200,31.15,32000,false
+GLAXO,GlaxoSmithKline Pakistan Limited,Pharmaceuticals,Large Cap,2022,42100,3400,1200,2200,35.29,36000,true
+GLAXO,GlaxoSmithKline Pakistan Limited,Pharmaceuticals,Large Cap,2023,48500,4200,1500,2700,35.71,41000,true
+GLAXO,GlaxoSmithKline Pakistan Limited,Pharmaceuticals,Large Cap,2024,52400,5400,1800,3600,33.33,45000,true
+HPL,Highnoon Laboratories Limited,Pharmaceuticals,Mid Cap,2020,10200,1950,480,1470,24.62,11500,false
+HPL,Highnoon Laboratories Limited,Pharmaceuticals,Mid Cap,2021,12800,2450,610,1840,24.9,14200,false
+HPL,Highnoon Laboratories Limited,Pharmaceuticals,Mid Cap,2022,15400,2650,810,1840,30.57,17500,true
+HPL,Highnoon Laboratories Limited,Pharmaceuticals,Mid Cap,2023,18900,3150,980,2170,31.11,21500,true
+HPL,Highnoon Laboratories Limited,Pharmaceuticals,Mid Cap,2024,22400,3750,1150,2600,30.67,25000,true
+SEARL,The Searle Company Limited,Pharmaceuticals,Large Cap,2020,20500,3500,980,2520,28.0,38000,false
+SEARL,The Searle Company Limited,Pharmaceuticals,Large Cap,2021,24100,3200,920,2280,28.75,45000,false
+SEARL,The Searle Company Limited,Pharmaceuticals,Large Cap,2022,29200,3100,950,2150,30.65,52000,true
+SEARL,The Searle Company Limited,Pharmaceuticals,Large Cap,2023,33500,2800,880,1920,31.43,58000,true
+SEARL,The Searle Company Limited,Pharmaceuticals,Large Cap,2024,37200,3400,1050,2350,30.88,64000,true
+HUBC,The Hub Power Company Limited,Power Generation,Large Cap,2020,56200,26500,1500,25000,5.66,215000,false
+HUBC,The Hub Power Company Limited,Power Generation,Large Cap,2021,61400,35200,2100,33100,5.97,245000,false
+HUBC,The Hub Power Company Limited,Power Generation,Large Cap,2022,97000,34000,2600,31400,7.65,315000,true
+HUBC,The Hub Power Company Limited,Power Generation,Large Cap,2023,114000,62000,4800,57200,7.74,385000,true
+HUBC,The Hub Power Company Limited,Power Generation,Large Cap,2024,120000,68000,5200,62800,7.65,412000,true
+KAPCO,Kot Addu Power Company Limited,Power Generation,Mid Cap,2020,58900,33400,9800,23600,29.34,142000,false
+KAPCO,Kot Addu Power Company Limited,Power Generation,Mid Cap,2021,28400,15800,5200,10600,32.91,118000,false
+KAPCO,Kot Addu Power Company Limited,Power Generation,Mid Cap,2022,25200,14500,4600,9900,31.72,105000,true
+KAPCO,Kot Addu Power Company Limited,Power Generation,Mid Cap,2023,18500,6800,2400,4400,35.29,92000,true
+KAPCO,Kot Addu Power Company Limited,Power Generation,Mid Cap,2024,19200,7200,2500,4700,34.72,95000,true
+KEL,K-Electric Limited,Power Generation,Large Cap,2020,285000,-4200,1500,-5700,0.0,725000,false
+KEL,K-Electric Limited,Power Generation,Large Cap,2021,328000,14200,2200,12000,15.49,815000,false
+KEL,K-Electric Limited,Power Generation,Large Cap,2022,492000,11800,3100,8700,26.27,1050000,true
+KEL,K-Electric Limited,Power Generation,Large Cap,2023,515000,-31000,4200,-35200,0.0,1180000,true
+KEL,K-Electric Limited,Power Generation,Large Cap,2024,545000,-18500,3800,-22300,0.0,1240000,true
+ATRL,Attock Refinery Limited,Refinery,Mid Cap,2020,132000,-5800,1200,-7000,0.0,78000,false
+ATRL,Attock Refinery Limited,Refinery,Mid Cap,2021,142000,2800,950,1850,33.93,85000,false
+ATRL,Attock Refinery Limited,Refinery,Mid Cap,2022,245000,14200,4800,9400,33.8,128000,true
+ATRL,Attock Refinery Limited,Refinery,Mid Cap,2023,335000,38200,9500,28700,24.87,175000,true
+ATRL,Attock Refinery Limited,Refinery,Mid Cap,2024,342000,34100,8800,25300,25.81,182000,true
+NRL,National Refinery Limited,Refinery,Mid Cap,2020,115000,-7200,900,-8100,0.0,65000,false
+NRL,National Refinery Limited,Refinery,Mid Cap,2021,138000,2400,820,1580,34.17,72000,false
+NRL,National Refinery Limited,Refinery,Mid Cap,2022,238000,9800,3400,6400,34.69,112000,true
+NRL,National Refinery Limited,Refinery,Mid Cap,2023,285000,4200,1900,2300,45.24,125000,true
+NRL,National Refinery Limited,Refinery,Mid Cap,2024,298000,5100,2100,3000,41.18,132000,true
+AVN,Avanceon Limited,Technology & Communication,Mid Cap,2020,6400,1100,80,1020,7.27,11500,false
+AVN,Avanceon Limited,Technology & Communication,Mid Cap,2021,7800,1520,110,1410,7.24,14200,false
+AVN,Avanceon Limited,Technology & Communication,Mid Cap,2022,10500,1980,160,1820,8.08,18500,true
+AVN,Avanceon Limited,Technology & Communication,Mid Cap,2023,13800,2450,210,2240,8.57,22500,true
+AVN,Avanceon Limited,Technology & Communication,Mid Cap,2024,15500,2800,240,2560,8.57,25000,true
+NETSOL,NetSol Technologies Limited,Technology & Communication,Mid Cap,2020,4800,580,45,535,7.76,8500,false
+NETSOL,NetSol Technologies Limited,Technology & Communication,Mid Cap,2021,5200,890,65,825,7.3,9200,false
+NETSOL,NetSol Technologies Limited,Technology & Communication,Mid Cap,2022,6800,1240,95,1145,7.66,11500,true
+NETSOL,NetSol Technologies Limited,Technology & Communication,Mid Cap,2023,8900,1850,140,1710,7.57,14200,true
+NETSOL,NetSol Technologies Limited,Technology & Communication,Mid Cap,2024,9800,2100,160,1940,7.62,15500,true
+PTC,Pakistan Telecommunication Company Limited,Technology & Communication,Large Cap,2020,129000,2800,1400,1400,50.0,298000,false
+PTC,Pakistan Telecommunication Company Limited,Technology & Communication,Large Cap,2021,138000,3200,1600,1600,50.0,325000,false
+PTC,Pakistan Telecommunication Company Limited,Technology & Communication,Large Cap,2022,152000,-9500,2200,-11700,0.0,355000,true
+PTC,Pakistan Telecommunication Company Limited,Technology & Communication,Large Cap,2023,190000,-14200,2800,-17000,0.0,412000,true
+PTC,Pakistan Telecommunication Company Limited,Technology & Communication,Large Cap,2024,205000,-12800,2600,-15400,0.0,435000,true
+SYS,Systems Limited,Technology & Communication,Large Cap,2020,10200,2400,110,2290,4.58,12500,false
+SYS,Systems Limited,Technology & Communication,Large Cap,2021,15300,4600,210,4390,4.57,21000,false
+SYS,Systems Limited,Technology & Communication,Large Cap,2022,31700,7200,610,6590,8.47,42000,true
+SYS,Systems Limited,Technology & Communication,Large Cap,2023,53400,9800,820,8980,8.37,68000,true
+SYS,Systems Limited,Technology & Communication,Large Cap,2024,62000,11500,950,10550,8.26,82000,true
+TRG,TRG Pakistan Limited,Technology & Communication,Large Cap,2020,15200,12500,250,12250,2.0,45000,false
+TRG,TRG Pakistan Limited,Technology & Communication,Large Cap,2021,32100,26800,520,26280,1.94,68000,false
+TRG,TRG Pakistan Limited,Technology & Communication,Large Cap,2022,18900,-4800,310,-5110,0.0,52000,true
+TRG,TRG Pakistan Limited,Technology & Communication,Large Cap,2023,14200,-2400,280,-2680,0.0,48000,true
+TRG,TRG Pakistan Limited,Technology & Communication,Large Cap,2024,22100,8500,420,8080,4.94,58000,true
+ILP,Interloop Limited,Textile Composite,Large Cap,2020,38500,2100,310,1790,14.76,48000,false
+ILP,Interloop Limited,Textile Composite,Large Cap,2021,55800,6800,520,6280,7.65,65000,false
+ILP,Interloop Limited,Textile Composite,Large Cap,2022,90900,13700,1350,12350,9.85,98000,true
+ILP,Interloop Limited,Textile Composite,Large Cap,2023,119000,22100,2000,20100,9.05,132000,true
+ILP,Interloop Limited,Textile Composite,Large Cap,2024,145000,15200,1600,13600,10.53,154000,true
+KTML,Kohinoor Textile Mills Limited,Textile Composite,Mid Cap,2020,31200,2400,280,2120,11.67,52000,false
+KTML,Kohinoor Textile Mills Limited,Textile Composite,Mid Cap,2021,38500,4800,450,4350,9.38,61000,false
+KTML,Kohinoor Textile Mills Limited,Textile Composite,Mid Cap,2022,58200,7200,890,6310,12.36,78000,true
+KTML,Kohinoor Textile Mills Limited,Textile Composite,Mid Cap,2023,71500,8500,1100,7400,12.94,89000,true
+KTML,Kohinoor Textile Mills Limited,Textile Composite,Mid Cap,2024,74000,8100,1050,7050,12.96,94000,true
+NML,Nishat Mills Limited,Textile Composite,Large Cap,2020,60800,4200,480,3720,11.43,118000,false
+NML,Nishat Mills Limited,Textile Composite,Large Cap,2021,72500,6800,720,6080,10.59,135000,false
+NML,Nishat Mills Limited,Textile Composite,Large Cap,2022,115000,11800,1450,10350,12.29,172000,true
+NML,Nishat Mills Limited,Textile Composite,Large Cap,2023,141000,14200,1800,12400,12.68,195000,true
+NML,Nishat Mills Limited,Textile Composite,Large Cap,2024,148000,13500,1700,11800,12.59,208000,true
+GADT,Gadoon Textile Mills Limited,Textile Spinning,Mid Cap,2020,28400,1400,180,1220,12.86,38000,false
+GADT,Gadoon Textile Mills Limited,Textile Spinning,Mid Cap,2021,41200,4200,410,3790,9.76,48000,false
+GADT,Gadoon Textile Mills Limited,Textile Spinning,Mid Cap,2022,54500,6400,780,5620,12.19,61000,true
+GADT,Gadoon Textile Mills Limited,Textile Spinning,Mid Cap,2023,62000,5800,720,5080,12.41,68000,true
+GADT,Gadoon Textile Mills Limited,Textile Spinning,Mid Cap,2024,65000,5200,680,4520,13.08,72000,true
+PAKT,Pakistan Tobacco Company Limited,Tobacco,Large Cap,2020,135000,23500,7100,16400,30.21,45000,false
+PAKT,Pakistan Tobacco Company Limited,Tobacco,Large Cap,2021,162000,27200,8400,18800,30.88,52000,false
+PAKT,Pakistan Tobacco Company Limited,Tobacco,Large Cap,2022,188000,29800,10400,19400,34.9,61000,true
+PAKT,Pakistan Tobacco Company Limited,Tobacco,Large Cap,2023,215000,32400,11800,20600,36.42,72000,true
+PAKT,Pakistan Tobacco Company Limited,Tobacco,Large Cap,2024,230000,34100,12400,21700,36.36,78000,true

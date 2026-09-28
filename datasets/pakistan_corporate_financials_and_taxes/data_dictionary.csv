@@ -1,0 +1,13 @@
+name,type,description,nullable,constraints
+symbol,string,Pakistan Stock Exchange (PSX) stock ticker symbol,false,
+company_name,string,Official registered corporate entity name,false,
+sector,string,PSX industrial sector classification,false,
+market_cap_category,string,Market capitalization categorization,false,"Allowed values: Large Cap, Mid Cap"
+fiscal_year,integer,Fiscal accounting year of the reported financial statement,false,"Min: 2020, Max: 2024"
+revenue_pkr_million,number,Gross revenue or turnover / markup earned for banks (in Million PKR),false,"Min: 0"
+profit_before_tax_pkr_million,number,Profit or loss before taxation / pre-tax income (in Million PKR),false,
+tax_expense_pkr_million,number,Total tax provision including corporate tax, turnover tax, and super tax (in Million PKR),false,
+profit_after_tax_pkr_million,number,Net profit or loss after taxation / bottom line (in Million PKR),false,
+effective_tax_rate_pct,number,Effective tax rate calculated as (tax_expense / profit_before_tax * 100),false,
+total_assets_pkr_million,number,Total balance sheet asset valuation (in Million PKR),false,"Min: 0"
+super_tax_applicable,boolean,Indicates applicability of Section 4C Super Tax on high-earning persons/entities,false,"Allowed values: true, false"

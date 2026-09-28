@@ -1,0 +1,139 @@
+formation_code,formation_name,formation_type,principal_city,province,latitude,longitude,fiscal_year,direct_tax_income_tax_pkr_billion,sales_tax_pkr_billion,federal_excise_duty_pkr_billion,total_tax_collected_pkr_billion,share_of_national_tax_pct,active_taxpayers_filers_count
+LTO_KHI,Large Taxpayers Office Karachi,LTO,Karachi,Sindh,24.8607,67.0011,2020,570.77,364.56,203.93,1139.26,28.5,200900
+LTO_LHR,Large Taxpayers Office Lahore,LTO,Lahore,Punjab,31.5204,74.3587,2020,324.44,207.23,115.91,647.58,16.2,132300
+LTO_ISB,Large Taxpayers Office Islamabad,LTO,Islamabad,Islamabad Capital Territory,33.6844,73.0479,2020,230.31,147.1,82.29,459.7,11.5,93100
+CTO_KHI,Corporate Tax Office Karachi,CTO,Karachi,Sindh,24.8532,67.0167,2020,168.23,107.45,60.1,335.78,8.4,159250
+CTO_LHR,Corporate Tax Office Lahore,CTO,Lahore,Punjab,31.5497,74.3436,2020,136.18,86.98,48.66,271.82,6.8,142100
+CTO_ISB,Corporate Tax Office Islamabad,CTO,Islamabad,Islamabad Capital Territory,33.7294,73.0931,2020,76.1,48.61,27.19,151.9,3.8,78400
+LTO_MLT,Large Taxpayers Office Multan,LTO,Multan,Punjab,30.1575,71.5249,2020,64.09,40.93,22.9,127.92,3.2,36750
+MTO_KHI,Medium Taxpayers Office Karachi,MTO,Karachi,Sindh,24.8719,67.0598,2020,41.02,52.05,30.85,123.92,3.1,110250
+RTO_LHR,Regional Tax Office Lahore,RTO,Lahore,Punjab,31.5657,74.3142,2020,37.05,47.01,27.87,111.93,2.8,225400
+RTO_ISB,Regional Tax Office Islamabad,RTO,Islamabad,Islamabad Capital Territory,33.6938,73.0652,2020,31.76,40.29,23.89,95.94,2.4,151900
+RTO_FSD,Regional Tax Office Faisalabad,RTO,Faisalabad,Punjab,31.4504,73.135,2020,29.11,36.93,21.9,87.94,2.2,166600
+RTO_RWP,Regional Tax Office Rawalpindi,RTO,Rawalpindi,Punjab,33.5651,73.0169,2020,27.79,35.26,20.9,83.95,2.1,142100
+RTO_PWR,Regional Tax Office Peshawar,RTO,Peshawar,Khyber Pakhtunkhwa,34.0151,71.5249,2020,23.82,30.22,17.91,71.95,1.8,117600
+RTO_GRW,Regional Tax Office Gujranwala,RTO,Gujranwala,Punjab,32.1877,74.1945,2020,21.17,26.86,15.93,63.96,1.6,127400
+RTO_MLT,Regional Tax Office Multan,RTO,Multan,Punjab,30.1984,71.4687,2020,18.52,23.5,13.94,55.96,1.4,112700
+RTO_SKT,Regional Tax Office Sialkot,RTO,Sialkot,Punjab,32.4945,74.5229,2020,17.2,21.83,12.94,51.97,1.3,107800
+RTO_HYD,Regional Tax Office Hyderabad,RTO,Hyderabad,Sindh,25.396,68.3578,2020,10.59,13.43,7.96,31.98,0.8,83300
+RTO_ABT,Regional Tax Office Abbottabad,RTO,Abbottabad,Khyber Pakhtunkhwa,34.1688,73.2215,2020,9.26,11.75,6.97,27.98,0.7,53900
+RTO_SGD,Regional Tax Office Sargodha,RTO,Sargodha,Punjab,32.0836,72.6711,2020,7.94,10.07,5.97,23.98,0.6,68600
+RTO_QTA,Regional Tax Office Quetta,RTO,Quetta,Balochistan,30.1798,66.975,2020,7.94,10.07,5.97,23.98,0.6,73500
+RTO_SWL,Regional Tax Office Sahiwal,RTO,Sahiwal,Punjab,30.6682,73.1114,2020,6.62,8.4,4.97,19.99,0.5,58800
+RTO_SKR,Regional Tax Office Sukkur,RTO,Sukkur,Sindh,27.7052,68.8574,2020,6.62,8.4,4.97,19.99,0.5,51450
+RTO_BWP,Regional Tax Office Bahawalpur,RTO,Bahawalpur,Punjab,29.3544,71.6911,2020,5.29,6.72,3.98,15.99,0.4,49000
+LTO_KHI,Large Taxpayers Office Karachi,LTO,Karachi,Sindh,24.8607,67.0011,2021,655.88,432.74,263.7,1352.32,28.5,255840
+LTO_LHR,Large Taxpayers Office Lahore,LTO,Lahore,Punjab,31.5204,74.3587,2021,372.81,245.98,149.9,768.69,16.2,168480
+LTO_ISB,Large Taxpayers Office Islamabad,LTO,Islamabad,Islamabad Capital Territory,33.6844,73.0479,2021,264.65,174.62,106.41,545.68,11.5,118560
+CTO_KHI,Corporate Tax Office Karachi,CTO,Karachi,Sindh,24.8532,67.0167,2021,193.31,127.55,77.72,398.58,8.4,202800
+CTO_LHR,Corporate Tax Office Lahore,CTO,Lahore,Punjab,31.5497,74.3436,2021,156.49,103.25,62.92,322.66,6.8,180960
+CTO_ISB,Corporate Tax Office Islamabad,CTO,Islamabad,Islamabad Capital Territory,33.7294,73.0931,2021,87.45,57.7,35.16,180.31,3.8,99840
+LTO_MLT,Large Taxpayers Office Multan,LTO,Multan,Punjab,30.1575,71.5249,2021,73.64,48.59,29.61,151.84,3.2,46800
+MTO_KHI,Medium Taxpayers Office Karachi,MTO,Karachi,Sindh,24.8719,67.0598,2021,46.33,61.78,38.98,147.09,3.1,140400
+RTO_LHR,Regional Tax Office Lahore,RTO,Lahore,Punjab,31.5657,74.3142,2021,41.85,55.8,35.21,132.86,2.8,287040
+RTO_ISB,Regional Tax Office Islamabad,RTO,Islamabad,Islamabad Capital Territory,33.6938,73.0652,2021,35.87,47.83,30.18,113.88,2.4,193440
+RTO_FSD,Regional Tax Office Faisalabad,RTO,Faisalabad,Punjab,31.4504,73.135,2021,32.88,43.84,27.67,104.39,2.2,212160
+RTO_RWP,Regional Tax Office Rawalpindi,RTO,Rawalpindi,Punjab,33.5651,73.0169,2021,31.39,41.85,26.41,99.65,2.1,180960
+RTO_PWR,Regional Tax Office Peshawar,RTO,Peshawar,Khyber Pakhtunkhwa,34.0151,71.5249,2021,26.9,35.87,22.64,85.41,1.8,149760
+RTO_GRW,Regional Tax Office Gujranwala,RTO,Gujranwala,Punjab,32.1877,74.1945,2021,23.91,31.89,20.12,75.92,1.6,162240
+RTO_MLT,Regional Tax Office Multan,RTO,Multan,Punjab,30.1984,71.4687,2021,20.93,27.9,17.6,66.43,1.4,143520
+RTO_SKT,Regional Tax Office Sialkot,RTO,Sialkot,Punjab,32.4945,74.5229,2021,19.43,25.91,16.34,61.68,1.3,137280
+RTO_HYD,Regional Tax Office Hyderabad,RTO,Hyderabad,Sindh,25.396,68.3578,2021,11.96,15.94,10.06,37.96,0.8,106080
+RTO_ABT,Regional Tax Office Abbottabad,RTO,Abbottabad,Khyber Pakhtunkhwa,34.1688,73.2215,2021,10.46,13.95,8.81,33.22,0.7,68640
+RTO_SGD,Regional Tax Office Sargodha,RTO,Sargodha,Punjab,32.0836,72.6711,2021,8.97,11.96,7.54,28.47,0.6,87360
+RTO_QTA,Regional Tax Office Quetta,RTO,Quetta,Balochistan,30.1798,66.975,2021,8.97,11.96,7.54,28.47,0.6,93600
+RTO_SWL,Regional Tax Office Sahiwal,RTO,Sahiwal,Punjab,30.6682,73.1114,2021,7.47,9.97,6.29,23.73,0.5,74880
+RTO_SKR,Regional Tax Office Sukkur,RTO,Sukkur,Sindh,27.7052,68.8574,2021,7.47,9.97,6.29,23.73,0.5,65520
+RTO_BWP,Regional Tax Office Bahawalpur,RTO,Bahawalpur,Punjab,29.3544,71.6911,2021,5.98,7.97,5.03,18.98,0.4,62400
+LTO_KHI,Large Taxpayers Office Karachi,LTO,Karachi,Sindh,24.8607,67.0011,2022,862.14,560.74,329.44,1752.32,28.5,315700
+LTO_LHR,Large Taxpayers Office Lahore,LTO,Lahore,Punjab,31.5204,74.3587,2022,490.06,318.74,187.26,996.06,16.2,207900
+LTO_ISB,Large Taxpayers Office Islamabad,LTO,Islamabad,Islamabad Capital Territory,33.6844,73.0479,2022,347.88,226.27,132.93,707.08,11.5,146300
+CTO_KHI,Corporate Tax Office Karachi,CTO,Karachi,Sindh,24.8532,67.0167,2022,254.1,165.27,97.1,516.47,8.4,250250
+CTO_LHR,Corporate Tax Office Lahore,CTO,Lahore,Punjab,31.5497,74.3436,2022,205.71,133.79,78.6,418.1,6.8,223300
+CTO_ISB,Corporate Tax Office Islamabad,CTO,Islamabad,Islamabad Capital Territory,33.7294,73.0931,2022,114.95,74.76,43.93,233.64,3.8,123200
+LTO_MLT,Large Taxpayers Office Multan,LTO,Multan,Punjab,30.1575,71.5249,2022,96.8,62.96,36.99,196.75,3.2,57750
+MTO_KHI,Medium Taxpayers Office Karachi,MTO,Karachi,Sindh,24.8719,67.0598,2022,61.37,80.05,49.18,190.6,3.1,173250
+RTO_LHR,Regional Tax Office Lahore,RTO,Lahore,Punjab,31.5657,74.3142,2022,55.44,72.31,44.41,172.16,2.8,354200
+RTO_ISB,Regional Tax Office Islamabad,RTO,Islamabad,Islamabad Capital Territory,33.6938,73.0652,2022,47.51,61.98,38.07,147.56,2.4,238700
+RTO_FSD,Regional Tax Office Faisalabad,RTO,Faisalabad,Punjab,31.4504,73.135,2022,43.56,56.81,34.9,135.27,2.2,261800
+RTO_RWP,Regional Tax Office Rawalpindi,RTO,Rawalpindi,Punjab,33.5651,73.0169,2022,41.58,54.23,33.31,129.12,2.1,223300
+RTO_PWR,Regional Tax Office Peshawar,RTO,Peshawar,Khyber Pakhtunkhwa,34.0151,71.5249,2022,35.64,46.48,28.55,110.67,1.8,184800
+RTO_GRW,Regional Tax Office Gujranwala,RTO,Gujranwala,Punjab,32.1877,74.1945,2022,31.68,41.32,25.38,98.38,1.6,200200
+RTO_MLT,Regional Tax Office Multan,RTO,Multan,Punjab,30.1984,71.4687,2022,27.72,36.15,22.21,86.08,1.4,177100
+RTO_SKT,Regional Tax Office Sialkot,RTO,Sialkot,Punjab,32.4945,74.5229,2022,25.74,33.57,20.62,79.93,1.3,169400
+RTO_HYD,Regional Tax Office Hyderabad,RTO,Hyderabad,Sindh,25.396,68.3578,2022,15.84,20.66,12.69,49.19,0.8,130900
+RTO_ABT,Regional Tax Office Abbottabad,RTO,Abbottabad,Khyber Pakhtunkhwa,34.1688,73.2215,2022,13.86,18.08,11.1,43.04,0.7,84700
+RTO_SGD,Regional Tax Office Sargodha,RTO,Sargodha,Punjab,32.0836,72.6711,2022,11.88,15.49,9.52,36.89,0.6,107800
+RTO_QTA,Regional Tax Office Quetta,RTO,Quetta,Balochistan,30.1798,66.975,2022,11.88,15.49,9.52,36.89,0.6,115500
+RTO_SWL,Regional Tax Office Sahiwal,RTO,Sahiwal,Punjab,30.6682,73.1114,2022,9.9,12.91,7.93,30.74,0.5,92400
+RTO_SKR,Regional Tax Office Sukkur,RTO,Sukkur,Sindh,27.7052,68.8574,2022,9.9,12.91,7.93,30.74,0.5,80850
+RTO_BWP,Regional Tax Office Bahawalpur,RTO,Bahawalpur,Punjab,29.3544,71.6911,2022,7.92,10.33,6.34,24.59,0.4,77000
+LTO_KHI,Large Taxpayers Office Karachi,LTO,Karachi,Sindh,24.8607,67.0011,2023,1178.92,653.82,210.45,2043.19,28.5,391960
+LTO_LHR,Large Taxpayers Office Lahore,LTO,Lahore,Punjab,31.5204,74.3587,2023,670.12,371.64,119.63,1161.39,16.2,258120
+LTO_ISB,Large Taxpayers Office Islamabad,LTO,Islamabad,Islamabad Capital Territory,33.6844,73.0479,2023,475.71,263.82,84.92,824.45,11.5,181640
+CTO_KHI,Corporate Tax Office Karachi,CTO,Karachi,Sindh,24.8532,67.0167,2023,347.47,192.7,62.03,602.2,8.4,310700
+CTO_LHR,Corporate Tax Office Lahore,CTO,Lahore,Punjab,31.5497,74.3436,2023,281.29,156.0,50.21,487.5,6.8,277240
+CTO_ISB,Corporate Tax Office Islamabad,CTO,Islamabad,Islamabad Capital Territory,33.7294,73.0931,2023,157.19,87.18,28.06,272.43,3.8,152960
+LTO_MLT,Large Taxpayers Office Multan,LTO,Multan,Punjab,30.1575,71.5249,2023,132.37,73.41,23.63,229.41,3.2,71700
+MTO_KHI,Medium Taxpayers Office Karachi,MTO,Karachi,Sindh,24.8719,67.0598,2023,90.45,93.34,38.45,222.24,3.1,215100
+RTO_LHR,Regional Tax Office Lahore,RTO,Lahore,Punjab,31.5657,74.3142,2023,81.7,84.31,34.72,200.73,2.8,439760
+RTO_ISB,Regional Tax Office Islamabad,RTO,Islamabad,Islamabad Capital Territory,33.6938,73.0652,2023,70.03,72.27,29.76,172.06,2.4,296360
+RTO_FSD,Regional Tax Office Faisalabad,RTO,Faisalabad,Punjab,31.4504,73.135,2023,64.19,66.24,27.29,157.72,2.2,325040
+RTO_RWP,Regional Tax Office Rawalpindi,RTO,Rawalpindi,Punjab,33.5651,73.0169,2023,61.27,63.23,26.05,150.55,2.1,277240
+RTO_PWR,Regional Tax Office Peshawar,RTO,Peshawar,Khyber Pakhtunkhwa,34.0151,71.5249,2023,52.52,54.2,22.32,129.04,1.8,229440
+RTO_GRW,Regional Tax Office Gujranwala,RTO,Gujranwala,Punjab,32.1877,74.1945,2023,46.69,48.18,19.84,114.71,1.6,248560
+RTO_MLT,Regional Tax Office Multan,RTO,Multan,Punjab,30.1984,71.4687,2023,40.85,42.16,17.36,100.37,1.4,219880
+RTO_SKT,Regional Tax Office Sialkot,RTO,Sialkot,Punjab,32.4945,74.5229,2023,37.93,39.14,16.13,93.2,1.3,210320
+RTO_HYD,Regional Tax Office Hyderabad,RTO,Hyderabad,Sindh,25.396,68.3578,2023,23.34,24.09,9.92,57.35,0.8,162520
+RTO_ABT,Regional Tax Office Abbottabad,RTO,Abbottabad,Khyber Pakhtunkhwa,34.1688,73.2215,2023,20.42,21.08,8.68,50.18,0.7,105160
+RTO_SGD,Regional Tax Office Sargodha,RTO,Sargodha,Punjab,32.0836,72.6711,2023,17.51,18.06,7.44,43.01,0.6,133840
+RTO_QTA,Regional Tax Office Quetta,RTO,Quetta,Balochistan,30.1798,66.975,2023,17.51,18.06,7.44,43.01,0.6,143400
+RTO_SWL,Regional Tax Office Sahiwal,RTO,Sahiwal,Punjab,30.6682,73.1114,2023,14.59,15.06,6.2,35.85,0.5,114720
+RTO_SKR,Regional Tax Office Sukkur,RTO,Sukkur,Sindh,27.7052,68.8574,2023,14.59,15.06,6.2,35.85,0.5,100380
+RTO_BWP,Regional Tax Office Bahawalpur,RTO,Bahawalpur,Punjab,29.3544,71.6911,2023,11.67,12.05,4.96,28.68,0.4,95600
+LTO_KHI,Large Taxpayers Office Karachi,LTO,Karachi,Sindh,24.8607,67.0011,2024,1616.1,849.18,188.41,2653.69,28.5,477240
+LTO_LHR,Large Taxpayers Office Lahore,LTO,Lahore,Punjab,31.5204,74.3587,2024,918.62,482.69,107.1,1508.41,16.2,314280
+LTO_ISB,Large Taxpayers Office Islamabad,LTO,Islamabad,Islamabad Capital Territory,33.6844,73.0479,2024,652.11,342.65,76.03,1070.79,11.5,221160
+CTO_KHI,Corporate Tax Office Karachi,CTO,Karachi,Sindh,24.8532,67.0167,2024,476.32,250.28,55.54,782.14,8.4,378300
+CTO_LHR,Corporate Tax Office Lahore,CTO,Lahore,Punjab,31.5497,74.3436,2024,385.59,202.61,44.96,633.16,6.8,337560
+CTO_ISB,Corporate Tax Office Islamabad,CTO,Islamabad,Islamabad Capital Territory,33.7294,73.0931,2024,215.48,113.23,25.12,353.83,3.8,186240
+LTO_MLT,Large Taxpayers Office Multan,LTO,Multan,Punjab,30.1575,71.5249,2024,181.46,95.35,21.15,297.96,3.2,87300
+MTO_KHI,Medium Taxpayers Office Karachi,MTO,Karachi,Sindh,24.8719,67.0598,2024,126.72,121.23,40.7,288.65,3.1,261900
+RTO_LHR,Regional Tax Office Lahore,RTO,Lahore,Punjab,31.5657,74.3142,2024,114.45,109.5,36.76,260.71,2.8,535440
+RTO_ISB,Regional Tax Office Islamabad,RTO,Islamabad,Islamabad Capital Territory,33.6938,73.0652,2024,98.1,93.86,31.51,223.47,2.4,360840
+RTO_FSD,Regional Tax Office Faisalabad,RTO,Faisalabad,Punjab,31.4504,73.135,2024,89.93,86.04,28.88,204.85,2.2,395760
+RTO_RWP,Regional Tax Office Rawalpindi,RTO,Rawalpindi,Punjab,33.5651,73.0169,2024,85.84,82.13,27.57,195.54,2.1,337560
+RTO_PWR,Regional Tax Office Peshawar,RTO,Peshawar,Khyber Pakhtunkhwa,34.0151,71.5249,2024,73.58,70.39,23.63,167.6,1.8,279360
+RTO_GRW,Regional Tax Office Gujranwala,RTO,Gujranwala,Punjab,32.1877,74.1945,2024,65.4,62.57,21.01,148.98,1.6,302640
+RTO_MLT,Regional Tax Office Multan,RTO,Multan,Punjab,30.1984,71.4687,2024,57.23,54.75,18.38,130.36,1.4,267720
+RTO_SKT,Regional Tax Office Sialkot,RTO,Sialkot,Punjab,32.4945,74.5229,2024,53.14,50.84,17.07,121.05,1.3,256080
+RTO_HYD,Regional Tax Office Hyderabad,RTO,Hyderabad,Sindh,25.396,68.3578,2024,32.7,31.29,10.5,74.49,0.8,197880
+RTO_ABT,Regional Tax Office Abbottabad,RTO,Abbottabad,Khyber Pakhtunkhwa,34.1688,73.2215,2024,28.61,27.38,9.19,65.18,0.7,128040
+RTO_SGD,Regional Tax Office Sargodha,RTO,Sargodha,Punjab,32.0836,72.6711,2024,24.53,23.47,7.87,55.87,0.6,162960
+RTO_QTA,Regional Tax Office Quetta,RTO,Quetta,Balochistan,30.1798,66.975,2024,24.53,23.47,7.87,55.87,0.6,174600
+RTO_SWL,Regional Tax Office Sahiwal,RTO,Sahiwal,Punjab,30.6682,73.1114,2024,20.44,19.56,6.56,46.56,0.5,139680
+RTO_SKR,Regional Tax Office Sukkur,RTO,Sukkur,Sindh,27.7052,68.8574,2024,20.44,19.56,6.56,46.56,0.5,122220
+RTO_BWP,Regional Tax Office Bahawalpur,RTO,Bahawalpur,Punjab,29.3544,71.6911,2024,16.35,15.64,5.25,37.24,0.4,116400
+LTO_KHI,Large Taxpayers Office Karachi,LTO,Karachi,Sindh,24.8607,67.0011,2025,2051.74,1071.05,224.25,3347.04,28.5,561700
+LTO_LHR,Large Taxpayers Office Lahore,LTO,Lahore,Punjab,31.5204,74.3587,2025,1166.25,608.81,127.47,1902.53,16.2,369900
+LTO_ISB,Large Taxpayers Office Islamabad,LTO,Islamabad,Islamabad Capital Territory,33.6844,73.0479,2025,827.89,432.18,90.49,1350.56,11.5,260300
+CTO_KHI,Corporate Tax Office Karachi,CTO,Karachi,Sindh,24.8532,67.0167,2025,604.72,315.68,66.1,986.5,8.4,445250
+CTO_LHR,Corporate Tax Office Lahore,CTO,Lahore,Punjab,31.5497,74.3436,2025,489.54,255.55,53.5,798.59,6.8,397300
+CTO_ISB,Corporate Tax Office Islamabad,CTO,Islamabad,Islamabad Capital Territory,33.7294,73.0931,2025,273.56,142.81,29.9,446.27,3.8,219200
+LTO_MLT,Large Taxpayers Office Multan,LTO,Multan,Punjab,30.1575,71.5249,2025,230.37,120.26,25.18,375.81,3.2,102750
+MTO_KHI,Medium Taxpayers Office Karachi,MTO,Karachi,Sindh,24.8719,67.0598,2025,161.28,152.91,49.87,364.06,3.1,308250
+RTO_LHR,Regional Tax Office Lahore,RTO,Lahore,Punjab,31.5657,74.3142,2025,145.67,138.11,45.05,328.83,2.8,630200
+RTO_ISB,Regional Tax Office Islamabad,RTO,Islamabad,Islamabad Capital Territory,33.6938,73.0652,2025,124.86,118.38,38.62,281.86,2.4,424700
+RTO_FSD,Regional Tax Office Faisalabad,RTO,Faisalabad,Punjab,31.4504,73.135,2025,114.46,108.52,35.39,258.37,2.2,465800
+RTO_RWP,Regional Tax Office Rawalpindi,RTO,Rawalpindi,Punjab,33.5651,73.0169,2025,109.25,103.58,33.79,246.62,2.1,397300
+RTO_PWR,Regional Tax Office Peshawar,RTO,Peshawar,Khyber Pakhtunkhwa,34.0151,71.5249,2025,93.65,88.78,28.96,211.39,1.8,328800
+RTO_GRW,Regional Tax Office Gujranwala,RTO,Gujranwala,Punjab,32.1877,74.1945,2025,83.24,78.92,25.74,187.9,1.6,356200
+RTO_MLT,Regional Tax Office Multan,RTO,Multan,Punjab,30.1984,71.4687,2025,72.84,69.06,22.52,164.42,1.4,315100
+RTO_SKT,Regional Tax Office Sialkot,RTO,Sialkot,Punjab,32.4945,74.5229,2025,67.63,64.12,20.92,152.67,1.3,301400
+RTO_HYD,Regional Tax Office Hyderabad,RTO,Hyderabad,Sindh,25.396,68.3578,2025,41.62,39.46,12.87,93.95,0.8,232900
+RTO_ABT,Regional Tax Office Abbottabad,RTO,Abbottabad,Khyber Pakhtunkhwa,34.1688,73.2215,2025,36.42,34.53,11.26,82.21,0.7,150700
+RTO_SGD,Regional Tax Office Sargodha,RTO,Sargodha,Punjab,32.0836,72.6711,2025,31.21,29.59,9.66,70.46,0.6,191800
+RTO_QTA,Regional Tax Office Quetta,RTO,Quetta,Balochistan,30.1798,66.975,2025,31.21,29.59,9.66,70.46,0.6,205500
+RTO_SWL,Regional Tax Office Sahiwal,RTO,Sahiwal,Punjab,30.6682,73.1114,2025,26.01,24.66,8.05,58.72,0.5,164400
+RTO_SKR,Regional Tax Office Sukkur,RTO,Sukkur,Sindh,27.7052,68.8574,2025,26.01,24.66,8.05,58.72,0.5,143850
+RTO_BWP,Regional Tax Office Bahawalpur,RTO,Bahawalpur,Punjab,29.3544,71.6911,2025,20.81,19.73,6.44,46.98,0.4,137000

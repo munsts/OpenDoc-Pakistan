@@ -1,0 +1,69 @@
+{
+  "name": "pakistan-taxpayer-heatmap-and-collections",
+  "title": "Pakistan Taxpayer Heatmap and Regional Collections (FY 2020 - FY 2025)",
+  "description": "Geospatial, administrative, and fiscal time series of tax collections across Pakistan's 23 Federal Board of Revenue (FBR) field formations (Large Taxpayer Offices, Corporate Tax Offices, Regional Tax Offices), featuring direct taxes, sales taxes, FED, active taxpayer counts, and geographic coordinates for GIS heatmapping.",
+  "version": "1.0.0",
+  "category": "Taxation & Public Finance",
+  "keywords": [
+    "tax",
+    "taxpayers",
+    "fbr",
+    "revenue",
+    "heatmap",
+    "gis",
+    "income-tax",
+    "sales-tax",
+    "filers",
+    "atl",
+    "karachi",
+    "lahore",
+    "islamabad",
+    "peshawar",
+    "quetta",
+    "pakistan"
+  ],
+  "source_organization": "Federal Board of Revenue (FBR), Government of Pakistan",
+  "source_url": "https://www.fbr.gov.pk",
+  "maintainer": "OpenDoc Data Stewardship Team",
+  "geographic_coverage": "Pakistan (All Field Formations & Regions)",
+  "temporal_coverage": "FY 2020 - FY 2025",
+  "update_frequency": "Annually",
+  "license": "CC-BY-4.0",
+  "pipeline_source": "scripts/ingest/build_taxpayer_heatmap.py",
+  "homepage": "https://github.com/munsts/OpenDoc-Pakistan",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "resources": [
+    {
+      "name": "taxpayer_heatmap_and_collections",
+      "path": "data/processed/taxpayer_heatmap_and_collections.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {"name": "formation_code", "type": "string", "description": "FBR field formation code."},
+          {"name": "formation_name", "type": "string", "description": "Official name of the tax office."},
+          {"name": "formation_type", "type": "string", "description": "Category (LTO, CTO, MTO, RTO)."},
+          {"name": "principal_city", "type": "string", "description": "City where office is located."},
+          {"name": "province", "type": "string", "description": "Province or federal territory."},
+          {"name": "latitude", "type": "number", "description": "WGS84 latitude coordinate."},
+          {"name": "longitude", "type": "number", "description": "WGS84 longitude coordinate."},
+          {"name": "fiscal_year", "type": "integer", "description": "Fiscal year (e.g. 2024 for FY24)."},
+          {"name": "direct_tax_income_tax_pkr_billion", "type": "number", "description": "Direct taxes collected (PKR Billion)."},
+          {"name": "sales_tax_pkr_billion", "type": "number", "description": "Sales tax collected (PKR Billion)."},
+          {"name": "federal_excise_duty_pkr_billion", "type": "number", "description": "Federal excise duty collected (PKR Billion)."},
+          {"name": "total_tax_collected_pkr_billion", "type": "number", "description": "Total tax collected (PKR Billion)."},
+          {"name": "share_of_national_tax_pct", "type": "number", "description": "Percentage share of total FBR tax."},
+          {"name": "active_taxpayers_filers_count", "type": "integer", "description": "Active registered filers under jurisdiction."}
+        ],
+        "primaryKey": ["formation_code", "fiscal_year"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+name,type,description,nullable,constraints
+formation_code,string,Unique FBR field formation code (e.g. LTO_KHI, RTO_LHR),false,
+formation_name,string,Official full name of the FBR tax office formation,false,
+formation_type,string,Category of the tax formation,false,"Allowed values: LTO (Large Taxpayers Office), CTO (Corporate Tax Office), MTO (Medium Taxpayers Office), RTO (Regional Tax Office)"
+principal_city,string,Primary urban center / city housing the formation headquarters,false,
+province,string,Province or administrative territory,false,"Allowed values: Punjab, Sindh, Khyber Pakhtunkhwa, Balochistan, Islamabad Capital Territory"
+latitude,number,Geographic latitude coordinate (WGS84 decimal degrees) for mapping,false,"Min: 23.0, Max: 37.0"
+longitude,number,Geographic longitude coordinate (WGS84 decimal degrees) for mapping,false,"Min: 60.0, Max: 78.0"
+fiscal_year,integer,Fiscal observation year (e.g. 2024 for FY 2023-24),false,"Min: 2020, Max: 2025"
+direct_tax_income_tax_pkr_billion,number,Direct taxes collected including Corporate Tax, Individual Income Tax, and Super Tax (PKR Billion),false,"Min: 0"
+sales_tax_pkr_billion,number,Domestic and import sales tax collected (PKR Billion),false,"Min: 0"
+federal_excise_duty_pkr_billion,number,Federal Excise Duty (FED) collected (PKR Billion),false,"Min: 0"
+total_tax_collected_pkr_billion,number,Total net tax revenue collected by the formation (PKR Billion),false,"Min: 0"
+share_of_national_tax_pct,number,Percentage share of national FBR tax collection,false,"Min: 0, Max: 100"
+active_taxpayers_filers_count,integer,Estimated active taxpayer filers registered under this tax formation,false,"Min: 0"
