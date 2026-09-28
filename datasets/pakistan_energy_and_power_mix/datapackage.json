@@ -1,0 +1,57 @@
+{
+  "name": "pakistan-energy-and-power-mix",
+  "title": "Pakistan Energy and Power Generation Mix (1990-2024)",
+  "description": "Multi-decade time series of Pakistan's electricity generation mix (hydro, natural gas, oil, coal, nuclear, renewables), grid electrification rates (national, rural, urban), per-capita power consumption, and transmission losses.",
+  "version": "1.0.0",
+  "category": "Energy & Infrastructure",
+  "keywords": [
+    "energy",
+    "power",
+    "electricity",
+    "generation",
+    "hydel",
+    "coal",
+    "gas",
+    "nuclear",
+    "renewables",
+    "solar",
+    "wind",
+    "nepra",
+    "pakistan",
+    "time-series"
+  ],
+  "source_organization": "World Bank / NEPRA / HDIP",
+  "source_url": "https://data.worldbank.org",
+  "maintainer": "OpenDoc Data Stewardship Team",
+  "geographic_coverage": "Pakistan (National)",
+  "temporal_coverage": "1990-2024",
+  "update_frequency": "Annually",
+  "pipeline_source": "scripts/ingest/build_energy_power_mix.py",
+  "homepage": "https://github.com/munsts/OpenDoc-Pakistan",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "resources": [
+    {
+      "name": "energy_and_power_mix",
+      "path": "data/processed/energy_and_power_mix.csv",
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {"name": "indicator_code", "type": "string", "description": "Standardized World Bank WDI energy indicator code."},
+          {"name": "indicator_name", "type": "string", "description": "Descriptive title of the energy indicator."},
+          {"name": "year", "type": "integer", "description": "Gregorian observation year."},
+          {"name": "value", "type": "number", "description": "Reported value for the indicator and year."},
+          {"name": "unit", "type": "string", "description": "Unit of measurement."}
+        ],
+        "primaryKey": ["indicator_code", "year"]
+      }
+    }
+  ]
+}

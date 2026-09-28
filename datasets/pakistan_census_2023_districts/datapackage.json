@@ -1,0 +1,54 @@
+{
+  "name": "pakistan-census-2023-districts",
+  "title": "Pakistan 2023 Digital Census: District Demographics and Housing",
+  "description": "Comprehensive district-level demographic, spatial, and socioeconomic data from the 7th Population and Housing Census 2023 conducted by the Pakistan Bureau of Statistics (PBS), with historical comparisons to 2017 and 1998 censuses.",
+  "version": "1.0.0",
+  "category": "Demographics & Governance",
+  "keywords": [
+    "census",
+    "demographics",
+    "population",
+    "districts",
+    "provinces",
+    "density",
+    "literacy",
+    "pakistan",
+    "pbs"
+  ],
+  "source_organization": "Pakistan Bureau of Statistics (PBS)",
+  "source_url": "https://www.pbs.gov.pk",
+  "maintainer": "OpenDoc Data Stewardship Team",
+  "geographic_coverage": "Pakistan (all 4 provinces and ICT)",
+  "temporal_coverage": "2023 (with historical comparison to 2017, 1998)",
+  "update_frequency": "Decennial (Census Cycles)",
+  "pipeline_source": "scripts/ingest/build_census_2023.py",
+  "homepage": "https://github.com/munsts/OpenDoc-Pakistan",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "resources": [
+    {
+      "name": "census_2023_districts",
+      "path": "data/processed/census_2023_districts.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {"name": "district", "type": "string"},
+          {"name": "province", "type": "string"},
+          {"name": "division", "type": "string"},
+          {"name": "headquarters", "type": "string"},
+          {"name": "area_sq_km", "type": "number"},
+          {"name": "population_2023", "type": "integer"},
+          {"name": "population_2017", "type": "integer"},
+          {"name": "population_1998", "type": "integer"},
+          {"name": "population_density_per_sq_km", "type": "number"},
+          {"name": "literacy_rate_pct", "type": "number"}
+        ]
+      }
+    }
+  ]
+}

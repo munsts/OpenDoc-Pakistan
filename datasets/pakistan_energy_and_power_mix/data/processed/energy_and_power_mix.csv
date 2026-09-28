@@ -1,0 +1,384 @@
+indicator_code,indicator_name,year,value,unit
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",1998,59.4976,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",1999,58.9596,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2000,62.6,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2001,63.9,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2002,65.3,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2003,66.7,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2004,68,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2005,69.4,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2006,70.8,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2007,72.2,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2008,73.7,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2009,75.2,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2010,82.1,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2011,82.9,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2012,83.8,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2013,84.8,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2014,85.8,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2015,86.9,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2016,88,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2017,89.1,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2018,90.1,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2019,90.7,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2020,91.5,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2021,91.9,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2022,93,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2023,92.8,percent_of_rural_population
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",2024,94,percent_of_rural_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",1998,93.14,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",1999,93.4462,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2000,93.6,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2001,93.9,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2002,94.1,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2003,94.3,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2004,94.6,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2005,94.9,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2006,95.2,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2007,95.5,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2008,95.8,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2009,96.2,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2010,96.5,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2011,96.9,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2012,97.3,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2013,97.6,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2014,97.9,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2015,98.2,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2016,98.5,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2017,98.8,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2018,99.1,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2019,99.3,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2020,99.6,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2021,99.9,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2022,100,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2023,100,percent_of_urban_population
+EG.ELC.ACCS.UR.ZS,"Access to electricity, urban (% of urban population)",2024,98.4,percent_of_urban_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),1998,70.46,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),1999,70.2654,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2000,72.8,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2001,73.9,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2002,74.9,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2003,76,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2004,77,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2005,78.1,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2006,79.1,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2007,80.2,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2008,81.4,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2009,82.5,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2010,87.1,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2011,87.8,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2012,88.6,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2013,89.3,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2014,90.1,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2015,91,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2016,91.8,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2017,92.7,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2018,93.4,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2019,93.9,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2020,94.5,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2021,94.9,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2022,95,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2023,95.6,percent_of_population
+EG.ELC.ACCS.ZS,Access to electricity (% of population),2024,95.7,percent_of_population
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1990,0.1009,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1991,0.0657,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1992,0.0901,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1993,0.0889,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1994,0.0747,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1995,0.7725,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1996,0.6342,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1997,0.6532,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1998,0.7657,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1999,0.6233,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2000,0.3538,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2001,0.3935,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2002,0.3051,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2003,0.245,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2004,0.2044,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2005,0.1378,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2006,0.1385,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2007,0.1422,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2008,0.1233,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2009,0.1216,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2010,0.0932,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2011,0.101,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2012,0.0635,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2013,0.1509,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2014,0.1355,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2015,0.133,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2016,0.5054,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2017,8.3102,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2018,12.2705,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2019,19.3399,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2020,19.4746,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2021,16.2124,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2022,13.4325,percent_of_total_electricity
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2023,12.7832,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1990,44.9261,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1991,44.5589,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1992,43.2534,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1993,38.3762,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1994,42.6814,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1995,40.743,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1996,35.2778,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1997,35.4919,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1998,34.311,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1999,29.322,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2000,25.2422,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2001,26.1508,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2002,29.5242,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2003,33.3342,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2004,29.9793,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2005,32.962,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2006,32.5344,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2007,30.0091,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2008,30.3266,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2009,29.4609,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2010,33.7038,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2011,29.9895,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2012,31.0606,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2013,30.6247,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2014,30.3529,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2015,31.1174,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2016,26.0669,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2017,21.2687,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2018,21.2669,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2019,25.12,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2020,23.7154,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2021,20.468,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2022,24.8589,percent_of_total_electricity
+EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2023,26.7938,percent_of_total_electricity
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1990,20.7257,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1991,19.851,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1992,22.1901,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1993,22.7994,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1994,22.7635,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1995,22.8119,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1996,23.4317,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1997,24.6111,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1998,30.4136,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1999,26.6844,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2000,24.2674,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2001,26.0638,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2002,26.4755,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2003,25.2023,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2004,24.5676,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2005,24.0374,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2006,22.3107,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2007,19.5921,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2008,21.171,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2009,19.88,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2010,16.2263,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2011,16.883,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2012,17.032,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2013,16.2689,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2014,16.4757,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2015,15.4621,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2016,19.1005,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2017,16.0782,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2018,13.0476,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2019,17.3017,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2020,14.3368,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2021,14.8331,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2022,14.8381,percent_of_output
+EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2023,15.3511,percent_of_output
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1990,33.6289,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1991,32.0503,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1992,29.9262,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1993,30.8435,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1994,26.877,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1995,26.829,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1996,27.0478,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1997,25.031,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1998,29.2856,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1999,29.7537,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2000,31.9749,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2001,34.3159,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2002,35.6731,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2003,48.5129,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2004,50.7678,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2005,44.0953,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2006,36.4626,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2007,34.4163,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2008,32.3939,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2009,29.4462,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2010,27.4188,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2011,29.0777,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2012,28.2091,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2013,25.6255,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2014,26.5002,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2015,31.448,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2016,33.5534,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2017,37.4749,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2018,44.6792,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2019,34.4209,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2020,34.9722,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2021,30.4567,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2022,28.4009,percent_of_total_electricity
+EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2023,27.7237,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1990,0.7777,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1991,0.9373,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1992,1.1924,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1993,0.9813,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1994,0.9542,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1995,0.848,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1996,0.5852,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1997,0.6033,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1998,0.4341,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1999,0.6066,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2000,2.9318,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2001,3.1631,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2002,2.2984,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2003,2.1774,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2004,3.2641,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2005,2.653,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2006,2.3296,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2007,3.2166,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2008,1.7661,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2009,3.0349,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2010,3.6235,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2011,5.5369,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2012,4.7365,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2013,4.8907,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2014,5.4249,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2015,4.1375,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2016,5.6689,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2017,7.525,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2018,7.7082,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2019,8.0891,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2020,6.6068,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2021,11.9994,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2022,17.6108,percent_of_total_electricity
+EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2023,17.3329,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1990,20.5665,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1991,22.3878,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1992,25.5378,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1993,29.7101,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1994,29.4128,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1995,30.8075,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1996,36.455,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1997,38.2206,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1998,35.2036,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1999,39.6944,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2000,39.4973,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2001,35.9768,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2002,32.1991,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2003,15.7305,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2004,15.7844,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2005,20.1519,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2006,28.5349,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2007,32.2158,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2008,35.3901,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2009,37.9364,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2010,35.1606,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2011,35.295,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2012,35.9303,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2013,38.3268,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2014,36.8368,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2015,31.7724,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2016,32.0444,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2017,22.4691,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2018,10.4176,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2019,9.9067,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2020,12.156,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2021,16.9703,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2022,11.7175,percent_of_total_electricity
+EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2023,11.387,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",1990,0,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",1991,0,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",1992,0,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",1993,0,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",1994,0,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",1995,0,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",1996,0,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",1997,0,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",1998,0,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",1999,0,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",2000,3.2885,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",2001,0.4263,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",2002,-0.5872,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",2003,-0.8988,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",2004,2.6287,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",2005,-1.5117,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",2006,0.5752,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",2007,3.1135,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",2008,2.4801,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",2009,1.63,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",2010,-0.2615,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",2011,3.4598,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",2012,1.122,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",2013,1.1865,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",2014,2.2181,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",2015,2.0127,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",2016,4.6354,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",2017,6.4128,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",2018,7.5985,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",2019,6.6377,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",2020,8.5189,percent_of_total_electricity
+EG.ELC.RNWX.ZS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",2021,7.8082,percent_of_total_electricity
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),1990,57.5,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),1991,58.1,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),1992,56,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),1993,54.1,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),1994,54.2,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),1995,53.1,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),1996,52.2,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),1997,51.9,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),1998,51.6,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),1999,50.2,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),2000,51,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),2001,51.5,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),2002,51.4,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),2003,50.1,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),2004,47.9,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),2005,48,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),2006,47,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),2007,44.9,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),2008,46.6,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),2009,46.4,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),2010,47.4,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),2011,46.8,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),2012,47.2,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),2013,48.1,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),2014,47.2,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),2015,45.9,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),2016,43.7,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),2017,42.1,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),2018,43.4,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),2019,45.9,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),2020,42.7,percent_of_total_energy
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),2021,41.6,percent_of_total_energy
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1990,257.1121,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1991,274.212,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1992,307.4057,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1993,307.8174,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1994,316.3641,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1995,326.6701,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1996,326.7317,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1997,328.7547,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1998,310.7307,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1999,320.306,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2000,333.0726,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2001,336.2322,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2002,341.0129,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2003,362.2279,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2004,377.7367,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2005,406.1995,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2006,425.5947,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2007,417.9991,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2008,382.3079,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2009,394.3326,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2010,398.2051,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2011,389.2591,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2012,385.8483,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2013,414.8451,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2014,419.1265,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2015,435.1402,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2016,455.9713,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2017,495.9915,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2018,494.7188,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2019,481.2806,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2020,517.7749,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2021,570.2073,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2022,517.0729,kwh_per_capita
+EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2023,518.2977,kwh_per_capita

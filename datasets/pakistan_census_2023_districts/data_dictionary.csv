@@ -1,0 +1,11 @@
+name,type,description,nullable,constraints
+district,string,Official administrative name of the district,false,
+province,string,Province or federal territory to which the district belongs,false,"Allowed values: Punjab, Sindh, Khyber Pakhtunkhwa, Balochistan, Islamabad Capital Territory"
+division,string,Administrative division containing the district,false,
+headquarters,string,Administrative center / headquarters town or city of the district,false,
+area_sq_km,number,Total geographic area of the district in square kilometers,true,"Min: 0"
+population_2023,integer,Total enumerated population according to the 7th Digital Census 2023,false,"Min: 0"
+population_2017,integer,Total enumerated population according to the 6th Population Census 2017,true,"Min: 0; Null for districts formed post-2017"
+population_1998,integer,Total enumerated population according to the 5th Population Census 1998,true,"Min: 0; Null for districts formed post-1998"
+population_density_per_sq_km,number,Population density per square kilometer in 2023,true,"Min: 0"
+literacy_rate_pct,number,Overall literacy rate percentage of population aged 10 and above (2023),true,"Min: 0, Max: 100"

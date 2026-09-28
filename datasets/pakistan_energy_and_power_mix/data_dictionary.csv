@@ -1,0 +1,6 @@
+name,type,description,nullable,constraints
+indicator_code,string,World Bank WDI or official sector indicator code,false,"Allowed values: EG.ELC.ACCS.ZS, EG.ELC.ACCS.RU.ZS, EG.ELC.ACCS.UR.ZS, EG.ELC.HYRO.ZS, EG.ELC.NGAS.ZS, EG.ELC.PETR.ZS, EG.ELC.COAL.ZS, EG.ELC.NUCL.ZS, EG.ELC.RNWX.ZS, EG.ELC.LOSS.ZS, EG.USE.ELEC.KH.PC, EG.FEC.RNEW.ZS"
+indicator_name,string,Human-readable standard name of the energy indicator,false,
+year,integer,Calendar observation year,false,"Min: 1990, Max: 2024"
+value,number,Recorded numerical value for the given indicator and year,false,"Min: 0"
+unit,string,Standardized measurement unit (e.g. percent_of_population, percent_of_total_electricity, kwh_per_capita),false,
